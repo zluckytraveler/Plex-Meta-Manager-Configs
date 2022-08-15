@@ -1,0 +1,14 @@
+######################################################
+#                TOP 100 - KIDS SHOWS                #
+######################################################
+
+
+collections:
+  Top 100 Shows - Kids:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Top%20100/Top%20100.png
+    sort_title: 02-Top 100
+    collection_order: custom
+    sync_mode: sync
+    imdb_list: https://www.imdb.com/search/title/?title_type=tv_series,tv_miniseries&user_rating=6.0,&num_votes=1000,&genres=family&languages=en&sort=user_rating,desc
+    limit: 100
+    visible_library: true

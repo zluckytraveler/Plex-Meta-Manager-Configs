@@ -1,0 +1,23 @@
+######################################################
+#               RECENTS - SPORTS/EVENTS              #
+######################################################
+
+
+collections:
+  Recently Added Events:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Recently/Recently%20Added.png
+    sort_title: 00-Recently Added
+    smart_filter:
+      sort_by: added.desc
+      all:
+        added: 30
+    visible_library: true
+        
+  Recently Released Events:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Recently/Recently%20Released.png
+    sort_title: 00-Recently Released
+    smart_filter:
+      sort_by: release.desc
+      all:
+        release: 60
+    visible_library: true

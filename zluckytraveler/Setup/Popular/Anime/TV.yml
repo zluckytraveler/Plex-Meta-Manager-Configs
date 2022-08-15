@@ -1,0 +1,14 @@
+######################################################
+#                POPULAR - ANIME SHOWS               #
+######################################################
+
+
+collections:
+  Popular Shows - Anime:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Shows.png
+    sort_title: 01-Popular
+    collection_order: custom
+    sync_mode: sync
+    anilist_popular: 1000
+    limit: 50
+    visible_library: true

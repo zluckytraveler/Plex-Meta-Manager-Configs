@@ -1,0 +1,18 @@
+######################################################
+#                POPULAR - KIDS MOVIE                #
+######################################################
+
+
+collections:
+  Popular Movies - Kids:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Movies.png
+    sort_title: 01-Popular Movies
+    collection_order: custom
+    sync_mode: sync
+    tmdb_discover:
+      certification_country: US
+      certification.lte: PG
+      sort_by: popularity.desc
+      limit: 500
+    limit: 50
+    visible_library: true

@@ -1,0 +1,43 @@
+######################################################
+#          OVERLAYS - 4K HDR & DOLBY VISION          #
+######################################################
+
+
+collections: 
+  4K-HDR:
+    plex_search:
+      all:
+        resolution: 4K
+        hdr: true
+    filters:
+      has_dolby_vision: false
+    item_overlay:
+      name: 4K-HDR
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Creations/4K-HDR.png
+    build_collection: false
+    #revert_overlay: true
+    
+  4K-UHD:
+    plex_search:
+      all:
+        resolution: 4K
+        hdr: false
+    filters:
+      has_dolby_vision: false
+    item_overlay:
+      name: 4K-UHD
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Stock/4K-UHD.png
+    build_collection: false
+    #revert_overlay: true
+    
+  4K-DV:
+    plex_search:
+      all:
+        resolution: 4K
+    filters:
+      has_dolby_vision: true
+    item_overlay: 
+      name: 4K-DV
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Creations/4K-DV.png
+    build_collection: false
+    #revert_overlay: true

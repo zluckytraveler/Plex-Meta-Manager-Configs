@@ -1,0 +1,14 @@
+######################################################
+#                TRENDING - ANIME MOVIES             #
+######################################################
+
+
+collections:
+  Trending Movies - Anime:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Trending/Trending%20Movies.png
+    sort_title: 01-Trending
+    collection_order: custom
+    sync_mode: sync
+    anilist_trending: 1500
+    limit: 50
+    visible_library: true

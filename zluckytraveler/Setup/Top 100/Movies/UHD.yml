@@ -1,0 +1,15 @@
+######################################################
+#                 TOP 100 - UHD MOVES                #
+######################################################
+
+
+collections:
+  Top 100 Movies - UHD:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Top%20100/Top%20100.png
+    sort_title: 02-Top 100
+    collection_order: custom
+    sync_mode: sync
+    imdb_list:
+      url: https://www.imdb.com/search/title/?title_type=feature&user_rating=7.5,10.0&num_votes=50000,&languages=en&sort=user_rating,desc
+    limit: 100
+    visible_library: true
