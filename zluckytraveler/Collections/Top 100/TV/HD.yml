@@ -1,0 +1,18 @@
+######################################################
+#                 TOP 100 - HD SHOWS                 #
+######################################################
+
+
+collections:
+  Top 100 Shows:
+    schedule: monthly(1)
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Top%20100/Top%20100.png
+    sort_title: 02-Top 100
+    collection_order: custom
+    sync_mode: sync
+    imdb_list: 
+      url: https://www.imdb.com/search/title/?title_type=tv_series,tv_miniseries&user_rating=6.5,&num_votes=20000,&languages=en&sort=user_rating,desc
+    limit: 100
+    visible_home: true
+    visible_shared: true
+    visible_library: true

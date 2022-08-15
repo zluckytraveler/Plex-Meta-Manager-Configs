@@ -1,0 +1,15 @@
+######################################################
+#                  BEST OF ALL TIME                  #
+######################################################
+
+
+collections:
+  Best of All Time:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/All%20Time.png
+    sort_title: 04-Best of All Time
+    smart_filter:
+      sort_by: audience_rating.desc
+      all:
+        year.gte: 1900
+        year.lte: 2030
+      limit: 100

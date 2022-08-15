@@ -1,0 +1,16 @@
+######################################################
+#                TRENDING - HD MOVIES                #
+######################################################
+
+
+collections:
+  Trending Movies:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Trending/Trending%20Movies.png
+    sort_title: 01-Trending Movies
+    collection_order: custom
+    sync_mode: sync
+    tmdb_trending_daily: 500
+    limit: 50
+    visible_home: true
+    visible_shared: true
+    visible_library: true

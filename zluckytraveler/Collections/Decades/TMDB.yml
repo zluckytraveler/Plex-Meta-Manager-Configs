@@ -1,0 +1,115 @@
+######################################################
+#                      DECADES                       #
+######################################################
+
+
+collections:
+  1930's:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1930.png
+    sort_title: 04-1930
+    collection_order: custom
+    sync_mode: sync
+    tmdb_discover:
+      sort_by: vote_average.desc
+      release_date.gte: 01/01/1930
+      release_date.lte: 12/31/1939
+      limit: 100
+      
+  1940's:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1940.png
+    sort_title: 04-1940
+    collection_order: custom
+    sync_mode: sync
+    tmdb_discover:
+      sort_by: vote_average.desc
+      release_date.gte: 01/01/1940
+      release_date.lte: 12/31/1949
+      limit: 100
+      
+  1950's:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1950.png
+    sort_title: 04-1950
+    collection_order: custom
+    sync_mode: sync
+    tmdb_discover:
+      sort_by: vote_average.desc
+      release_date.gte: 01/01/1950
+      release_date.lte: 12/31/1959
+      limit: 100
+      
+  1960's:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1960.png
+    sort_title: 04-1960
+    collection_order: custom
+    sync_mode: sync
+    tmdb_discover:
+      sort_by: vote_average.desc
+      release_date.gte: 01/01/1960
+      release_date.lte: 12/31/1969
+      limit: 100
+      
+  1970's:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1970.png
+    sort_title: 04-1970
+    collection_order: custom
+    sync_mode: sync
+    tmdb_discover:
+      sort_by: vote_average.desc
+      release_date.gte: 01/01/1970
+      release_date.lte: 12/31/1979
+      limit: 100
+      
+  1980's:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1980.png
+    sort_title: 04-1980
+    collection_order: custom
+    sync_mode: sync
+    tmdb_discover:
+      sort_by: vote_average.desc
+      release_date.gte: 01/01/1980
+      release_date.lte: 12/31/1989
+      limit: 100
+      
+  1990's:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1990.png
+    sort_title: 04-1990
+    collection_order: custom
+    sync_mode: sync
+    tmdb_discover:
+      sort_by: vote_average.desc
+      release_date.gte: 01/01/1990
+      release_date.lte: 12/31/1999
+      limit: 100
+      
+  2000's:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/2000.png
+    sort_title: 04-2000
+    collection_order: custom
+    sync_mode: sync
+    tmdb_discover:
+      sort_by: vote_average.desc
+      release_date.gte: 01/01/2000
+      release_date.lte: 12/31/2009
+      limit: 100
+      
+  2010's:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/2010.png
+    sort_title: 04-2010
+    collection_order: custom
+    sync_mode: sync
+    tmdb_discover:
+      sort_by: vote_average.desc
+      release_date.gte: 01/01/2010
+      release_date.lte: 12/31/2019
+      limit: 100
+      
+  2020's:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/2020.png
+    sort_title: 04-2020
+    collection_order: custom
+    sync_mode: sync
+    tmdb_discover:
+      sort_by: vote_average.desc
+      release_date.gte: 01/01/2020
+      release_date.lte: 12/31/2029
+      limit: 100

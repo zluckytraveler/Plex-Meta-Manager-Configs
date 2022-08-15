@@ -1,0 +1,15 @@
+######################################################
+#                TOP 100 - ANIME SHOWS               #
+######################################################
+
+
+collections:
+  Top 100 Shows - Anime:
+    schedule: monthly(1)
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Top%20100/Top%20100.png
+    sort_title: 02-Top 100
+    collection_order: custom
+    sync_mode: sync
+    anilist_top_rated: 1500
+    limit: 100
+    visible_library: true

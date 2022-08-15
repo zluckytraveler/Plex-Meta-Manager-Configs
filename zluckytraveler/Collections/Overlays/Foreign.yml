@@ -1,0 +1,34 @@
+######################################################
+#                 OVERLAYS - FOREIGN                 #
+######################################################
+
+collections: 
+  4K-HDR:
+    schedule: weekly(Friday)
+    plex_search:
+      all:
+        resolution: 4K
+        hdr: true
+    filters:
+      filepath:
+      - Indian4K
+    item_overlay: 
+      name: 4K-HDR
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Creations/4K-HDR.png
+    build_collection: false
+    #revert_overlay: true
+    
+  4K-UHD:
+    schedule: weekly(Friday)
+    plex_search:
+      all:
+        resolution: 4K
+        hdr: false
+    filters:
+      filepath:
+      - Indian4K
+    item_overlay: 
+      name: 4K
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Stock/4K-UHD.png
+    build_collection: false
+    #revert_overlay: true  

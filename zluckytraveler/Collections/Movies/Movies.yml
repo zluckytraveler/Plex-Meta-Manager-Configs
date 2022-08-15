@@ -1,0 +1,276 @@
+######################################################
+#                  MOVIE COLLECTIONS                 #
+######################################################
+
+templates:
+  Collection:
+    optional:
+      - collection
+      - movie
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    sync_mode: sync
+    collection_order: title
+collections:
+  28 Days/Weeks Later:
+    template: {name: Collection, collection: 1565}
+    name_mapping: 28 Days-Weeks Later
+  "300":
+    template: {name: Collection, collection: 125570}
+  Alien:
+    template: {name: Collection, collection: "8091, 135416"}
+  American Pie:
+    template: {name: Collection, collection: "2806, 298820"}
+  Ant-Man:
+    template: {name: Collection, collection: 422834}
+  Austin Powers:
+    template: {name: Collection, collection: 1006}
+  The Avengers:
+    template: {name: Collection, collection: 86311}
+  AVP:
+    template: {name: Collection, collection: 115762}
+  Back to the Future:
+    template: {name: Collection, collection: 264}
+  Bad Boys:
+    template: {name: Collection, collection: 14890}
+  Batman:
+    template: {name: Collection, collection: 120794}
+  Blade:
+    template: {name: Collection, collection: 735}
+  Blade Runner:
+    template: {name: Collection, collection: 422837}
+  Borat:
+    template: {name: Collection, collection: 747168}
+  The Bourne:
+    template: {name: Collection, collection: 31562}
+  Captain America:
+    template: {name: Collection, collection: 131295}
+  Cars:
+    template: {name: Collection, collection: 87118}
+  Charlie's Angels:
+    template: {name: Collection, collection: 86029}
+  The Chronicles of Narnia:
+    template: {name: Collection, collection: 420}
+  The Chronicles of Riddick:
+    template: {name: Collection, collection: 2794}
+  Clash of the Titans:
+    template: {name: Collection, collection: 86780}
+  Cloverfield:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls021933730/
+  Creed:
+    template: {name: Collection, collection: 553717}
+  Crocodile Dundee:
+    template: {name: Collection, collection: 9332}
+  Daddy's Home:
+    template: {name: Collection, collection: 473971}
+  The Dark Knight:
+    template: {name: Collection, collection: 263}
+  Deadpool:
+    template: {name: Collection, collection: 448150, movie: 567604}
+  Death Race:
+    template: {name: Collection, collection: 86116}
+  Despicable Me:
+    template: {name: Collection, collection: "86066, 544669"}
+  Die Hard:
+    template: {name: Collection, collection: 1570}
+  Divergent:
+    template: {name: Collection, collection: 283579}
+  A Dog's Purpose:
+    template: {name: Collection, collection: 591028}
+  Dumb and Dumber:
+    template: {name: Collection, collection: 96665}
+  The Equalizer:
+    template: {name: Collection, collection: 523855}
+  Escape From ...:
+    template: {name: Collection, collection: 115838}
+    name_mapping: Escape From
+  Escape Plan:
+    template: {name: Collection, collection: 525891}
+  The Expendables:
+    template: {name: Collection, collection: 126125}
+  Fallen:
+    template: {name: Collection, collection: 386534}
+  Fantastic Beasts:
+    template: {name: Collection, collection: 435259}
+  Fantastic Four:
+    template: {name: Collection, collection: 9744}
+  The Fast and the Furious:
+    template: {name: Collection, collection: "9485, 688042"}
+  Fifty Shades:
+    template: {name: Collection, collection: 344830}
+  Final Destination:
+    template: {name: Collection, collection: 8864}
+  Finding Nemo:
+    template: {name: Collection, collection: 137697}
+  Friday:
+    template: {name: Collection, collection: 43563}
+  Friday the 13th:
+    template: {name: Collection, collection: 9735, movie: "6466, 222724"}
+  G.I. Joe:
+    template: {name: Collection, collection: 135468}
+  Ghostbusters:
+    template: {name: Collection, collection: 2980, movie: 43074}
+  The Godfather:
+    template: {name: Collection, collection: 230}
+  Guardians of the Galaxy:
+    template: {name: Collection, collection: 284433}
+  Halloween:
+    template: {name: Collection, collection: "91361, 126209"}
+  The Hangover:
+    template: {name: Collection, collection: 86119}
+  Harold & Kumar:
+    template: {name: Collection, collection: 30663}
+  Harry Potter:
+    template: {name: Collection, collection: 1241}
+    name_mapping: Has Fallen
+  The Hobbit:
+    template: {name: Collection, collection: 121938}
+  Home Alone:
+    template: {name: Collection, collection: 9888}
+  The Hunger Games:
+    template: {name: Collection, collection: 131635}
+  The Incredibles:
+    template: {name: Collection, collection: 468222}
+  Independence Day:
+    template: {name: Collection, collection: 304378}
+  Indiana Jones:
+    template: {name: Collection, collection: 84}
+  Ip Man:
+    template: {name: Collection, collection: 70068, movie: "658009, 643413, 450001, 751391, 44249, 182127, 44865"}
+    collection_order: alpha
+  Iron Man:
+    template: {name: Collection, collection: 131292}
+  James Bond:
+    template: {name: Collection, collection: 645}
+  Jaws:
+    template: {name: Collection, collection: 2366}
+  Jay and Silent Bob:
+    template: {name: Collection, collection: 726870}
+  John Wick:
+    template: {name: Collection, collection: 404609}
+  Jumanji:
+    template: {name: Collection, collection: 495527}
+  Jump Street:
+    template: {name: Collection, collection: 212562}
+  Jurassic Park:
+    template: {name: Collection, collection: 328, movie: 630322}
+  The Karate Kid:
+    template: {name: Collection, collection: 8580, movie: 38575}
+  Kill Bill:
+    template: {name: Collection, collection: 2883}
+  Kingsman:
+    template: {name: Collection, collection: 391860}
+  Kung Fu Panda:
+    template: {name: Collection, collection: 77816}
+  Lethal Weapon:
+    template: {name: Collection, collection: 945}
+  The Lion King:
+    template: {name: Collection, collection: 94032}
+  The Lord of the Rings:
+    template: {name: Collection, collection: 119}
+  Mad Max:
+    template: {name: Collection, collection: 8945}
+  Madagascar:
+    template: {name: Collection, collection: 14740, movie: "161143, 25472, 270946"}
+  The Matrix:
+    template: {name: Collection, collection: 2344}
+  The Maze Runner:
+    template: {name: Collection, collection: 295130}
+  Meet the Parents:
+    template: {name: Collection, collection: 51509}
+  Men In Black:
+    template: {name: Collection, collection: 86055}
+  Mission: Impossible:
+    template: {name: Collection, collection: 87359}
+    name_mapping: Mission Impossible
+  Monsters, Inc.:
+    template: {name: Collection, collection: 137696}
+  The Mummy:
+    template: {name: Collection, collection: 1733}
+  National Treasure:
+    template: {name: Collection, collection: 52984}
+  Night at the Museum:
+    template: {name: Collection, collection: 85943}
+  Now You See Me:
+    template: {name: Collection, collection: 382685}
+  Ocean's:
+    template: {name: Collection, collection: 304}
+  Percy Jackson:
+    template: {name: Collection, collection: 179919}
+  Pirates of the Caribbean:
+    template: {name: Collection, collection: 295}
+  Planet of the Apes:
+    template: {name: Collection, collection: 173710}
+  Predator:
+    template: {name: Collection, collection: 399}
+  The Princess Diaries:
+    template: {name: Collection, collection: 107674}
+  The Purge:
+    template: {name: Collection, collection: 256322}
+  Rambo:
+    template: {name: Collection, collection: 5039}
+  Resident Evil:
+    template: {name: Collection, collection: 17255}
+  Robert Langdon:
+    template: {name: Collection, collection: 115776}
+  RoboCop:
+    template: {name: Collection, collection: 5547}
+  Rocky:
+    template: {name: Collection, collection: 1575}
+  Rush Hour:
+    template: {name: Collection, collection: 90863}
+  Saw:
+    template: {name: Collection, collection: 656}
+  Scary Movie:
+    template: {name: Collection, collection: 4246}
+  Scream:
+    template: {name: Collection, collection: 2602}
+  Shrek:
+    template: {name: Collection, collection: 2150}
+  Silent Hill:
+    template: {name: Collection, collection: 64748}
+  Spider-Man:
+    template: {name: Collection, collection: "556, 531241, 125574"}
+  "Star Trek: Alternate Reality":
+    template: {name: Collection, collection: 115575}
+    name_mapping: Star Trek Alternate Reality
+  "Star Trek: The Next Generation":
+    template: {name: Collection, collection: 115570}
+    name_mapping: Star Trek The Next Generation
+  "Star Wars":
+    template: {name: Collection, collection: 10}
+    name_mapping: Star Wars Skywalker Saga
+  "Star Wars: Legends":
+    template: {name: Collection}
+    tmdb_movie: 348350, 330459
+    name_mapping: Star Wars Legends
+  Taken:
+    template: {name: Collection, collection: 135483}
+  Ted:
+    template: {name: Collection, collection: 266672}
+  The Terminator:
+    template: {name: Collection, collection: 528}
+  Texas Chainsaw Massacre:
+    template: {name: Collection, collection: "111751, 425175"}
+  Thor:
+    template: {name: Collection, collection: 131296}
+  Tomb Raider:
+    template: {name: Collection, collection: "2467, 621142"}
+  Toy Story:
+    template: {name: Collection, collection: 10194, movie: 130925}
+  Transformers:
+    template: {name: Collection, collection: 8650}
+  The Transporter:
+    template: {name: Collection, collection: 9518}
+  Unbreakable:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls022101006/
+  Underworld:
+    template: {name: Collection, collection: 2326}
+  Wonder Woman:
+    template: {name: Collection, collection: 468552}
+  X-Men:
+    template: {name: Collection, collection: "748, 453993, 448150", movie: 567604}
+  xXx:
+    template: {name: Collection, collection: 52785}
