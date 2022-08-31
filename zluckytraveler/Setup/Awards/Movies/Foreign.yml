@@ -59,7 +59,7 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: 
-    - https://letterboxd.com/moviejohn/list/filmfare-awards-hindi-every-film-ever-to/by/name/
+    - https://letterboxd.com/apsmog/list/filmfare-awards-hindi-every-film-ever-to/by/name/
     - https://letterboxd.com/rukhaiyaaramrit/list/filmfare-critics-award-for-best-film/by/name/
     visible_library: true
     
