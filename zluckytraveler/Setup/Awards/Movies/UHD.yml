@@ -17,7 +17,7 @@ collections:
     sort_title: 03-Awards Berlinale
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: https://letterboxd.com/peterstanley/list/berlin-international-film-festival-golden/by/name/
+    letterboxd_list: https://letterboxd.com/moviewithus/list/berlin-film-festival-winners/by/name/
     visible_library: true
     
   Cannes Film Festival Winners - UHD:
@@ -46,6 +46,7 @@ collections:
     sync_mode: sync
     letterboxd_list: 
     - https://letterboxd.com/ra_pha/list/european-film-awards/by/name/
+    - https://letterboxd.com/reysol/list/european-film-award-for-best-film-1988-2021/by/name/
     - https://letterboxd.com/moviedoc/list/european-film-award-best-documentary-winners/by/name/
     - https://letterboxd.com/moviedoc/list/european-film-award-best-animated-feature/by/name/
     - https://letterboxd.com/moviedoc/list/european-film-award-best-comedy-winners-2013/by/name/
