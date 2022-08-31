@@ -18,7 +18,7 @@ collections:
     sort_title: 03-Awards Berlinale
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: https://letterboxd.com/hassan1/list/berlinale/by/name/
+    letterboxd_list: https://letterboxd.com/peterstanley/list/berlin-international-film-festival-golden/by/name/
     visible_library: true
     
   Cannes Film Festival Winners - DV:
