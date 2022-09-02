@@ -4,7 +4,7 @@
 
 
 collections: 
-  Recently Added Shows:
+  Recently Added:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Recently/Recently%20Added.png
     sort_title: 00-Recently Added
     smart_filter:
@@ -13,7 +13,7 @@ collections:
         added: 30
     visible_library: true
         
-  Recently Released Shows:
+  Recently Released:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Recently/Recently%20Released.png
     sort_title: 00-Recently Released
     smart_filter:
@@ -22,7 +22,7 @@ collections:
         release: 60
     visible_library: true
         
-  Recently Aired Episodes:
+  Recently Aired:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Recently/Recently%20Aired.png
     sort_title: 00-Recently Aired
     smart_filter:
