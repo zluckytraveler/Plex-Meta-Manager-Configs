@@ -11,8 +11,9 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     imdb_list: https://www.imdb.com/list/ls538625886/?sort=alpha
-    visible_shared: true
     visible_library: true
+    visible_shared: true
+    visible_home: true
     
   Critics Choice Award Winners:
     schedule: monthly(1)
@@ -22,8 +23,9 @@ collections:
     sync_mode: sync
     trakt_list: https://trakt.tv/users/fdamico/lists/critics-choice-series?sort=title,asc
     imdb_list: https://www.imdb.com/list/ls538625146/?sort=alpha
-    visible_shared: true
     visible_library: true
+    visible_shared: true
+    visible_home: true
     
   Emmy Winners:
     schedule: monthly(1)
@@ -33,8 +35,9 @@ collections:
     sync_mode: sync
     imdb_list: 
       url: https://www.imdb.com/search/title/?title_type=tv_series,tv_episode,tv_special,tv_miniseries,video,tv_short,podcast_series,podcast_episode,music_video&groups=emmy_winner&sort=alpha,asc
-    visible_shared: true
     visible_library: true
+    visible_shared: true
+    visible_home: true
     
   Golden Globe Winners:
     schedule: monthly(1)
@@ -44,5 +47,6 @@ collections:
     sync_mode: sync
     imdb_list: 
       url: https://www.imdb.com/search/title/?title_type=tv_series,tv_miniseries&groups=golden_globe_winner&sort=alpha,asc
-    visible_shared: true
     visible_library: true
+    visible_shared: true
+    visible_home: true
