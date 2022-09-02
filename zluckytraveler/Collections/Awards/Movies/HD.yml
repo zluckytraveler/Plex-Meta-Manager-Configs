@@ -11,8 +11,9 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: https://letterboxd.com/rantonucci/list/baftas-best-film-outstanding-british-film/by/name/
-    visible_shared: true
     visible_library: true
+    visible_shared: true
+    visible_home: true
     
   Berlinale Winners:
     schedule: monthly(1)
@@ -21,8 +22,9 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: https://letterboxd.com/moviewithus/list/berlin-film-festival-winners/by/name/
-    visible_shared: true
     visible_library: true
+    visible_shared: true
+    visible_home: true
     
   Cannes Film Festival Winners:
     schedule: monthly(1)
@@ -33,8 +35,9 @@ collections:
     letterboxd_list: 
     - https://letterboxd.com/moviewithus/list/cannes-winners/by/name/
     - https://letterboxd.com/deepbluefunk/list/short-film-winners-cannes/by/name/
-    visible_shared: true
     visible_library: true
+    visible_shared: true
+    visible_home: true
     
   Emmy Winners:
     schedule: monthly(1)
@@ -44,8 +47,9 @@ collections:
     sync_mode: sync
     imdb_list: 
       url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=emmy_winner&sort=alpha,asc
-    visible_shared: true
     visible_library: true
+    visible_shared: true
+    visible_home: true
     
   European Film Award Winners:
     schedule: monthly(1)
@@ -60,8 +64,9 @@ collections:
     - https://letterboxd.com/moviedoc/list/european-film-award-best-animated-feature/by/name/
     - https://letterboxd.com/moviedoc/list/european-film-award-best-comedy-winners-2013/by/name/
     - https://letterboxd.com/moviedoc/list/european-film-awards-best-film-winners-1988/by/name/
-    visible_shared: true
     visible_library: true
+    visible_shared: true
+    visible_home: true
     
   Golden Globe Winners:
     schedule: monthly(1)
@@ -71,8 +76,9 @@ collections:
     sync_mode: sync
     imdb_list: 
       url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=golden_globe_winner&sort=alpha,asc
-    visible_shared: true
     visible_library: true
+    visible_shared: true
+    visible_home: true
     
   Locarno Film Festival Winners:
     schedule: monthly(1)
@@ -86,8 +92,9 @@ collections:
     - https://letterboxd.com/drwade42/list/locarno-best-director-winners-ranked/by/name/
     - https://letterboxd.com/drwade42/list/locarno-best-actor-winners-ranked/by/name/
     - https://letterboxd.com/drwade42/list/locarno-best-actress-winners-ranked/by/name/
-    visible_shared: true
     visible_library: true
+    visible_shared: true
+    visible_home: true
     
   Oscar Winners:
     schedule: monthly(1)
@@ -97,8 +104,9 @@ collections:
     sync_mode: sync
     imdb_list: 
       url: https://www.imdb.com/search/title/?groups=oscar_winner&sort=alpha,asc
-    visible_shared: true
     visible_library: true
+    visible_shared: true
+    visible_home: true
     
   Sundance Winners:
     schedule: monthly(1)
@@ -110,8 +118,9 @@ collections:
     - https://letterboxd.com/neperfectionist/list/sundance-film-festival-winners-us-dramatic/by/name/
     - https://letterboxd.com/deepbluefunk/list/sundance-short-film-winners/by/name/
     - https://letterboxd.com/glicose/list/winners-of-sundance/by/name/
-    visible_shared: true
     visible_library: true
+    visible_shared: true
+    visible_home: true
     
   Venice Film Festival Winners:
     schedule: monthly(1)
@@ -120,5 +129,6 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: https://letterboxd.com/moviewithus/list/venice-winners/by/name/
-    visible_shared: true
     visible_library: true
+    visible_shared: true
+    visible_home: true
