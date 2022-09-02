@@ -11,6 +11,6 @@ collections:
     sync_mode: sync
     tmdb_trending_daily: 500
     limit: 50
-    visible_home: true
-    visible_shared: true
     visible_library: true
+    visible_shared: true
+    visible_home: true
