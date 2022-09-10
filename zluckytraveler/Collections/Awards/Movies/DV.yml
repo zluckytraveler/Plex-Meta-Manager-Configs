@@ -64,8 +64,7 @@ collections:
     sort_title: 03-Awards Golden Globes
     collection_order: custom
     sync_mode: sync
-    imdb_list: 
-      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=golden_globe_winner&sort=alpha,asc
+    letterboxd_list: https://letterboxd.com/jonny5244/list/golden-globe-winners/by/name/
     visible_library: true
       
   Locarno Film Festival Winners - DV:
@@ -88,8 +87,7 @@ collections:
     sort_title: 03-Awards Oscars
     collection_order: custom
     sync_mode: sync
-    imdb_list: 
-      url: https://www.imdb.com/search/title/?groups=oscar_winner&sort=alpha,asc
+    letterboxd_list: https://letterboxd.com/floorman/list/every-oscar-winner-ever-1/by/name/
     visible_library: true
       
   Sundance Winners - DV:
