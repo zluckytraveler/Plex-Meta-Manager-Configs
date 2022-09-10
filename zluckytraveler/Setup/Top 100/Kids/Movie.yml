@@ -9,6 +9,6 @@ collections:
     sort_title: 02-Top 100
     collection_order: custom
     sync_mode: sync
-    imdb_list: https://www.imdb.com/search/title/?title_type=feature&user_rating=6.0,&num_votes=5000,&genres=family&certificates=US%3AG,US%3APG&languages=en&sort=user_rating,desc
+    mdblist_list: https://mdblist.com/lists/zluckytraveler/top-100-movies-kids/
     limit: 100
     visible_library: true
