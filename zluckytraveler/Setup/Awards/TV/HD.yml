@@ -41,8 +41,11 @@ collections:
     sort_title: 03-Awards Golden Globes
     collection_order: custom
     sync_mode: sync
+    trakt_list:
+    - https://trakt.tv/users/pd_review/lists/golden-globes-best-tv-drama?sort=title,desc
+    - https://trakt.tv/users/pd_review/lists/golden-globes-best-tv-comedy-musical?sort=title,desc
     imdb_list: 
-      url: https://www.imdb.com/search/title/?title_type=tv_series,tv_miniseries&groups=golden_globe_winner&sort=alpha,asc
+      url: https://www.imdb.com/search/title/?title_type=tv_series,tv_special,tv_miniseries,tv_short&groups=golden_globe_winner&sort=alpha,asc
     visible_library: true
     visible_shared: true
     visible_home: true
