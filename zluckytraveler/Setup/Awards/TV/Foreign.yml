@@ -24,7 +24,7 @@ collections:
   Emmy Winners - Foreign:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
     sort_title: 03-Awards Emmy
-    collection_order: custom
+    collection_order: title.asc
     sync_mode: sync
     imdb_list: 
       url: https://www.imdb.com/search/title/?title_type=tv_series,tv_episode,tv_special,tv_miniseries,video,tv_short,podcast_series,podcast_episode,music_video&groups=emmy_winner&sort=alpha,asc
@@ -33,11 +33,11 @@ collections:
   Golden Globe Winners - Foreign:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
     sort_title: 03-Awards Golden Globes
-    collection_order: custom
+    collection_order: title.asc
     sync_mode: sync
     trakt_list:
-    - https://trakt.tv/users/pd_review/lists/golden-globes-best-tv-drama?sort=title,desc
-    - https://trakt.tv/users/pd_review/lists/golden-globes-best-tv-comedy-musical?sort=title,desc
+    - https://trakt.tv/users/pd_review/lists/golden-globes-best-tv-drama?sort=title,asc
+    - https://trakt.tv/users/pd_review/lists/golden-globes-best-tv-comedy-musical?sort=title,asc
     imdb_list: 
       url: https://www.imdb.com/search/title/?title_type=tv_series,tv_miniseries&groups=golden_globe_winner&sort=alpha,asc
     visible_library: true
