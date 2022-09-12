@@ -7,7 +7,7 @@ overlays:
   Background:
     plex_all: true
     overlay:
-      name: BlackBar
+      name: Background
       vertical_align: top
       
   480p:
