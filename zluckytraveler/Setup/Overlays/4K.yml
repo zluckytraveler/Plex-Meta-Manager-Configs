@@ -1,0 +1,22 @@
+######################################################
+#                    OVERLAYS - 4K                   #
+######################################################
+
+
+overlays:
+  4K-UHD:
+    plex_all: true
+    overlay: 
+      name: 4K-UHD
+      url: 
+
+  4K-HDR:
+    suppress_overlays:
+      - 4K-UHD
+    plex_search:
+      all:
+        resolution: 4K
+        hdr: true
+    overlay: 
+      name: 4K-HDR
+      url: 
