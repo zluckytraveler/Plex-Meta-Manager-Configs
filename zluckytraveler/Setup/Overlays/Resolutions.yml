@@ -4,6 +4,12 @@
 
 
 overlays:
+  Background:
+    plex_all: true
+    overlay:
+      name: BlackBar
+      vertical_align: top
+      
   480p:
     plex_search:
       any:
@@ -14,6 +20,10 @@ overlays:
       name: 480p
       group: Resolution
       weight: 10
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
       url: 
   
   576p:
@@ -24,6 +34,10 @@ overlays:
       name: 576p
       group: Resolution
       weight: 20
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
       url:     
       
   720p:
@@ -34,9 +48,13 @@ overlays:
       name: 720p
       group: Resolution
       weight: 30
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
       url: 
   
-    1080p:
+  1080p:
     plex_search:
       any:
         resolution: 
@@ -46,6 +64,10 @@ overlays:
       name: 1080p
       group: Resolution
       weight: 40
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
       url: 
       
   1080p-HDR:
@@ -60,6 +82,10 @@ overlays:
       name: 1080p-HDR
       group: Resolution
       weight: 50
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
       url: 
       
   4K-UHD:
@@ -70,6 +96,10 @@ overlays:
       name: 4K-UHD
       group: Resolution
       weight: 60
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
       url: 
 
   4K-HDR:
@@ -81,4 +111,8 @@ overlays:
       name: 4K-HDR
       group: Resolution
       weight: 70
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
       url:
