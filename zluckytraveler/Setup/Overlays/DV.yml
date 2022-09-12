@@ -1,0 +1,8 @@
+overlays: 
+  4K-DV:
+    overlay:
+      url: 
+    plex_search:
+      all:
+        resolution: 4K
+        has_dolby_vision: true
