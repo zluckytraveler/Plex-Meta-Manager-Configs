@@ -1,0 +1,84 @@
+######################################################
+#                    OVERLAYS - 4K                   #
+######################################################
+
+
+overlays:
+  480p:
+    plex_search:
+      any:
+        resolution: 
+        - 480p
+        - SD
+    overlay: 
+      name: 480p
+      group: Resolution
+      weight: 10
+      url: 
+  
+  576p:
+    plex_search:
+      all:
+        resolution: 576p
+    overlay: 
+      name: 576p
+      group: Resolution
+      weight: 20
+      url:     
+      
+  720p:
+    plex_search:
+      all:
+        resolution: 720p
+    overlay: 
+      name: 720p
+      group: Resolution
+      weight: 30
+      url: 
+  
+    1080p:
+    plex_search:
+      any:
+        resolution: 
+        - 1080p
+        - 2K
+    overlay: 
+      name: 1080p
+      group: Resolution
+      weight: 40
+      url: 
+      
+  1080p-HDR:
+    plex_search:
+      all:
+        any:
+          resolution: 
+          - 1080p
+          - 2K
+        hdr: true
+    overlay: 
+      name: 1080p-HDR
+      group: Resolution
+      weight: 50
+      url: 
+      
+  4K-UHD:
+    plex_search:
+      all:
+        resolution: 4K
+    overlay: 
+      name: 4K-UHD
+      group: Resolution
+      weight: 60
+      url: 
+
+  4K-HDR:
+    plex_search:
+      all:
+        resolution: 4K
+        hdr: true
+    overlay: 
+      name: 4K-HDR
+      group: Resolution
+      weight: 70
+      url:
