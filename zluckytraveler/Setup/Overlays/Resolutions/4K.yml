@@ -6,17 +6,27 @@
 overlays:
   4K-UHD:
     plex_all: true
-    overlay: 
+    overlay:
       name: 4K-UHD
+      group: Resolution-4K
+      weight: 10
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-UHD.png
 
   4K-HDR:
-    suppress_overlays:
-      - 4K-UHD
     plex_search:
       all:
         resolution: 4K
         hdr: true
     overlay: 
       name: 4K-HDR
+      group: Resolution-4K
+      weight: 20
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-HDR.png
