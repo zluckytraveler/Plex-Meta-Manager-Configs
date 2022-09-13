@@ -13,3 +13,102 @@ overlays:
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Background/600x105%20Transparent.png
+        
+  480p:
+    plex_search:
+      any:
+        resolution: 
+        - 480p
+        - SD
+      validate: false
+    overlay: 
+      name: 480P
+      group: Resolution-HD
+      weight: 10
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/480P.png
+  
+  576p:
+    plex_search:
+      all:
+        resolution: 576p
+      validate: false
+    overlay: 
+      name: 576P
+      group: Resolution-HD
+      weight: 20
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/576P.png
+      
+  720p:
+    plex_search:
+      all:
+        resolution: 720p
+      validate: false
+    overlay: 
+      name: 720P
+      group: Resolution-HD
+      weight: 30
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/720P.png
+  
+  720-HDR:
+    plex_search:
+      all:
+        resolution: 720p
+        hdr: true
+      validate: false
+    overlay: 
+      name: 720P-HDR
+      group: Resolution-HD
+      weight: 30
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/720P-HDR.png
+      
+  1080p:
+    plex_search:
+      any:
+        resolution: 
+        - 1080p
+        - 2K
+      validate: false
+    overlay: 
+      name: 1080P
+      group: Resolution-HD
+      weight: 40
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P.png
+      
+  1080p-HDR:
+    plex_search:
+      all:
+        any:
+          resolution: 
+          - 1080p
+          - 2K
+        hdr: true
+      validate: false
+    overlay: 
+      name: 1080P-HDR
+      group: Resolution-HD
+      weight: 50
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P-HDR.png
