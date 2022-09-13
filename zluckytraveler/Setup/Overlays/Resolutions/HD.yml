@@ -9,6 +9,7 @@ overlays:
     overlay:
       name: Background
       vertical_align: top
+      horizontal_align: center
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Background/600x105%20Transparent.png
       
   480p:
