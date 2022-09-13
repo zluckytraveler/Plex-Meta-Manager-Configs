@@ -9,7 +9,7 @@ overlays:
     #overlay:
       #name: Background
       #vertical_align: top
-      #url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Background/Background.png
+      #url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Background/600x105%20Transparent.png
       
   Opus:
     plex_all:
@@ -19,7 +19,7 @@ overlays:
       name: Opus
       group: Audio
       weight: 10
-      horizontal_offset: 10
+      horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
@@ -33,7 +33,7 @@ overlays:
       name: MP3
       group: Audio
       weight: 10
-      horizontal_offset: 20
+      horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
