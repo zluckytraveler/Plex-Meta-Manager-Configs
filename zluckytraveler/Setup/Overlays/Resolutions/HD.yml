@@ -27,7 +27,6 @@ overlays:
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/480P.png
-      validate: false
   
   576p:
     plex_search:
