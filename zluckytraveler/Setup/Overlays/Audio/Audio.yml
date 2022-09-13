@@ -28,7 +28,7 @@ overlays:
   MP3:
     plex_all:
     filters:
-      filepath.regex: '(?i)\bmp3(\b|\d)'
+      filepath.regex: '(?i)\bmp[1-3](\b|\d))'
     overlay:
       name: MP3
       group: Audio
