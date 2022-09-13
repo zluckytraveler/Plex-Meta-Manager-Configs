@@ -20,7 +20,7 @@ overlays:
       group: Audio
       weight: 10
       horizontal_offset: 10
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Opus.png
@@ -34,7 +34,7 @@ overlays:
       group: Audio
       weight: 10
       horizontal_offset: 20
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/MP3.png
@@ -48,7 +48,7 @@ overlays:
       group: Audio
       weight: 30
       horizontal_offset: 500
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/AAC.png
@@ -62,7 +62,7 @@ overlays:
       group: Audio
       weight: 40
       horizontal_offset: 500
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-Digital.png
@@ -76,7 +76,7 @@ overlays:
       group: Audio
       weight: 50
       horizontal_offset: 500
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/AAC.png
@@ -90,7 +90,7 @@ overlays:
       group: Audio
       weight: 60
       horizontal_offset: 500
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS.png
@@ -104,7 +104,7 @@ overlays:
       group: Audio
       weight: 70
       horizontal_offset: 500
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS-ES.png
@@ -118,7 +118,7 @@ overlays:
       group: Audio
       weight: 80
       horizontal_offset: 500
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-Digital-Plus.png
@@ -132,7 +132,7 @@ overlays:
       group: Audio
       weight: 90
       horizontal_offset: 500
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS-HD-HRA.png
@@ -146,7 +146,7 @@ overlays:
       group: Audio
       weight: 100
       horizontal_offset: 500
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/PCM.png
@@ -160,7 +160,7 @@ overlays:
       group: Audio
       weight: 110
       horizontal_offset: 500
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/FLAC.png
@@ -174,7 +174,7 @@ overlays:
       group: Audio
       weight: 120
       horizontal_offset: 500
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS-HD-MA.png
@@ -188,7 +188,7 @@ overlays:
       group: Audio
       weight: 130
       horizontal_offset: 500
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-TrueHD.png
@@ -202,7 +202,7 @@ overlays:
       group: Audio
       weight: 140
       horizontal_offset: 500
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-Digital-Plus-Atmos.png
@@ -216,7 +216,7 @@ overlays:
       group: Audio
       weight: 150
       horizontal_offset: 500
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Atmos.png
@@ -230,7 +230,7 @@ overlays:
       group: Audio
       weight: 160
       horizontal_offset: 500
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS-X.png
@@ -244,7 +244,7 @@ overlays:
       group: Audio
       weight: 170
       horizontal_offset: 500
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-TrueHD-Atmos.png
