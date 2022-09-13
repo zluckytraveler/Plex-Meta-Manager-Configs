@@ -1,0 +1,104 @@
+######################################################
+#                    OVERLAYS - HD                   #
+######################################################
+
+
+overlays:
+  #Background:
+    #plex_all: true
+    #overlay:
+      #name: Background
+      #vertical_align: top
+      
+  480p:
+    plex_search:
+      any:
+        resolution: 
+        - 480p
+        - SD
+    overlay: 
+      name: 480p
+      group: Resolution
+      weight: 10
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
+      url: 
+  
+  576p:
+    plex_search:
+      all:
+        resolution: 576p
+    overlay: 
+      name: 576p
+      group: Resolution
+      weight: 20
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
+      url:     
+      
+  720p:
+    plex_search:
+      all:
+        resolution: 720p
+    overlay: 
+      name: 720p
+      group: Resolution
+      weight: 30
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
+      url: 
+  
+  720-HDR:
+    plex_search:
+      all:
+        resolution: 720p
+        hdr: true
+    overlay: 
+      name: 720p-HDR
+      group: Resolution
+      weight: 30
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
+      url:
+      
+  1080p:
+    plex_search:
+      any:
+        resolution: 
+        - 1080p
+        - 2K
+    overlay: 
+      name: 1080p
+      group: Resolution
+      weight: 40
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
+      url: 
+      
+  1080p-HDR:
+    plex_search:
+      all:
+        any:
+          resolution: 
+          - 1080p
+          - 2K
+        hdr: true
+    overlay: 
+      name: 1080p-HDR
+      group: Resolution
+      weight: 50
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
+      url: 
