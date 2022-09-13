@@ -108,6 +108,9 @@ overlays:
     plex_search: 
       all:
         resolution: 4K
+    filters:
+      filepath:
+      - Indian4K
     overlay:
       name: 4K-UHD
       group: Resolution-HD-4K
@@ -123,6 +126,9 @@ overlays:
       all:
         resolution: 4K
         hdr: true
+    filters:
+      filepath:
+      - Indian4K
     overlay: 
       name: 4K-HDR
       group: Resolution-HD-4K
