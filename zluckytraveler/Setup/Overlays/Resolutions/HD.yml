@@ -17,7 +17,7 @@ overlays:
         - 480p
         - SD
     overlay: 
-      name: 480p
+      name: 480P
       group: Resolution
       weight: 10
       horizontal_offset: 195
@@ -31,7 +31,7 @@ overlays:
       all:
         resolution: 576p
     overlay: 
-      name: 576p
+      name: 576P
       group: Resolution
       weight: 20
       horizontal_offset: 195
@@ -45,7 +45,7 @@ overlays:
       all:
         resolution: 720p
     overlay: 
-      name: 720p
+      name: 720P
       group: Resolution
       weight: 30
       horizontal_offset: 195
@@ -60,7 +60,7 @@ overlays:
         resolution: 720p
         hdr: true
     overlay: 
-      name: 720p-HDR
+      name: 720P-HDR
       group: Resolution
       weight: 30
       horizontal_offset: 195
@@ -76,7 +76,7 @@ overlays:
         - 1080p
         - 2K
     overlay: 
-      name: 1080p
+      name: 1080P
       group: Resolution
       weight: 40
       horizontal_offset: 195
@@ -94,7 +94,7 @@ overlays:
           - 2K
         hdr: true
     overlay: 
-      name: 1080p-HDR
+      name: 1080P-HDR
       group: Resolution
       weight: 50
       horizontal_offset: 195
