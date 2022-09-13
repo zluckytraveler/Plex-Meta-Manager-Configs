@@ -19,7 +19,7 @@ overlays:
         - SD
     overlay: 
       name: 480P
-      group: Resolution-HD
+      group: Resolution-HD-4K
       weight: 10
       horizontal_offset: 195
       horizontal_align: left
@@ -33,7 +33,7 @@ overlays:
         resolution: 576p
     overlay: 
       name: 576P
-      group: Resolution-HD
+      group: Resolution-HD-4K
       weight: 20
       horizontal_offset: 195
       horizontal_align: left
@@ -47,7 +47,7 @@ overlays:
         resolution: 720p
     overlay: 
       name: 720P
-      group: Resolution-HD
+      group: Resolution-HD-4K
       weight: 30
       horizontal_offset: 195
       horizontal_align: left
@@ -62,7 +62,7 @@ overlays:
         hdr: true
     overlay: 
       name: 720P-HDR
-      group: Resolution-HD
+      group: Resolution-HD-4K
       weight: 30
       horizontal_offset: 195
       horizontal_align: left
@@ -78,7 +78,7 @@ overlays:
         - 2K
     overlay: 
       name: 1080P
-      group: Resolution-HD
+      group: Resolution-HD-4K
       weight: 40
       horizontal_offset: 195
       horizontal_align: left
@@ -96,7 +96,7 @@ overlays:
         hdr: true
     overlay: 
       name: 1080P-HDR
-      group: Resolution-HD
+      group: Resolution-HD-4K
       weight: 50
       horizontal_offset: 195
       horizontal_align: left
@@ -110,8 +110,8 @@ overlays:
         resolution: 4K
     overlay:
       name: 4K-UHD
-      group: Resolution-4K
-      weight: 10
+      group: Resolution-HD-4K
+      weight: 60
       horizontal_offset: 195
       horizontal_align: left
       vertical_offset: 0
@@ -125,8 +125,8 @@ overlays:
         hdr: true
     overlay: 
       name: 4K-HDR
-      group: Resolution-4K
-      weight: 20
+      group: Resolution-HD-4K
+      weight: 70
       horizontal_offset: 195
       horizontal_align: left
       vertical_offset: 0
