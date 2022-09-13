@@ -17,6 +17,7 @@ overlays:
         resolution: 
         - 480p
         - SD
+      validate: false
     overlay: 
       name: 480P
       group: Resolution-HD
@@ -26,11 +27,13 @@ overlays:
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/480P.png
+      validate: false
   
   576p:
     plex_search:
       all:
         resolution: 576p
+      validate: false
     overlay: 
       name: 576P
       group: Resolution-HD
@@ -45,6 +48,7 @@ overlays:
     plex_search:
       all:
         resolution: 720p
+      validate: false
     overlay: 
       name: 720P
       group: Resolution-HD
@@ -60,6 +64,7 @@ overlays:
       all:
         resolution: 720p
         hdr: true
+      validate: false
     overlay: 
       name: 720P-HDR
       group: Resolution-HD
@@ -76,6 +81,7 @@ overlays:
         resolution: 
         - 1080p
         - 2K
+      validate: false
     overlay: 
       name: 1080P
       group: Resolution-HD
@@ -94,6 +100,7 @@ overlays:
           - 1080p
           - 2K
         hdr: true
+      validate: false
     overlay: 
       name: 1080P-HDR
       group: Resolution-HD
