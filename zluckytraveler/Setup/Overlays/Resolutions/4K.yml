@@ -19,14 +19,6 @@ overlays:
 #                    OVERLAYS - 4K                   #
 ######################################################
 
-
-overlays:
-  #Background:
-    #plex_all: true
-    #overlay:
-      #name: Background
-      #vertical_align: top
-      #url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Background/Background.png
       
   4K-UHD:
     plex_all: true
