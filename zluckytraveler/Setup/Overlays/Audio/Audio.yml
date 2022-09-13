@@ -14,7 +14,7 @@ overlays:
   Opus:
     plex_all:
       filters:
-        audio_track_title.regex: '(?i)\bOPUS(\b|\d)'
+        filepath.regex: '(?i)\bOPUS(\b|\d)'
     overlay:
       name: Opus
       group: Audio
@@ -28,7 +28,7 @@ overlays:
   MP3:
     plex_all:
       filters:
-        audio_track_title.regex: '(?i)\bmp3(\b|\d)'
+        filepath.regex: '(?i)\bmp3(\b|\d)'
     overlay:
       name: MP3
       group: Audio
@@ -42,7 +42,7 @@ overlays:
   AAC 2.0:
     plex_all:
       filters:
-        audio_track_title.regex: '(?i)(?=.*(\baac[ .]?stereo\b))|(?=.*(\baac[ .]2[ .]0\b))'
+        filepath.regex: '(?i)(?=.*(\baac[ .]?stereo\b))|(?=.*(\baac[ .]2[ .]0\b))'
     overlay:
       name: AAC 2.0
       group: Audio
@@ -56,7 +56,7 @@ overlays:
   Dolby Digital:
     plex_all:
       filters:
-        audio_track_title.regex: '(?i)\bDD[^a-z+]|(?<!e)ac3'
+        filepath.regex: '(?i)\bDD[^a-z+]|(?<!e)ac3'
     overlay:
       name: Dolby Digital
       group: Audio
@@ -70,7 +70,7 @@ overlays:
   AAC:
     plex_all:
       filters:
-        audio_track_title.regex: '(?i)^(?!.*(stereo|2[ .]0))(?=.*\b(aac(\b|\d))).*'
+        filepath.regex: '(?i)^(?!.*(stereo|2[ .]0))(?=.*\b(aac(\b|\d))).*'
     overlay:
       name: AAC Multi
       group: Audio
@@ -84,7 +84,7 @@ overlays:
   DTS:
     plex_all:
       filters:
-        audio_track_title.regex: '(?i)\bDTS(\b|\d)'
+        filepath.regex: '(?i)\bDTS(\b|\d)'
     overlay:
       name: DTS
       group: Audio
@@ -98,7 +98,7 @@ overlays:
   DTS-ES:
     plex_all:
       filters:
-        audio_track_title.regex: 'dts[-. ]?es\b'
+        filepath.regex: 'dts[-. ]?es\b'
     overlay:
       name: DTS-ES
       group: Audio
@@ -112,7 +112,7 @@ overlays:
   Dolby Digital+:
     plex_all:
       filters:
-        audio_track_title.regex: '(?i)^(?!.*(atmos))(?=.*\b([^-]DD[P+](?!A)|eac3)\b).*'
+        filepath.regex: '(?i)^(?!.*(atmos))(?=.*\b([^-]DD[P+](?!A)|eac3)\b).*'
     overlay:
       name: Dolby Digital+
       group: Audio
@@ -126,7 +126,7 @@ overlays:
   DTS-HD HRA:
     plex_all:
       filters:
-        audio_track_title.regex: '(?i)dts[ ._-]?(hd[. ]?)?(hr|hi)'
+        filepath.regex: '(?i)dts[ ._-]?(hd[. ]?)?(hr|hi)'
     overlay:
       name: DTS-HD HRA
       group: Audio
@@ -140,7 +140,7 @@ overlays:
   PCM:
     plex_all:
       filters:
-        audio_track_title.regex: '(?i)\b(l?)PCM(\b|\d)'
+        filepath.regex: '(?i)\b(l?)PCM(\b|\d)'
     overlay:
       name: PCM
       group: Audio
@@ -154,7 +154,7 @@ overlays:
   FLAC:
     plex_all:
       filters:
-        audio_track_title.regex: '(?i)\bFLAC(\b|\d)'
+        filepath.regex: '(?i)\bFLAC(\b|\d)'
     overlay:
       name: FLAC
       group: Audio
@@ -168,7 +168,7 @@ overlays:
   DTS-HD MA:
     plex_all:
       filters:
-        audio_track_title.regex: '(?i)dts[ .-]?(ma\b|hd[ .-]?ma|hd)(?!china|r)'
+        filepath.regex: '(?i)dts[ .-]?(ma\b|hd[ .-]?ma|hd)(?!china|r)'
     overlay:
       name: DTS-HD MA
       group: Audio
@@ -182,7 +182,7 @@ overlays:
   Dolby TrueHD:
     plex_all:
       filters:
-        audio_track_title.regex: '(?i)^(?!.*(atmos))(?=.*\b(true[ .-]?hd)\b).*'
+        filepath.regex: '(?i)^(?!.*(atmos))(?=.*\b(true[ .-]?hd)\b).*'
     overlay:
       name: Dolby TrueHD
       group: Audio
@@ -196,7 +196,7 @@ overlays:
   Dolby Digital+ Atmos:
     plex_all:
       filters:
-        audio_track_title.regex: '(?i)((?=.*([^-]DD[P+](?!A)|eac3))(?=.*\b(atmos(\b|\d))))|(?=.*\b(DDPA(\b|\d)))'
+        filepath.regex: '(?i)((?=.*([^-]DD[P+](?!A)|eac3))(?=.*\b(atmos(\b|\d))))|(?=.*\b(DDPA(\b|\d)))'
     overlay:
       name: Dolby Digital+ Atmos
       group: Audio
@@ -210,7 +210,7 @@ overlays:
   Dolby Atmos:
     plex_all:
       filters:
-        audio_track_title.regex: '(?i)^(?!.*([^-]DD[P+](?!A)|eac3|true[ .-]?hd))(?=.*\b(atmos(\b|\d))).*'
+        filepath.regex: '(?i)^(?!.*([^-]DD[P+](?!A)|eac3|true[ .-]?hd))(?=.*\b(atmos(\b|\d))).*'
     overlay:
       name: Dolby Atmos
       group: Audio
@@ -224,7 +224,7 @@ overlays:
   DTS-X:
     plex_all:
       filters:
-        audio_track_title.regex: 'dts[-. ]?x(?!\d)'
+        filepath.regex: 'dts[-. ]?x(?!\d)'
     overlay:
       name: DTS-X
       group: Audio
@@ -238,7 +238,7 @@ overlays:
   Dolby TrueHD Atmos:
     plex_all:
       filters:
-        audio_track_title.regex: '(?i)(?=.*\b(true[ .-]?hd))(?=.*\b(atmos(\b|\d)))'
+        filepath.regex: '(?i)(?=.*\b(true[ .-]?hd))(?=.*\b(atmos(\b|\d)))'
     overlay:
       name: Dolby TrueHD Atmos
       group: Audio
