@@ -4,12 +4,12 @@
 
 
 overlays:
-  #Background:
-    #plex_all: true
-    #overlay:
-      #name: Background
-      #vertical_align: top
-      #url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Background/Background.png
+  Background:
+    plex_all: true
+    overlay:
+      name: Background
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Background/600x105%20Transparent.png
       
   480p:
     plex_search:
