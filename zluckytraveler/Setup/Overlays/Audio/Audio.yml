@@ -12,7 +12,7 @@ overlays:
       #url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Background/600x105%20Transparent.png
       
   Opus:
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex: '(?i)\bOPUS(\b|\d)'
     overlay:
@@ -26,7 +26,7 @@ overlays:
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Opus.png
       
   MP3:
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex: '(?i)\bmp[1-3](\b|\d))'
     overlay:
@@ -40,7 +40,7 @@ overlays:
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/MP3.png
       
   AAC 2.0:
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex: '(?i)(?=.*(\baac[ .]?stereo\b))|(?=.*(\baac[ .]2[ .]0\b))'
     overlay:
@@ -54,7 +54,7 @@ overlays:
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/AAC.png
       
   Dolby Digital:
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex: '(?i)\bDD[^a-z+]|(?<!e)ac3'
     overlay:
@@ -68,7 +68,7 @@ overlays:
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-Digital.png
       
   AAC:
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex: '(?i)^(?!.*(stereo|2[ .]0))(?=.*\b(aac(\b|\d))).*'
     overlay:
@@ -82,7 +82,7 @@ overlays:
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/AAC.png
       
   DTS:
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex: '(?i)\bDTS(\b|\d)'
     overlay:
@@ -96,7 +96,7 @@ overlays:
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS.png
       
   DTS-ES:
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex: 'dts[-. ]?es\b'
     overlay:
@@ -110,7 +110,7 @@ overlays:
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS-ES.png
       
   Dolby Digital+:
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex: '(?i)^(?!.*(atmos))(?=.*\b([^-]DD[P+](?!A)|eac3)\b).*'
     overlay:
@@ -124,7 +124,7 @@ overlays:
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-Digital-Plus.png
       
   DTS-HD HRA:
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex: '(?i)dts[ ._-]?(hd[. ]?)?(hr|hi)'
     overlay:
@@ -138,7 +138,7 @@ overlays:
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS-HD-HRA.png
       
   PCM:
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex: '(?i)\b(l?)PCM(\b|\d)'
     overlay:
@@ -152,7 +152,7 @@ overlays:
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/PCM.png
       
   FLAC:
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex: '(?i)\bFLAC(\b|\d)'
     overlay:
@@ -166,7 +166,7 @@ overlays:
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/FLAC.png
       
   DTS-HD MA:
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex: '(?i)dts[ .-]?(ma\b|hd[ .-]?ma|hd)(?!china|r)'
     overlay:
@@ -180,7 +180,7 @@ overlays:
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS-HD-MA.png
       
   Dolby TrueHD:
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex: '(?i)^(?!.*(atmos))(?=.*\b(true[ .-]?hd)\b).*'
     overlay:
@@ -194,7 +194,7 @@ overlays:
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-TrueHD.png
       
   Dolby Digital+ Atmos:
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex: '(?i)((?=.*([^-]DD[P+](?!A)|eac3))(?=.*\b(atmos(\b|\d))))|(?=.*\b(DDPA(\b|\d)))'
     overlay:
@@ -208,7 +208,7 @@ overlays:
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-Digital-Plus-Atmos.png
       
   Dolby Atmos:
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex: '(?i)^(?!.*([^-]DD[P+](?!A)|eac3|true[ .-]?hd))(?=.*\b(atmos(\b|\d))).*'
     overlay:
@@ -222,7 +222,7 @@ overlays:
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Atmos.png
       
   DTS-X:
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex: 'dts[-. ]?x(?!\d)'
     overlay:
@@ -236,7 +236,7 @@ overlays:
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS-X.png
       
   Dolby TrueHD Atmos:
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex: '(?i)(?=.*\b(true[ .-]?hd))(?=.*\b(atmos(\b|\d)))'
     overlay:
