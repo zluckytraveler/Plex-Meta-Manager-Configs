@@ -28,7 +28,7 @@ overlays:
   MP3:
     plex_all: true
     filters:
-      audio_track_title.regex: '(?i)\bmp[1-3](\b|\d))'
+      audio_track_title.regex: '(?i)\bmp[1-3](\b|\d)'
     overlay:
       name: MP3
       group: Audio
