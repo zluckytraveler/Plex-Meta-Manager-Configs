@@ -24,7 +24,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: 
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/480P.png
   
   576p:
     plex_search:
@@ -38,7 +38,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url:     
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/576P.png
       
   720p:
     plex_search:
@@ -52,7 +52,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: 
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/720P.png
   
   720-HDR:
     plex_search:
@@ -67,7 +67,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url:
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/720P-HDR.png
       
   1080p:
     plex_search:
@@ -83,7 +83,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: 
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P.png
       
   1080p-HDR:
     plex_search:
@@ -101,4 +101,4 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: 
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P-HDR.png
