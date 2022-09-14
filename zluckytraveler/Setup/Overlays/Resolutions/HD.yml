@@ -102,7 +102,7 @@ overlays:
           - 1080p
           - 2K
         hdr: true
-      validate: false
+        validate: false
     overlay: 
       name: 1080P-HDR
       group: Resolution-HD
