@@ -20,12 +20,43 @@ overlays:
 ######################################################
 
       
+  1080p:
+    plex_search:
+      any:
+        resolution.regex: '(?i)1080|2k'
+    overlay:
+      name: 1080p
+      group: Resolution-4K
+      weight: 10
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P-HDR.png
+
+  1080p-HDR:
+    plex_search:
+      all:
+        resolution.regex: '(?i)1080|2k'
+        hdr: true
+    overlay:
+      name: 1080p-HDR
+      group: Resolution-4K
+      weight: 20
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P-HDR.png
+
   4K-UHD:
-    plex_all: true
+    plex_search:
+      any:
+        resolution.regex: '(?i)2160|4k'
     overlay:
       name: 4K-UHD
       group: Resolution-4K
-      weight: 10
+      weight: 40
       horizontal_offset: 195
       horizontal_align: left
       vertical_offset: 0
@@ -35,13 +66,12 @@ overlays:
   4K-HDR:
     plex_search:
       all:
-        resolution: 4K
+        resolution.regex: '(?i)2160|4k'
         hdr: true
-      validate: false
-    overlay: 
+    overlay:
       name: 4K-HDR
       group: Resolution-4K
-      weight: 20
+      weight: 80
       horizontal_offset: 195
       horizontal_align: left
       vertical_offset: 0
@@ -53,7 +83,7 @@ overlays:
 #                  OVERLAYS - AUDIO                  #
 ######################################################
 
-     
+
   Opus:
     plex_all: true
     filters:
@@ -85,7 +115,7 @@ overlays:
   AAC 2.0:
     plex_all: true
     filters:
-      audio_track_title.regex: '(?i)(?=.*(\baac[ .]?stereo\b))|(?=.*(\baac[ .]2[ .]0\b))'
+      audio_track_title.regex: '(?i)^(stereo|(?!.*(stereo|2[ .]0))(?=.*\b(aac(\b|\d)))).*'
     overlay:
       name: AAC 2.0
       group: Audio
@@ -211,7 +241,7 @@ overlays:
   DTS-HD MA:
     plex_all: true
     filters:
-      audio_track_title.regex: '(?i)dts[ .-]?(ma\b|hd[ .-]?ma|hd)(?!china|r)'
+      audio_track_title.regex: '(?i)dca|dts[ .-]?(ma\b|hd[ .-]?ma|hd)(?!china|r)'
     overlay:
       name: DTS-HD MA
       group: Audio
