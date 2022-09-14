@@ -28,7 +28,7 @@ overlays:
           - 1080p
           - 2K
         has_dolby_vision: true
-      validate: false
+        validate: false
     overlay:
       name: 1080p-DV
       group: Resolution-DV
