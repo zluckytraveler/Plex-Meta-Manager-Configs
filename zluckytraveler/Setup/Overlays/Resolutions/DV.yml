@@ -2,7 +2,7 @@
 #              OVERLAYS - DOLBY VISION               #
 ######################################################
 
-      
+overlays:     
   1080p-DV:
     plex_search:
       all:
