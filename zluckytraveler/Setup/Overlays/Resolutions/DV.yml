@@ -34,7 +34,7 @@ overlays:
     horizontal_align: left
     vertical_offset: 0
     vertical_align: top
-    url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P-DV.png
+    url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080p-DV.png
 
   4K-DV:
     plex_search:
