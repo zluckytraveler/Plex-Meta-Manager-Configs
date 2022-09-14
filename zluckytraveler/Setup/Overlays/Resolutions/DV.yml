@@ -23,36 +23,34 @@ overlays:
   1080p-DV:
     plex_search:
       all:
-        any:
-          resolution:
-          - 1080p
-          - 2K
-        has_dolby_vision: true
-        validate: false
+        resolution.regex: '(?i)1080|2k'
+    filters:
+      has_dolby_vision: true
     overlay:
-      name: 1080p-DV
-      group: Resolution-DV
-      weight: 10
-      horizontal_offset: 195
-      horizontal_align: left
-      vertical_offset: 0
-      vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P-DV.png
-        
+    name: 1080p-DV
+    group: Resolution-DV
+    weight: 10
+    horizontal_offset: 195
+    horizontal_align: left
+    vertical_offset: 0
+    vertical_align: top
+    url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P-DV.png
+
   4K-DV:
     plex_search:
       all:
-        resolution: 4K
-        has_dolby_vision: true
-      overlay:
-        name: 4K-DV
-        group: Resolution-DV
-        weight: 20
-        horizontal_offset: 195
-        horizontal_align: left
-        vertical_offset: 0
-        vertical_align: top
-        url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-DV.png
+        resolution.regex: '(?i)2160|4k'
+    filters:
+      has_dolby_vision: true
+    overlay:
+    name: 4K-DV
+    group: Resolution-DV
+    weight: 30
+    horizontal_offset: 195
+    horizontal_align: left
+    vertical_offset: 0
+    vertical_align: top
+    url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-DV.png
 
         
 ######################################################
