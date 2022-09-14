@@ -7,8 +7,6 @@ overlays:
     plex_all: true
       overlay:
         name: 4K-DV
-        group: Resolution-DV
-        weight: 20
         horizontal_offset: 195
         horizontal_align: left
         vertical_offset: 0
