@@ -5,7 +5,7 @@
 overlays:     
   4K-DV:
     plex_all: true
-     overlay:
+    overlay:
       name: 4K-DV
       horizontal_offset: 195
       horizontal_align: left
