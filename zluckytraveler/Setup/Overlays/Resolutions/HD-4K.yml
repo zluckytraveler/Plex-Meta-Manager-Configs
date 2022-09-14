@@ -70,7 +70,7 @@ overlays:
     overlay: 
       name: 720p-HDR
       group: Resolution-HD
-      weight: 30
+      weight: 40
       horizontal_offset: 195
       horizontal_align: left
       vertical_offset: 0
@@ -84,7 +84,7 @@ overlays:
     overlay:
       name: 1080p
       group: Resolution-4K
-      weight: 10
+      weight: 50
       horizontal_offset: 195
       horizontal_align: left
       vertical_offset: 0
@@ -99,7 +99,7 @@ overlays:
     overlay:
       name: 1080p-HDR
       group: Resolution-4K
-      weight: 20
+      weight: 60
       horizontal_offset: 195
       horizontal_align: left
       vertical_offset: 0
@@ -116,7 +116,7 @@ overlays:
     overlay:
       name: 4K-UHD
       group: Resolution-4K
-      weight: 40
+      weight: 70
       horizontal_offset: 195
       horizontal_align: left
       vertical_offset: 0
