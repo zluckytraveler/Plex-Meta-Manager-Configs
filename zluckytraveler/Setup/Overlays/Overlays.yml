@@ -171,7 +171,7 @@ overlays:
   Dolby Digital:
     plex_all: true
     filters:
-      audio_track_title.regex: '(?i)\bDD[^a-z+]|(?<!e)ac?-3'
+      audio_track_title.regex: '(?i)\bDD[^a-z+]|(?<!e)ac-?3'
     overlay:
       name: Dolby Digital
       group: Audio
