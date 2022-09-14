@@ -3,14 +3,6 @@
 ######################################################
 
 
-overlays:
-  #Background:
-    #plex_all: true
-    #overlay:
-      #name: Background
-      #vertical_align: top
-      #url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Background/600x105%20Transparent.png
-      
   Opus:
     plex_all: true
     filters:
@@ -18,7 +10,7 @@ overlays:
     overlay:
       name: Opus
       group: Audio
-      weight: 10
+      weight: 25
       horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
@@ -32,7 +24,7 @@ overlays:
     overlay:
       name: MP3
       group: Audio
-      weight: 10
+      weight: 50
       horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
@@ -42,11 +34,11 @@ overlays:
   AAC 2.0:
     plex_all: true
     filters:
-      audio_track_title.regex: '(?i)(?=.*(\baac[ .]?stereo\b))|(?=.*(\baac[ .]2[ .]0\b))'
+      audio_track_title.regex: '(?i)^(stereo|(?!.*(stereo|2[ .]0))(?=.*\b(aac(\b|\d)))).*'
     overlay:
       name: AAC 2.0
       group: Audio
-      weight: 30
+      weight: 70
       horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
@@ -56,11 +48,11 @@ overlays:
   Dolby Digital:
     plex_all: true
     filters:
-      audio_track_title.regex: '(?i)\bDD[^a-z+]|(?<!e)ac3'
+      audio_track_title.regex: '(?i)\bDD[^a-z+]|(?<!e)ac-?3'
     overlay:
       name: Dolby Digital
       group: Audio
-      weight: 40
+      weight: 75
       horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
@@ -74,7 +66,7 @@ overlays:
     overlay:
       name: AAC Multi
       group: Audio
-      weight: 50
+      weight: 100
       horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
@@ -88,7 +80,7 @@ overlays:
     overlay:
       name: DTS
       group: Audio
-      weight: 60
+      weight: 125
       horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
@@ -102,7 +94,7 @@ overlays:
     overlay:
       name: DTS-ES
       group: Audio
-      weight: 70
+      weight: 150
       horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
@@ -116,7 +108,7 @@ overlays:
     overlay:
       name: Dolby Digital+
       group: Audio
-      weight: 80
+      weight: 175
       horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
@@ -130,7 +122,7 @@ overlays:
     overlay:
       name: DTS-HD HRA
       group: Audio
-      weight: 90
+      weight: 200
       horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
@@ -144,7 +136,7 @@ overlays:
     overlay:
       name: PCM
       group: Audio
-      weight: 100
+      weight: 220
       horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
@@ -158,7 +150,7 @@ overlays:
     overlay:
       name: FLAC
       group: Audio
-      weight: 110
+      weight: 225
       horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
@@ -168,11 +160,11 @@ overlays:
   DTS-HD MA:
     plex_all: true
     filters:
-      audio_track_title.regex: '(?i)dts[ .-]?(ma\b|hd[ .-]?ma|hd)(?!china|r)'
+      audio_track_title.regex: '(?i)dca|dts[ .-]?(ma\b|hd[ .-]?ma|hd)(?!china|r)'
     overlay:
       name: DTS-HD MA
       group: Audio
-      weight: 120
+      weight: 250
       horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
@@ -186,7 +178,7 @@ overlays:
     overlay:
       name: Dolby TrueHD
       group: Audio
-      weight: 130
+      weight: 275
       horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
@@ -200,7 +192,7 @@ overlays:
     overlay:
       name: Dolby Digital+ Atmos
       group: Audio
-      weight: 140
+      weight: 300
       horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
@@ -214,7 +206,7 @@ overlays:
     overlay:
       name: Dolby Atmos
       group: Audio
-      weight: 150
+      weight: 300
       horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
@@ -228,7 +220,7 @@ overlays:
     overlay:
       name: DTS-X
       group: Audio
-      weight: 160
+      weight: 450
       horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
@@ -242,7 +234,7 @@ overlays:
     overlay:
       name: Dolby TrueHD Atmos
       group: Audio
-      weight: 170
+      weight: 500
       horizontal_offset: 500
       horizontal_align: left
       vertical_offset: 0
