@@ -24,6 +24,7 @@ overlays:
     plex_search:
       any:
         resolution.regex: '(?i)480|sd'
+      validate: false
     overlay: 
       name: 480p
       group: Resolution-HD
@@ -38,6 +39,7 @@ overlays:
     plex_search:
       any:
         resolution.regex: '(?i)576'
+      validate: false
     overlay: 
       name: 576p
       group: Resolution-HD
@@ -52,6 +54,7 @@ overlays:
     plex_search:
       any:
         resolution.regex: '(?i)720|hd'
+      validate: false
     overlay: 
       name: 720p
       group: Resolution-HD
@@ -67,6 +70,7 @@ overlays:
       all:
         resolution.regex: '(?i)720|hd'
         hdr: true
+      validate: false
     overlay: 
       name: 720p-HDR
       group: Resolution-HD
@@ -81,6 +85,7 @@ overlays:
     plex_search:
       any:
         resolution.regex: '(?i)1080|2k'
+      validate: false
     overlay:
       name: 1080p
       group: Resolution-4K
@@ -96,6 +101,7 @@ overlays:
       all:
         resolution.regex: '(?i)1080|2k'
         hdr: true
+      validate: false
     overlay:
       name: 1080p-HDR
       group: Resolution-4K
