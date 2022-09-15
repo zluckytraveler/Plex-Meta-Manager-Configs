@@ -24,6 +24,7 @@ overlays:
     plex_search:
       any:
         resolution.regex: '(?i)1080|2k'
+      validate: false
     overlay:
       name: 1080p
       group: Resolution-4K
@@ -39,6 +40,7 @@ overlays:
       all:
         resolution.regex: '(?i)1080|2k'
         hdr: true
+      validate: false
     overlay:
       name: 1080p-HDR
       group: Resolution-4K
@@ -53,6 +55,7 @@ overlays:
     plex_search:
       any:
         resolution.regex: '(?i)2160|4k'
+      validate: false
     overlay:
       name: 4K-UHD
       group: Resolution-4K
@@ -68,6 +71,7 @@ overlays:
       all:
         resolution.regex: '(?i)2160|4k'
         hdr: true
+      validate: false
     overlay:
       name: 4K-HDR
       group: Resolution-4K
