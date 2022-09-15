@@ -24,6 +24,7 @@ overlays:
     plex_search:
       all:
         resolution.regex: '(?i)1080|2k'
+      validate: false
     filters:
       has_dolby_vision: true
     overlay:
@@ -40,6 +41,7 @@ overlays:
     plex_search:
       all:
         resolution.regex: '(?i)2160|4k'
+      validate: false
     filters:
       has_dolby_vision: true
     overlay:
