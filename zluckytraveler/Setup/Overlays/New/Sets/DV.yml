@@ -110,6 +110,12 @@ overlays:
       audio_track_title.regex:
       - '(?i)(?=.*(\baac[ .]?stereo\b))|(?=.*(\baac[ .]2[ .]0\b))'
       - '(?i)^vorbis|(?!.*(stereo|2[ .]0))(?=.*\b(aac(\b|\d))).*'
+      audio_track_title:
+      - VORBIS
+      - Vorbis
+      - vorbis
+      - AAC
+      - aac
     overlay:
       name: AAC
       group: Audio
