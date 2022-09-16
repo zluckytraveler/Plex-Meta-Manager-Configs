@@ -204,7 +204,7 @@ overlays:
     filters:
       audio_track_title.regex:
       - '(?i)(?=.*(\baac[ .]?stereo\b))|(?=.*(\baac[ .]2[ .]0\b))'
-      - '(?i)vorbis|AAC|^(?!.*(stereo|2[ .]0))(?=.*\b(aac(\b|\d))).*'
+      - '(?i)vorbis|aac|^(?!.*(stereo|2[ .]0))(?=.*\b(aac(\b|\d))).*'
     overlay:
       name: AAC
       group: Audio
