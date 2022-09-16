@@ -206,13 +206,7 @@ overlays:
     filters:
       filepath.regex: 
       - '(?i)(?=.*(\baac[ .]?stereo\b))|(?=.*(\baac[ .]2[ .]0\b))'
-      - '(?i)^(?!.*(stereo|2[ .]0))(?=.*\b(aac(\b|\d))).*'
-      filepath:
-      - AAC2.0
-      - AAC2ch
-      - VORBIS
-      - Vorbis
-      - vorbis
+      - '(?i)^vorbis|(?!.*(stereo|2[ .]0))(?=.*\b(aac(\b|\d))).*'
     overlay:
       name: AAC Filepath
       group: Audio
@@ -228,13 +222,7 @@ overlays:
     filters:
       audio_track_title.regex:
       - '(?i)(?=.*(\baac[ .]?stereo\b))|(?=.*(\baac[ .]2[ .]0\b))'
-      - '(?i)^(?!.*(stereo|2[ .]0))(?=.*\b(aac(\b|\d))).*'
-      audio_track_title:
-      - AAC2.0
-      - AAC2ch
-      - VORBIS
-      - Vorbis
-      - vorbis
+      - '(?i)^vorbis|(?!.*(stereo|2[ .]0))(?=.*\b(aac(\b|\d))).*'
     overlay:
       name: AAC
       group: Audio
