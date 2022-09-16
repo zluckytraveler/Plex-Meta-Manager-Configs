@@ -39,7 +39,7 @@ overlays:
       - '(?i)(?=.*(\baac[ .]?stereo\b))|(?=.*(\baac[ .]2[ .]0\b))'
       - '(?i)^vorbis|(?!.*(stereo|2[ .]0))(?=.*\b(aac(\b|\d))).*'
     overlay:
-      name: AAC Filepath
+      name: AAC
       group: Audio
       weight: 70
       horizontal_offset: 500
