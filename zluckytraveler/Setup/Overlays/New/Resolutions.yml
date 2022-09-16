@@ -150,7 +150,7 @@ overlays:
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-DV.png
       
-  4K-DV:
+  4K-DV Filepath:
     plex_all: true
     filters:
       filepath.regex: '(?i)d(o(lby vision|vi)|v)'
