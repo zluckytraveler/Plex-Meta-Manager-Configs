@@ -32,7 +32,7 @@ overlays:
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/MP3.png
       
-AAC Filepath:
+  AAC Filepath:
     plex_all: true
     filters:
       filepath.regex: 
