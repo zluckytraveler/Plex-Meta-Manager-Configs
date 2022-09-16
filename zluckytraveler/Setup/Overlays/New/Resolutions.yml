@@ -9,7 +9,7 @@ overlays:
         resolution.regex: '(?i)480|sd'
     overlay: 
       name: 480p
-      group: Resolution-HD
+      group: Resolution
       weight: 10
       horizontal_offset: 195
       horizontal_align: left
@@ -23,7 +23,7 @@ overlays:
         resolution.regex: '(?i)576'
     overlay: 
       name: 576p
-      group: Resolution-HD
+      group: Resolution
       weight: 20
       horizontal_offset: 195
       horizontal_align: left
@@ -37,7 +37,7 @@ overlays:
         resolution.regex: '(?i)720|hd'
     overlay: 
       name: 720p
-      group: Resolution-HD
+      group: Resolution
       weight: 30
       horizontal_offset: 195
       horizontal_align: left
@@ -52,7 +52,7 @@ overlays:
         hdr: true
     overlay: 
       name: 720p-HDR
-      group: Resolution-HD
+      group: Resolution
       weight: 40
       horizontal_offset: 195
       horizontal_align: left
@@ -66,7 +66,7 @@ overlays:
         resolution.regex: '(?i)1080|2k'
     overlay:
       name: 1080p
-      group: Resolution-4K
+      group: Resolution
       weight: 50
       horizontal_offset: 195
       horizontal_align: left
@@ -81,7 +81,7 @@ overlays:
         hdr: true
     overlay:
       name: 1080p-HDR
-      group: Resolution-4K
+      group: Resolution
       weight: 60
       horizontal_offset: 195
       horizontal_align: left
@@ -97,7 +97,7 @@ overlays:
       has_dolby_vision: true
     overlay:
       name: 1080p-DV
-      group: Resolution-DV
+      group: Resolution
       weight: 70
       horizontal_offset: 195
       horizontal_align: left
@@ -111,7 +111,7 @@ overlays:
         resolution.regex: '(?i)2160|4k'
     overlay:
       name: 4K-UHD
-      group: Resolution-4K
+      group: Resolution
       weight: 80
       horizontal_offset: 195
       horizontal_align: left
@@ -126,7 +126,7 @@ overlays:
         hdr: true
     overlay:
       name: 4K-HDR
-      group: Resolution-4K
+      group: Resolution
       weight: 90
       horizontal_offset: 195
       horizontal_align: left
@@ -142,7 +142,7 @@ overlays:
       has_dolby_vision: true
     overlay:
       name: 4K-DV
-      group: Resolution-DV
+      group: Resolution
       weight: 100
       horizontal_offset: 195
       horizontal_align: left
@@ -156,7 +156,7 @@ overlays:
       filepath.regex: '(?i)d(o(lby vision|vi)|v)'
     overlay:
       name: 4K-DV
-      group: Resolution-DV
+      group: Resolution
       weight: 100
       horizontal_offset: 195
       horizontal_align: left
