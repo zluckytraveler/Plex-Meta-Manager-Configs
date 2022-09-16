@@ -183,12 +183,12 @@ overlays:
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/MP3.png
   
-  AAC Filepath:
+  AAC:
     plex_all: true
     filters:
-      filepath.regex: 
+      audio_track_title.regex:
       - '(?i)(?=.*(\baac[ .]?stereo\b))|(?=.*(\baac[ .]2[ .]0\b))'
-      - '(?i)vorbis|^(?!.*(stereo|2[ .]0))(?=.*\b(aac(\b|\d))).*'
+      - '(?i)vorbis|aac|^(?!.*(stereo|2[ .]0))(?=.*\b(aac(\b|\d))).*'
     overlay:
       name: AAC
       group: Audio
@@ -199,12 +199,12 @@ overlays:
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/AAC.png
       
-  AAC:
+  AAC Filepath:
     plex_all: true
     filters:
-      audio_track_title.regex:
+      filepath.regex: 
       - '(?i)(?=.*(\baac[ .]?stereo\b))|(?=.*(\baac[ .]2[ .]0\b))'
-      - '(?i)vorbis|aac|^(?!.*(stereo|2[ .]0))(?=.*\b(aac(\b|\d))).*'
+      - '(?i)vorbis|^(?!.*(stereo|2[ .]0))(?=.*\b(aac(\b|\d))).*'
     overlay:
       name: AAC
       group: Audio
