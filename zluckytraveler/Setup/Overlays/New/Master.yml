@@ -170,7 +170,7 @@ overlays:
   4K-DV Filepath:
     plex_all: true
     filters:
-      filepath.regex: '(?i)d(o(lby vision|vi)|v)'
+      filepath.regex: '(?i)^( d(o(lby vision|vi) |v )|.d(o(lby.vision|vi).|v.)|_d(o(lbyvision|vi)|v_)|d(o(lby vision|vi)|v))$'
     overlay:
       name: 4K-DV
       group: Resolution
