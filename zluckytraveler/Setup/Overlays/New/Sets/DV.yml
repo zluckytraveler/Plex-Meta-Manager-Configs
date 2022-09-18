@@ -374,34 +374,6 @@ overlays:
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-Digital-Plus-Atmos.png
       
-  DTS-X:
-    plex_all: true
-    filters:
-      audio_track_title.regex: 'dts[-. ]?x(?!\d)'
-    overlay:
-      name: DTS-X
-      group: Audio
-      weight: 450
-      horizontal_offset: 500
-      horizontal_align: left
-      vertical_offset: 0
-      vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS-X.png
-      
-  DTS-X Filepath:
-    plex_all: true
-    filters:
-      filepath.regex: 'dts[-. ]?x(?!\d)'
-    overlay:
-      name: DTS-X
-      group: Audio
-      weight: 450
-      horizontal_offset: 500
-      horizontal_align: left
-      vertical_offset: 0
-      vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS-X.png
-      
   Dolby TrueHD Atmos:
     plex_all: true
     filters:
