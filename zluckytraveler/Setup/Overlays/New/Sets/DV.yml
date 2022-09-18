@@ -349,7 +349,9 @@ overlays:
   Dolby Digital+ Atmos:
     plex_all: true
     filters:
-      audio_track_title.regex: '(?i)((?=.*([^-]DD[P+](?!A)|eac3))(?=.*\b(atmos(\b|\d))))|(?=.*\b(DDPA(\b|\d)))'
+      audio_track_title.regex: 
+      - '(?i)((?=.*([^-]DD[P+](?!A)|eac3))(?=.*\b(atmos(\b|\d))))|(?=.*\b(DDPA(\b|\d)))'
+      - '(?i)^(?!.*([^-]DD[P+](?!A)|eac3|true[ .-]?hd))(?=.*\b(atmos(\b|\d))).*'
     overlay:
       name: Dolby Digital+ Atmos
       group: Audio
@@ -363,7 +365,9 @@ overlays:
   Dolby Digital+ Atmos Filepath:
     plex_all: true
     filters:
-      filepath.regex: '(?i)((?=.*([^-]DD[P+](?!A)|eac3))(?=.*\b(atmos(\b|\d))))|(?=.*\b(DDPA(\b|\d)))'
+      filepath.regex: 
+      - '(?i)((?=.*([^-]DD[P+](?!A)|eac3))(?=.*\b(atmos(\b|\d))))|(?=.*\b(DDPA(\b|\d)))'
+      - '(?i)^(?!.*([^-]DD[P+](?!A)|eac3|true[ .-]?hd))(?=.*\b(atmos(\b|\d))).*'
     overlay:
       name: Dolby Digital+ Atmos
       group: Audio
