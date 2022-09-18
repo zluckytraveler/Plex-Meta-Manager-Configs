@@ -211,7 +211,7 @@ overlays:
   DTS Filepath:
     plex_all: true
     filters:
-      filepath: '(?i)\bDTS(\b|\d)'
+      filepath.regex: '(?i)\bDTS(\b|\d)'
     overlay:
       name: DTS
       group: Audio
