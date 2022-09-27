@@ -2,6 +2,7 @@
 #                   OVERLAYS - DV                    #
 ######################################################
 
+
 overlays:
   1080p-DV:
     plex_search:
@@ -14,8 +15,8 @@ overlays:
       name: 1080p-DV
       group: Resolution-DV
       weight: 10
-      horizontal_offset: 195
-      horizontal_align: left
+      horizontal_offset: 0
+      horizontal_align: center
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P-DV.png
@@ -31,12 +32,12 @@ overlays:
       name: 4K-DV
       group: Resolution-DV
       weight: 30
-      horizontal_offset: 195
-      horizontal_align: left
+      horizontal_offset: 0
+      horizontal_align: center
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-DV.png
-      
+
   4K-DV Filepath:
     plex_all: true
     filters:
@@ -45,8 +46,8 @@ overlays:
       name: 4K-DV
       group: Resolution-DV
       weight: 30
-      horizontal_offset: 195
-      horizontal_align: left
+      horizontal_offset: 0
+      horizontal_align: center
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-DV.png
