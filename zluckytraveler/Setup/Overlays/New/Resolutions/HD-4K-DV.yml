@@ -1,5 +1,5 @@
 ######################################################
-#                 OVERLAYS - HD/4K                   #
+#                OVERLAYS - HD/4K/DV                 #
 ######################################################
 
 
@@ -96,6 +96,23 @@ overlays:
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P-HDR.png
 
+  1080p-DV:
+    plex_search:
+      all:
+        resolution.regex: '(?i)1080|2k'
+      validate: false
+    filters:
+      has_dolby_vision: true
+    overlay:
+      name: 1080p-DV
+      group: Resolution-DV
+      weight: 10
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P-DV.png
+
   4K-UHD:
     plex_search:
       any:
@@ -132,3 +149,34 @@ overlays:
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-HDR.png
+
+  4K-DV:
+    plex_search:
+      all:
+        resolution.regex: '(?i)2160|4k'
+      validate: false
+    filters:
+      has_dolby_vision: true
+    overlay:
+      name: 4K-DV
+      group: Resolution-DV
+      weight: 30
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-DV.png
+
+  4K-DV Filepath:
+    plex_all: true
+    filters:
+      filepath.regex: '(?i)(\sd(o(lby\svision|vi)\s|v\s)|\.d(o(lby\.vision|vi)\.|v\.)|_d(o(lby_vision|vi)_|v_)|d(o(lby\svision|vi\s)|v\s))'
+    overlay:
+      name: 4K-DV
+      group: Resolution-DV
+      weight: 30
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-DV.png
