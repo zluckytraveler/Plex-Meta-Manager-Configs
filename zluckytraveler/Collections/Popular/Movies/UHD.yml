@@ -5,6 +5,7 @@
 
 collections:
   Popular Movies - UHD:
+    schedule: weekly(Friday)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Movies.png
     sort_title: 01-Popular Movies
     collection_order: custom
