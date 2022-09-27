@@ -5,8 +5,6 @@
 collections:
   4K-DV:
     plex_all: true
-    filters:
-      filepath: TVDV
     item_overlay: 
       name: 4K-Dolby
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Creations/4K-DV.png
