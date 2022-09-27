@@ -1,5 +1,5 @@
 ######################################################
-#                    OVERLAYS - HD                   #
+#                 OVERLAYS - HD/4K                   #
 ######################################################
 
 
@@ -95,3 +95,40 @@ overlays:
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P-HDR.png
+
+  4K-UHD:
+    plex_search:
+      any:
+        resolution.regex: '(?i)2160|4k'
+      validate: false
+    filters:
+      filepath:
+      - Indian4K
+    overlay:
+      name: 4K-UHD
+      group: Resolution-4K
+      weight: 70
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-UHD.png
+
+  4K-HDR:
+    plex_search:
+      all:
+        resolution.regex: '(?i)2160|4k'
+        hdr: true
+      validate: false
+    filters:
+      filepath:
+      - Indian4K
+    overlay:
+      name: 4K-HDR
+      group: Resolution-4K
+      weight: 80
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-HDR.png
