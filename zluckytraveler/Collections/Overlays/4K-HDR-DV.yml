@@ -4,19 +4,6 @@
 
 
 collections: 
-  4K-HDR:
-    plex_search:
-      all:
-        resolution: 4K
-        hdr: true
-    filters:
-      has_dolby_vision: false
-    item_overlay:
-      name: 4K-HDR
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Creations/4K-HDR.png
-    build_collection: false
-    #revert_overlay: true
-    
   4K-UHD:
     plex_search:
       all:
@@ -27,6 +14,19 @@ collections:
     item_overlay:
       name: 4K-UHD
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Stock/4K-UHD.png
+    build_collection: false
+    #revert_overlay: true
+  
+  4K-HDR:
+    plex_search:
+      all:
+        resolution: 4K
+        hdr: true
+    filters:
+      has_dolby_vision: false
+    item_overlay:
+      name: 4K-HDR
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Creations/4K-HDR.png
     build_collection: false
     #revert_overlay: true
     
