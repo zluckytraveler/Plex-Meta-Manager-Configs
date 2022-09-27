@@ -2,7 +2,8 @@
 #                    OVERLAYS - 4K                   #
 ######################################################
 
-overlays:      
+
+overlays:
   1080p:
     plex_search:
       any:
@@ -12,8 +13,8 @@ overlays:
       name: 1080p
       group: Resolution-4K
       weight: 10
-      horizontal_offset: 195
-      horizontal_align: left
+      horizontal_offset: 0
+      horizontal_align: center
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P-HDR.png
@@ -28,8 +29,8 @@ overlays:
       name: 1080p-HDR
       group: Resolution-4K
       weight: 20
-      horizontal_offset: 195
-      horizontal_align: left
+      horizontal_offset: 0
+      horizontal_align: center
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P-HDR.png
@@ -43,8 +44,8 @@ overlays:
       name: 4K-UHD
       group: Resolution-4K
       weight: 40
-      horizontal_offset: 195
-      horizontal_align: left
+      horizontal_offset: 0
+      horizontal_align: center
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-UHD.png
@@ -59,8 +60,8 @@ overlays:
       name: 4K-HDR
       group: Resolution-4K
       weight: 80
-      horizontal_offset: 195
-      horizontal_align: left
+      horizontal_offset: 0
+      horizontal_align: center
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-HDR.png
