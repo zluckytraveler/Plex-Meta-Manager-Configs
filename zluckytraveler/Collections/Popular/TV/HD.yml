@@ -5,6 +5,7 @@
 
 collections:
   Popular Shows:
+    schedule: weekly(Friday)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Shows.png
     sort_title: 01-Popular Shows
     collection_order: custom
