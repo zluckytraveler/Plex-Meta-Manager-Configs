@@ -1,0 +1,66 @@
+######################################################
+#                    OVERLAYS - 4K                   #
+######################################################
+
+      
+  1080p:
+    plex_search:
+      any:
+        resolution.regex: '(?i)1080|2k'
+      validate: false
+    overlay:
+      name: 1080p
+      group: Resolution-4K
+      weight: 10
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P-HDR.png
+
+  1080p-HDR:
+    plex_search:
+      all:
+        resolution.regex: '(?i)1080|2k'
+        hdr: true
+      validate: false
+    overlay:
+      name: 1080p-HDR
+      group: Resolution-4K
+      weight: 20
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P-HDR.png
+
+  4K-UHD:
+    plex_search:
+      any:
+        resolution.regex: '(?i)2160|4k'
+      validate: false
+    overlay:
+      name: 4K-UHD
+      group: Resolution-4K
+      weight: 40
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-UHD.png
+
+  4K-HDR:
+    plex_search:
+      all:
+        resolution.regex: '(?i)2160|4k'
+        hdr: true
+      validate: false
+    overlay:
+      name: 4K-HDR
+      group: Resolution-4K
+      weight: 80
+      horizontal_offset: 195
+      horizontal_align: left
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-HDR.png
