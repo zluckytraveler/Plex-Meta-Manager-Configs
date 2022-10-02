@@ -2,27 +2,24 @@
 #                OVERLAYS - 4K & HDR                 #
 ######################################################
 
-
-overlays:
+collections: 
   4K-UHD:
     plex_search:
       all:
         resolution: 4K
         hdr: false
-    overlay: 
+    item_overlay: 
       name: 4K
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/Solid/4K-UHD-Solid.png
     build_collection: false
-    #revert_overlay: true
-
+    #revert_overlay: true  
+  
   4K-HDR:
-    suppress_overlays:
-      - 4K-UHD
     plex_search:
       all:
         resolution: 4K
         hdr: true
-    overlay: 
+    item_overlay:
       name: 4K-HDR
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/Solid/4K-HDR-Solid.png
     build_collection: false
