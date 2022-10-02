@@ -19,7 +19,7 @@ overlays:
       horizontal_align: center
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P-DV.png
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/Solid/1080-DV.png
 
   4K-DV:
     plex_search:
@@ -36,7 +36,7 @@ overlays:
       horizontal_align: center
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-DV.png
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/Solid/4K-DV.png
 
   4K-DV Filepath:
     plex_all: true
@@ -50,4 +50,4 @@ overlays:
       horizontal_align: center
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-DV.png
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/Solid/4K-DV.png
