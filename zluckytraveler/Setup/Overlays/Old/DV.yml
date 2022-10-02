@@ -1,0 +1,12 @@
+######################################################
+#                    OVERLAYS - DV                   #
+######################################################
+
+collections:   
+  4K-DV:
+    plex_all: true
+    item_overlay: 
+      name: 4K-Dolby
+      url:  https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/Solid/4K-DV-Solid.png
+    build_collection: false
+    #revert_overlay: true
