@@ -11,7 +11,7 @@ overlays:
         hdr: false
     overlay: 
       name: 4K
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Creations/4K-DV.png
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/Solid/4K-UHD-Solid.png
     build_collection: false
     #revert_overlay: true
 
@@ -24,6 +24,6 @@ overlays:
         hdr: true
     overlay: 
       name: 4K-HDR
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Creations/4K-DV.png
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/Solid/4K-HDR-Solid.png
     build_collection: false
     #revert_overlay: true
