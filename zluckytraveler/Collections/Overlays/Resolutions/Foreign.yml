@@ -14,7 +14,7 @@ overlays:
       - Indian4K
     overlay:
       name: 4K-UHD
-      group: Resolution-4K
+      group: Resolution-Foreign
       weight: 40
       horizontal_offset: 0
       horizontal_align: center
@@ -33,7 +33,7 @@ overlays:
       validate: false
     overlay:
       name: 4K-HDR
-      group: Resolution-4K
+      group: Resolution-Foreign
       weight: 80
       horizontal_offset: 0
       horizontal_align: center
