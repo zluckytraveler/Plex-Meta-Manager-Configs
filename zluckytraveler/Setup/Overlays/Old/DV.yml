@@ -9,4 +9,4 @@ collections:
       name: 4K-Dolby
       url:  https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/Solid/4K-DV-Solid.png
     build_collection: false
-    #revert_overlay: true
+    revert_overlay: true
