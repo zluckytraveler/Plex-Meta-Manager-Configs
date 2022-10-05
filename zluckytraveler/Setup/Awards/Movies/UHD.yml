@@ -4,7 +4,7 @@
 
 
 collections:    
-    BAFTA Winners - UHD:
+  BAFTA Winners - UHD:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
     sort_title: 03-Awards BAFTA
     collection_order: title.asc
