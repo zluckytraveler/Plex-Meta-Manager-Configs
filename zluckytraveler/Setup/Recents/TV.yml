@@ -25,8 +25,8 @@ collections:
   Recently Aired:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Recently/Recently%20Aired.png
     sort_title: 00-Recently Aired
+    builder_level: episode
     smart_filter:
-      type: episodes
       sort_by: added.desc
       all:
         episode_air_date: 7
