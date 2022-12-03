@@ -1,0 +1,130 @@
+######################################################
+#                  OVERLAYS - FAN EDITS                  #
+######################################################
+
+
+overlays:
+  Regrade:
+    plex_all: true
+    filters:
+      filepath: Regrade
+    overlay:
+      name: Regrade
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: 
+      
+  Regrade:
+    plex_search:
+      all:
+        label.is: Regrade
+      validate: false
+    overlay: 
+      name: Regrade
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: 
+      
+  FanFix:
+    plex_all: true
+    filters:
+      filepath: FanFix
+    overlay:
+      name: FanFix
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: 
+      
+  FanFix:
+    plex_search:
+      all:
+        label.is: FanFix
+      validate: false
+    overlay: 
+      name: FanFix
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: 
+  
+  FanMix:
+    plex_all: true
+    filters:
+      filepath: FanMix
+    overlay:
+      name: FanMix
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: 
+      
+  FanMix:
+    plex_search:
+      all:
+        label.is: FanMix
+      validate: false
+    overlay: 
+      name: FanMix
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: 
+      
+  Extended:
+    plex_all: true
+    filters:
+      filepath: Extended
+    overlay:
+      name: Extended
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: 
+      
+  Extended:
+    plex_search:
+      all:
+        label.is: Extended
+      validate: false
+    overlay: 
+      name: Extended
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: 
+      
+  Special:
+    plex_all: true
+    filters:
+      filepath: Special
+    overlay:
+      name: Special
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: 
+      
+  Special:
+    plex_search:
+      all:
+        label.is: Special
+      validate: false
+    overlay: 
+      name: Special
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: 
