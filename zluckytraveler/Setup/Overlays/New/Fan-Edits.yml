@@ -3,44 +3,7 @@
 ######################################################
 
 
-overlays:
-  Regrade:
-    plex_all: true
-    filters:
-      filepath: Regrade
-    overlay:
-      name: Regrade
-      horizontal_offset: 0
-      horizontal_align: center
-      vertical_offset: 0
-      vertical_align: top
-      url: 
-      
-  Regrade:
-    plex_search:
-      all:
-        label.is: Regrade
-      validate: false
-    overlay: 
-      name: Regrade
-      horizontal_offset: 0
-      horizontal_align: center
-      vertical_offset: 0
-      vertical_align: top
-      url: 
-      
-  FanFix:
-    plex_all: true
-    filters:
-      filepath: FanFix
-    overlay:
-      name: FanFix
-      horizontal_offset: 0
-      horizontal_align: center
-      vertical_offset: 0
-      vertical_align: top
-      url: 
-      
+overlays:    
   FanFix:
     plex_search:
       all:
@@ -52,19 +15,7 @@ overlays:
       horizontal_align: center
       vertical_offset: 0
       vertical_align: top
-      url: 
-  
-  FanMix:
-    plex_all: true
-    filters:
-      filepath: FanMix
-    overlay:
-      name: FanMix
-      horizontal_offset: 0
-      horizontal_align: center
-      vertical_offset: 0
-      vertical_align: top
-      url: 
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Test/FAN%20FIX.png
       
   FanMix:
     plex_search:
@@ -77,19 +28,7 @@ overlays:
       horizontal_align: center
       vertical_offset: 0
       vertical_align: top
-      url: 
-      
-  Extended:
-    plex_all: true
-    filters:
-      filepath: Extended
-    overlay:
-      name: Extended
-      horizontal_offset: 0
-      horizontal_align: center
-      vertical_offset: 0
-      vertical_align: top
-      url: 
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Test/FAN%20MIX.png
       
   Extended:
     plex_search:
@@ -102,19 +41,7 @@ overlays:
       horizontal_align: center
       vertical_offset: 0
       vertical_align: top
-      url: 
-      
-  Special:
-    plex_all: true
-    filters:
-      filepath: Special
-    overlay:
-      name: Special
-      horizontal_offset: 0
-      horizontal_align: center
-      vertical_offset: 0
-      vertical_align: top
-      url: 
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Test/EXTENDED.png
       
   Special:
     plex_search:
@@ -127,4 +54,55 @@ overlays:
       horizontal_align: center
       vertical_offset: 0
       vertical_align: top
-      url: 
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Test/SPECIAL.png
+      
+  4K-UHD Regrade:
+    plex_search:
+      all:
+        resolution: 4K
+        label: Regrade
+      validate: false
+    overlay:
+      name: 4K-UHD Regrade
+      group: Regrade
+      weight: 10
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Test/4K%20UHD%20REGRADE.png
+
+  4K-HDR Regrade:
+    plex_search:
+      all:
+        resolution: 4K
+        label: Regrade
+        hdr: true
+      validate: false
+    overlay:
+      name: 4K-HDR Regrade
+      group: Regrade
+      weight: 20
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Test/4K%20HDR%20REGRADE.png
+
+  4K-DV Regrade:
+    plex_search:
+      all:
+        resolution: 4K
+        label: Regrade
+      validate: false
+    filters:
+      has_dolby_vision: true
+    overlay:
+      name: 4K-DV Regrade
+      group: Regrade
+      weight: 30
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Test/4K%20DV%20REGRADE.png
