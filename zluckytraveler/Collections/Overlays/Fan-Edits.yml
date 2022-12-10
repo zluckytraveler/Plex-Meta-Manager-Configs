@@ -1,0 +1,108 @@
+######################################################
+#               OVERLAYS - FAN EDITS                 #
+######################################################
+
+
+overlays:    
+  FanFix:
+    plex_search:
+      all:
+        label: FanFix
+      validate: false
+    overlay: 
+      name: FanFix
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Fan-Edit/FAN%20FIX.png
+      
+  FanMix:
+    plex_search:
+      all:
+        label: FanMix
+      validate: false
+    overlay: 
+      name: FanMix
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Fan-Edit/FAN%20MIX.png
+      
+  Extended:
+    plex_search:
+      all:
+        label: Extended
+      validate: false
+    overlay: 
+      name: Extended
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Fan-Edit/EXTENDED.png
+      
+  Special:
+    plex_search:
+      all:
+        label: Special
+      validate: false
+    overlay: 
+      name: Special
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Fan-Edit/SPECIAL.png
+      
+  4K-UHD Regrade:
+    plex_search:
+      all:
+        resolution: 4K
+        label: Regrade
+      validate: false
+    overlay:
+      name: 4K-UHD Regrade
+      group: Regrade
+      weight: 10
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Fan-Edit/4K%20UHD%20REGRADE.png
+
+  4K-HDR Regrade:
+    plex_search:
+      all:
+        resolution: 4K
+        label: Regrade
+        hdr: true
+      validate: false
+    overlay:
+      name: 4K-HDR Regrade
+      group: Regrade
+      weight: 20
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Fan-Edit/4K%20HDR%20REGRADE.png
+
+  4K-DV Regrade:
+    plex_search:
+      all:
+        resolution: 4K
+        label: Regrade
+      validate: false
+    filters:
+      has_dolby_vision: true
+    overlay:
+      name: 4K-DV Regrade
+      group: Regrade
+      weight: 30
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Fan-Edit/4K%20DV%20REGRADE.png
