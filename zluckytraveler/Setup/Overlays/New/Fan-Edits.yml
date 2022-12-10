@@ -7,7 +7,7 @@ overlays:
   FanFix:
     plex_search:
       all:
-        label.is: FanFix
+        label: FanFix
       validate: false
     overlay: 
       name: FanFix
@@ -20,7 +20,7 @@ overlays:
   FanMix:
     plex_search:
       all:
-        label.is: FanMix
+        label: FanMix
       validate: false
     overlay: 
       name: FanMix
@@ -33,7 +33,7 @@ overlays:
   Extended:
     plex_search:
       all:
-        label.is: Extended
+        label: Extended
       validate: false
     overlay: 
       name: Extended
@@ -46,7 +46,7 @@ overlays:
   Special:
     plex_search:
       all:
-        label.is: Special
+        label: Special
       validate: false
     overlay: 
       name: Special
