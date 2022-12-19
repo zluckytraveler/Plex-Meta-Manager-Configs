@@ -1,13 +1,50 @@
-collection:    
-  FanFix:
-    plex_search:
+######################################################
+#                      FAN EDITS                     #
+######################################################
+
+
+collections:
+  Regrade:
+    smart_filter:
+      sort_by: title.asc
+      all:
+        label: Regrade
+    sort_title: 08-Regrade
+    visible_library: true
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Regrade.png
+ 
+ Fan Fix:
+    smart_filter:
+      sort_by: title.asc
       all:
         label: FanFix
-      validate: false
-    overlay: 
-      name: FanFix
-      horizontal_offset: 0
-      horizontal_align: center
-      vertical_offset: 0
-      vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Fan-Edit/FAN%20FIX.png
+    sort_title: 08-Fan Fix
+    visible_library: true
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Fan%20Fix.png
+    
+  Fan Mix:
+    smart_filter:
+      sort_by: title.asc
+      all:
+        label: FanMix
+    sort_title: 08-Fan Mix
+    visible_library: true
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Fan%20Mix.png
+    
+  Extended:
+    smart_filter:
+      sort_by: title.asc
+      all:
+        label: Extended
+    sort_title: 08-Extended
+    visible_library: true
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Extended.png
+    
+  Special:
+    smart_filter:
+      sort_by: title.asc
+      all:
+        label: Special
+    sort_title: 08-Special
+    visible_library: true
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Special.png
