@@ -1,0 +1,13 @@
+collection:    
+  FanFix:
+    plex_search:
+      all:
+        label: FanFix
+      validate: false
+    overlay: 
+      name: FanFix
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Fan-Edit/FAN%20FIX.png
