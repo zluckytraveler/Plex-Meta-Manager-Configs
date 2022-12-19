@@ -12,8 +12,8 @@ collections:
     sort_title: 08-Regrade
     visible_library: true
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Regrade.png
- 
- Fan Fix:
+
+  Fan Fix:
     smart_filter:
       sort_by: title.asc
       all:
