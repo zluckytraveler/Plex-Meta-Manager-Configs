@@ -9,4 +9,6 @@ collections:
     sort_title: 06-Netflix
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: https://letterboxd.com/theflarkone/list/netflix-original-movies/by/name/
+    letterboxd_list: 
+    - https://letterboxd.com/theflarkone/list/netflix-original-movies/by/name/
+    - https://letterboxd.com/theflarkone/list/netflix-documentaries/by/name/
