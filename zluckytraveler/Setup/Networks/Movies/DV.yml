@@ -4,17 +4,6 @@
 
 
 collections:
-  Netflix - DV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Netflix.png
-    sort_title: 06-Netflix
-    collection_order: title.asc
-    sync_mode: sync
-    letterboxd_list: 
-    - https://letterboxd.com/theflarkone/list/netflix-original-movies/by/name/
-    - https://letterboxd.com/theflarkone/list/netflix-documentaries/by/name/
-    - https://letterboxd.com/bzeltzer/list/list-of-netflix-original-stand-up-comedy/by/name/
-    - https://letterboxd.com/bzeltzer/list/list-of-netflix-original-films/by/name/
-    
   Paramount+ - DV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Paramount.png
     sort_title: 06-Paramount+
