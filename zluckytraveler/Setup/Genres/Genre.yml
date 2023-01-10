@@ -170,18 +170,6 @@ collections:
         - Family
       validate: false
       
-  Martial Arts:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Martial%20Arts.png
-    sort_title: 07-Martial Arts
-    smart_filter:
-      sort_by: title.asc
-      all:
-        genre: Martial Arts
-        genre.not:
-        - Animation
-        - Children
-        - Family
-      
   Music:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Music.png
     sort_title: 07-Music
