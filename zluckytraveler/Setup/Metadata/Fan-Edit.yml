@@ -3,7 +3,7 @@ metadata:
     title: Amadeus
     sort_title: Amadeus
     edition: Theatrical Cut
-    year: 2017-07-01
+    originally_available: 2017-07-01
     content_rating: R
     director.sync: TM2YC
     label: Special
@@ -12,7 +12,7 @@ metadata:
   The Adventures of the Amazing Spider-Man:
     title: "The Amazing Spider-Man: The Untold Extended Edition"
     sort_title: "The Amazing Spider-Man: The Untold Extended Edition"
-    year: 2020-11-01
+    originally_available: 2020-11-01
     content_rating: PG-13
     director.sync: Masirimso17
     label: Extended
@@ -21,7 +21,7 @@ metadata:
   The Amazing Spider Man 2 the Untold Finale Edition:
     title: "The Amazing Spider-Man 2: The Untold Finale Edition"
     sort_title: "The Amazing Spider-Man 2: The Untold Finale Edition"
-    year: 2021-11-01
+    originally_available: 2021-11-01
     content_rating: PG-13
     director.sync: Masirimso17
     label: FanFix
@@ -31,7 +31,7 @@ metadata:
     title: "Avengers: Age of Ultron"
     sort_title: "Avengers: Age of Ultron"
     edition: Extinction Edition
-    year: 2019-10-01
+    originally_available: 2019-10-01
     content_rating: PG-13
     director.sync: Bobson Dugnutt
     label: Extended
@@ -40,7 +40,7 @@ metadata:
   "Avengers: Reassembled":
     title: "Avengers: Assembled"
     sort_title: "Avengers: Assembled"
-    year: 2019-12-01
+    originally_available: 2019-12-01
     content_rating: PG-13
     director.sync: macmilln
     label: FanFix
@@ -49,17 +49,17 @@ metadata:
   Back to the Future Greater Scott Edition:
     title: "Back to the Future: Greater Scott Edition"
     sort_title: "Back to the Future: Greater Scott Edition"
-    year: 2018-05-01
+    originally_available: 2018-05-01
     content_rating: PG
     director.sync: Bobson Dugnutt
     label: Extended
-    summary: Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown. The Greater Scott Edition extends Back to the Future to it's longest possible length using a variety of sources. All deleted and extended scenes have been masterfully reintegrated into the movie. adding 10 new scenes and 8 more minutes of footage.
+    summary: Marty McFly, a 17-originally_available-old high school student, is accidentally sent thirty originally_availables into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown. The Greater Scott Edition extends Back to the Future to it's longest possible length using a variety of sources. All deleted and extended scenes have been masterfully reintegrated into the movie. adding 10 new scenes and 8 more minutes of footage.
 
   Batman Forever the Red Book Edition:
     title: "Batman Forever: Red Book Edition"
     sort_title: "Batman Forever: Red Book Edition"
     edition: 15th Anniversary Enhanced
-    year: 2022-06-01
+    originally_available: 2022-06-01
     content_rating: PG-13
     director.sync: INIGHTMARES
     label: FanFix
@@ -68,7 +68,7 @@ metadata:
   The Man Who Laughs:
     title: "Batman: The Man Who Laughs"
     sort_title: "Batman: The Man Who Laughs"
-    year: 2018-11-01
+    originally_available: 2018-11-01
     content_rating: R
     director.sync: Ryantology
     label: FanFix
