@@ -176,6 +176,7 @@ metadata:
 
   The Warriors (Regrade):
     title: The Warriors
+    year: 1979
     label: Regrade
 
   We Were Soldiers:
@@ -943,8 +944,8 @@ metadata:
     label: FanMix
     summary: "This is a sequel to THE WAR OF THE STARS: A NEW HOPE GRINDHOUSED, released in 2010. The goal is now to mix “The Empire Strikes Back” and “Return of the Jedi” while taking care of the changes made for the first edit. A lot of deleted scenes are also back in this edit. Some hopefully intertaining twists and more than 90 new special effects turn this project into something that I think is special even if maybe not as “fun” as the first edit. Or fun in another kind of way."
 
-  The Warriors (Fan):
-    title: The Warriors
+  The Warriors:
+    year: 2018
     sort_title: Warriors
     alt_title: The Warriors Theatrical Cut Reconstruction
     edition: Theatrical Cut Reconstruction
