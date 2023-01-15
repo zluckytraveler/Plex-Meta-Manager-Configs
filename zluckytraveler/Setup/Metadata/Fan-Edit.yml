@@ -441,7 +441,9 @@ metadata:
     originally_available: 2018-03-01
     content_rating: PG-13
     director.sync: Bobson Dugnutt
-    genre.remove: Documentary, Short
+    producer.remove: Ken Anthony II, Nick Canning, Becky Yettaw
+    writer.remove: Nick Canning
+    genre.remove: Short, Drama, Science Fiction
     label: FanFix
     summary: Friendly Neighborhood Spider-Man is mere 3 minutes shorter than the official cut, with a few trims here and there that improve an already great film. Rescoring, cutting, trimming and moving scenes and jokes all feature here to make the movie the best it can be.
 
