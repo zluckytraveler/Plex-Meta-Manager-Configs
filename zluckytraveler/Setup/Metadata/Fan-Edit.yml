@@ -423,9 +423,21 @@ metadata:
     label: Special
     summary: Frank Herbert's Dune is a fantastic miniseries adaptation of the original novel, but what would it look like as a feature length film?
 
-  Friendly Neighborhood Spider-Man:
+  Friendly Neighborhood Spider-Man 1:
+    title: Friendly Neighborhood Spider-Man
     sort_title: Friendly Neighborhood Spider-Man
-    alt_title: Your Friendly Eco-Friendly Spider-Man, A Friend Called Spider-Man
+    alt_title: Your Friendly Eco-Friendly Spider-Man
+    originally_available: 2018-03-01
+    content_rating: PG-13
+    director.sync: Bobson Dugnutt
+    genre.remove: Documentary, Short
+    label: FanFix
+    summary: Friendly Neighborhood Spider-Man is mere 3 minutes shorter than the official cut, with a few trims here and there that improve an already great film. Rescoring, cutting, trimming and moving scenes and jokes all feature here to make the movie the best it can be.
+    
+  Friendly Neighborhood Spider-Man 2:
+    title: Friendly Neighborhood Spider-Man
+    sort_title: Friendly Neighborhood Spider-Man
+    alt_title: A Friend Called Spider-Man
     originally_available: 2018-03-01
     content_rating: PG-13
     director.sync: Bobson Dugnutt
