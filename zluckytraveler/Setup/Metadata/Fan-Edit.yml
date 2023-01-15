@@ -1,4 +1,187 @@
 metadata:
+  The 13th Warrior:
+    title: The 13th Warrior
+    label: Regrade
+
+  The Abyss:
+    title: The Abyss
+    label: Regrade
+
+  Alien:
+    title: Alien
+    edition: Director's Cut
+    label: Regrade
+
+  Aliens:
+    title: Aliens
+    edition: Special Edition
+    label: Regrade
+
+  Apocalypto:
+    title: Apocalypto
+    label: Regrade
+
+  Armageddon:
+    title: Armageddon
+    label: Regrade
+
+  Avatar:
+    title: Avatar
+    edition: Extended Collector's Edition
+    label: Regrade
+
+  Big Trouble in Little China:
+    title: Big Trouble in Little China
+    label: Regrade
+
+  The Book of Eli:
+    title: The Book of Eli
+    label: Regrade
+
+  The Breakfast Club:
+    title: The Breakfast Club
+    label: Regrade
+
+  Crimson Tide:
+    title: Crimson Tide
+    label: Regrade
+
+  The Crow:
+    title: The Crow
+    label: Regrade
+
+  Dune:
+    title: Dune
+    label: Regrade
+
+  Flags of Our Fathers:
+    title: Flags of Our Fathers
+    label: Regrade
+
+  From Dusk Till Dawn:
+    title: From Dusk Till Dawn
+    label: Regrade
+
+  Gangs of New York:
+    title: Gangs of New York
+    label: Regrade
+
+  Goldfinger:
+    title: Goldfinger
+    label: Regrade
+
+  Good Will Hunting:
+    title: Good Will Hunting
+    label: Regrade
+
+  Immortals:
+    title: Immortals
+    label: Regrade
+
+  The Island:
+    title: The Island
+    label: Regrade
+
+  Jurassic Park:
+    title: Jurassic Park
+    edition: 35mm Scan
+    label: Regrade
+
+  "Kill Bill: Vol. 1":
+    title: "Kill Bill: Vol. 1"
+    label: Regrade
+
+  "Kill Bill: Vol. 2":
+    title: "Kill Bill: Vol. 2"
+    label: Regrade
+
+  Kingdom of Heaven:
+    title: Kingdom of Heaven
+    edition: Director's Cut
+    label: Regrade
+
+  L.A. Confidential:
+    title: L.A. Confidential
+    label: Regrade
+
+  Live Free or Die Hard:
+    title: Live Free or Die Hard
+    label: Regrade
+
+  "Master and Commander: The Far Side of the World":
+    title: "Master and Commander: The Far Side of the World"
+    label: Regrade
+
+  Minority Report:
+    title: Minority Report
+    label: Regrade
+
+  Predators:
+    title: Predators
+    label: Regrade
+
+  Rush:
+    title: Rush
+    label: Regrade
+
+  Sin City:
+    title: Sin City
+    edition: XXL Recut
+    label: Regrade
+
+  Sphere:
+    title: Sphere
+    label: Regrade
+
+  Sunshine:
+    title: Sunshine
+    label: Regrade
+
+  Tears of the Sun:
+    title: Tears of the Sun
+    label: Regrade
+
+  The Terminator:
+    title: The Terminator
+    label: Regrade
+
+  "Terminator 2: Judgment Day":
+    title: "Terminator 2: Judgment Day"
+    label: Regrade
+
+  The Thin Red Line:
+    title: The Thin Red Line
+    label: Regrade
+
+  Titanic:
+    title: Titanic
+    label: Regrade
+
+  Tombstone:
+    title: Tombstone
+    label: Regrade
+
+  Tomorrowland:
+    title: Tomorrowland
+    label: Regrade
+
+  "Tron: Legacy":
+    title: "Tron: Legacy"
+    edition: IMAX
+    label: Regrade
+
+  Troy:
+    title: Troy
+    label: Regrade
+
+  The Warriors (Regrade):
+    title: The Warriors
+    label: Regrade
+
+  We Were Soldiers:
+    title: We Were Soldiers
+    label: Regrade
+
   Amadeus:
     sort_title: Amadeus
     alt_title: Amadeus
@@ -287,7 +470,7 @@ metadata:
 
   "The Hobbit Maple Films":
     sort_title: "Hobbit Maple Films"
-    alt_title: 
+    alt_title: J.R.R. Tolkien's the Hobbit
     originally_available: 2016-08-01
     content_rating: PG-13
     director.sync: eldusto84
@@ -300,7 +483,7 @@ metadata:
   "Indiana Jones and the Kingdom of the Crystal Skull: The Spence Edit":
     sort_title: "Indiana Jones and the Kingdom of the Crystal Skull: The Spence Edit"
     alt_title: Indiana Jones and the Kingdom of the Crystal Skull the Spence Edit
-    originally_available: 2022-08–01
+    originally_available: 2022-08-01
     content_rating: PG-13
     director.sync: Spence
     label: FanFix
@@ -343,7 +526,7 @@ metadata:
     writer.remove: Jason Crossman, Rei Kennex
     genre.remove: Short, Science Fiction
     label: Special
-    summary:
+    summary: This edit keeps the overall story of the TV series, but cuts it down into a tight but cohesive narrative that is firmly focused on the character of Obi-Wan, and his relationship with Anakin Skywalker / Darth Vader.
 
   "Kill Bill: The Whole Bloody Affair":
     sort_title: "Kill Bill: The Whole Bloody Affair"
@@ -760,7 +943,8 @@ metadata:
     label: FanMix
     summary: "This is a sequel to THE WAR OF THE STARS: A NEW HOPE GRINDHOUSED, released in 2010. The goal is now to mix “The Empire Strikes Back” and “Return of the Jedi” while taking care of the changes made for the first edit. A lot of deleted scenes are also back in this edit. Some hopefully intertaining twists and more than 90 new special effects turn this project into something that I think is special even if maybe not as “fun” as the first edit. Or fun in another kind of way."
 
-  The Warriors:
+  The Warriors (Fan-Edit):
+    title: The Warriors
     sort_title: Warriors
     alt_title: The Warriors Theatrical Cut Reconstruction
     edition: Theatrical Cut Reconstruction
