@@ -6,6 +6,10 @@ metadata:
   The Abyss:
     title: The Abyss
     label: Regrade
+    
+  A.I. Artificial Intelligence:
+    title: A.I. Artificial Intelligence
+    label: Regrade
 
   Alien:
     title: Alien
@@ -29,6 +33,18 @@ metadata:
     title: Avatar
     edition: Extended Collector's Edition
     label: Regrade
+    
+  The Aviator:
+    title: The Aviator
+    label: Regrade
+    
+  Being John Malkovich:
+    title: Being John Malkovich
+    label: Regrade
+  
+  Big Daddy:
+    title: Big Daddy
+    label: Regrade
 
   Big Trouble in Little China:
     title: Big Trouble in Little China
@@ -40,6 +56,14 @@ metadata:
 
   The Breakfast Club:
     title: The Breakfast Club
+    label: Regrade
+    
+  Cocoon:
+    title: Cocoon
+    label: Regrade
+  
+  Con Air:
+    title: Con Air
     label: Regrade
 
   Crimson Tide:
@@ -53,13 +77,29 @@ metadata:
   Dune:
     title: Dune
     label: Regrade
+    
+  Fight Club:
+    title: Fight Club
+    label: Regrade
 
   Flags of Our Fathers:
     title: Flags of Our Fathers
     label: Regrade
+    
+  The Fountain:
+    title: The Fountain
+    label: Regrade
 
   From Dusk Till Dawn:
     title: From Dusk Till Dawn
+    label: Regrade
+    
+  The Fugitive:
+    title: The Fugitive
+    label: Regrade
+  
+  The Game:
+    title: The Game
     label: Regrade
 
   Gangs of New York:
@@ -68,6 +108,10 @@ metadata:
 
   Goldfinger:
     title: Goldfinger
+    label: Regrade
+    
+  Gone in 60 Seconds:
+    title: Gone in 60 Seconds
     label: Regrade
 
   Good Will Hunting:
@@ -86,6 +130,10 @@ metadata:
     title: Jurassic Park
     edition: 35mm Scan
     label: Regrade
+    
+  Kalifornia:
+    title: Kalifornia
+    label: Regrade
 
   "Kill Bill: Vol. 1":
     title: "Kill Bill: Vol. 1"
@@ -99,6 +147,10 @@ metadata:
     title: Kingdom of Heaven
     edition: Director's Cut
     label: Regrade
+    
+  Knight and Day:
+    title: Knight and Day
+    label: Regrade
 
   L.A. Confidential:
     title: L.A. Confidential
@@ -106,6 +158,10 @@ metadata:
 
   Live Free or Die Hard:
     title: Live Free or Die Hard
+    label: Regrade
+    
+  Man on Fire:
+    title: Man on Fire
     label: Regrade
 
   "Master and Commander: The Far Side of the World":
@@ -115,22 +171,54 @@ metadata:
   Minority Report:
     title: Minority Report
     label: Regrade
+    
+  Outlander:
+    title: Outlander
+    label: Regrade
+  
+  Pandorum:
+    title: Pandorum
+    label: Regrade
 
   Predators:
     title: Predators
     label: Regrade
+    
+  Rounders:
+    title: Rounders
+    label: Regrade
 
   Rush:
     title: Rush
+    label: Regrade
+    
+  Se7en:
+    title: Se7en
+    label: Regrade
+  
+  The Secret Life of Walter Mitty:
+    title: 
+    label: Regrade
+  
+  Signs:
+    title: Signs
     label: Regrade
 
   Sin City:
     title: Sin City
     edition: XXL Recut
     label: Regrade
+    
+  The Sixth Sense:
+    title: The Sixth Sense
+    label: Regrade
 
   Sphere:
     title: Sphere
+    label: Regrade
+    
+  Spy Game:
+    title: Spy Game
     label: Regrade
 
   Sunshine:
@@ -173,6 +261,10 @@ metadata:
   Troy:
     title: Troy
     label: Regrade
+    
+  Twister:
+    title: Twister
+    label: Regrade
 
   The Warriors (Regrade):
     title: The Warriors
@@ -181,6 +273,18 @@ metadata:
 
   We Were Soldiers:
     title: We Were Soldiers
+    label: Regrade
+    
+  White Men Cant Jump:
+    title: White Men Cant Jump
+    label: Regrade
+  
+  Young Guns:
+    title: Young Guns
+    label: Regrade
+  
+  Young Guns II:
+    title: Young Guns II
     label: Regrade
 
   Amadeus:
