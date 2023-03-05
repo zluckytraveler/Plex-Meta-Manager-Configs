@@ -197,7 +197,7 @@ metadata:
     label: Regrade
   
   The Secret Life of Walter Mitty:
-    title: 
+    title: The Secret Life of Walter Mitty
     label: Regrade
   
   Signs:
@@ -274,8 +274,9 @@ metadata:
     title: We Were Soldiers
     label: Regrade
     
-  White Men Cant Jump:
-    title: White Men Cant Jump
+  White Men Can't Jump:
+    title: White Men Can't Jump
+    edition: Extended
     label: Regrade
   
   Young Guns:
