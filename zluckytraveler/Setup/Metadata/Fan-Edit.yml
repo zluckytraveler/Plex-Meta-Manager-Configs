@@ -298,6 +298,24 @@ metadata:
     label: Special
     summary: The original 160-minute 'Theatrical Cut' of 'Amadeus' that won multiple Oscars and BAFTAs in 1984 only exists on an old poor quality 1998 PAL "flipper" DVD (and Laserdisc and VHS). Every release since then (including all blu-rays) has been the 180-minute 'Director's Cut'. I simply wanted to cut the DC blu-ray to match the TC DVD, so I have both cuts as an option.
 
+  "Amazing Spider-Man: Part 1":
+    sort_title: "Amazing Spider-Man: Part 1"
+    alt_title: Amazing Spider-Man Part 1
+    originally_available: 2022-08-01
+    content_rating: PG-13
+    director.sync: lantern51
+    label: FanFix
+    summary: Scenes were cut, that are out of character and using alternate and deleted material from the movie to give it a different feel. It also has rescored scenes with different music to recontextualize or emphasize different moments in the movie.
+    
+  "Amazing Spider-Man: Part 2":
+    sort_title: "Amazing Spider-Man: Part 2"
+    alt_title: Amazing Spider-Man Part 2
+    originally_available: 2023-02-01
+    content_rating: PG-13
+    director.sync: lantern51
+    label: FanFix
+    summary: There is a new opening recap to the ending of Part 1 and a subsequent scene not seen in Part 1. The tone is less cartoonish, more balanced, and there is a lot of new music with deleted material used to flesh out the movie. Much like Part 1 the focus is on Peter and Gwen's relationship without all the other distractions. 
+
   "The Amazing Spider-Man: The Untold Extended Edition":
     sort_title: "Amazing Spider-Man: The Untold Extended Edition"
     alt_title: The Adventures of the Amazing Spider-Man
@@ -617,6 +635,15 @@ metadata:
     label: FanFix
     summary: This edit aims to eradicate the paternal cause of some questionable narrative that essentially removed the viewer from the fantasy of adventure and also other complaints I had with the level of schlock falling lower than was necessary. It also aims to strike a balance for those that didn’t mind or could live with certain things like cgi bugs or iconic atomic silhouettes... Cutting the best part of twenty minutes was as far as I’d like to go to try to keep a feature length feel. There be aliens ahead, but differently presented...
 
+  "Interstellar: Where We're Going":
+    sort_title: "Interstellar: Where We're Going"
+    alt_title: Interstellar Where We're Going
+    originally_available: 2023-01-01
+    content_rating: PG-13
+    director.sync: futon88
+    label: FanFix
+    summary: This is Interstellar as you know it, with modest improvements to pacing, some adjustments to make dialogue sound more natural, little less pretentious, with the removal of what feels like artificial conflict.
+
   Icarus:
     sort_title: Icarus
     alt_title: Icarus
@@ -634,6 +661,15 @@ metadata:
     director.sync: The Man Behind The Mask
     label: FanMix
     summary: This fanedit adds a kind of grindhouse feel to JAWS and makes the movie fun to watch for those who are not afraid to see this masterpiece being turned into something else.
+
+  "Justice League: Rise of the Motherboxes":
+    sort_title: "Justice League: Rise of the Motherboxes"
+    alt_title: Justice League Rise of the Motherboxes
+    originally_available: 2023-01-01
+    content_rating: PG-13
+    director.sync: Wakeupkeo
+    label: FanFix
+    summary: The goal of this edit was to try to use this movie to move these characters from the darker Zak Snyder origins, to end with the more positive, classic Justice League heroic archetypes.
 
   "Kenobi: A Star Wars Story":
     sort_title: "Kenobi: A Star Wars Story"
