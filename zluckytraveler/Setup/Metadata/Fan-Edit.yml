@@ -298,18 +298,18 @@ metadata:
     label: Special
     summary: The original 160-minute 'Theatrical Cut' of 'Amadeus' that won multiple Oscars and BAFTAs in 1984 only exists on an old poor quality 1998 PAL "flipper" DVD (and Laserdisc and VHS). Every release since then (including all blu-rays) has been the 180-minute 'Director's Cut'. I simply wanted to cut the DC blu-ray to match the TC DVD, so I have both cuts as an option.
 
-  "Amazing Spider-Man: Part 1":
+  "The Amazing Spider-Man: Part 1":
     sort_title: "Amazing Spider-Man: Part 1"
-    alt_title: Amazing Spider-Man Part 1
+    alt_title: The Amazing Spider Man Part 1
     originally_available: 2022-08-01
     content_rating: PG-13
     director.sync: lantern51
     label: FanFix
     summary: Scenes were cut, that are out of character and using alternate and deleted material from the movie to give it a different feel. It also has rescored scenes with different music to recontextualize or emphasize different moments in the movie.
     
-  "Amazing Spider-Man: Part 2":
+  "The Amazing Spider-Man: Part 2":
     sort_title: "Amazing Spider-Man: Part 2"
-    alt_title: Amazing Spider-Man Part 2
+    alt_title: The Amazing Spiderman 2 Webb Cut
     originally_available: 2023-02-01
     content_rating: PG-13
     director.sync: lantern51
@@ -637,7 +637,7 @@ metadata:
 
   "Interstellar: Where We're Going":
     sort_title: "Interstellar: Where We're Going"
-    alt_title: Interstellar Where We're Going
+    alt_title: The Place We're Going
     originally_available: 2023-01-01
     content_rating: PG-13
     director.sync: futon88
