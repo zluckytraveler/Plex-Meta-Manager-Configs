@@ -1076,21 +1076,22 @@ metadata:
     originally_available: 2020-10-01
     content_rating: R
     director.sync: Wakeupkeo
-    producer.remove: Charles Rovan, Peter Safran
+    producer.remove: Charles Roven, Peter Safran
     writer.remove: James Gunn
-    genre.remove: Action, Adventure, Science Fiction, Comedy
+    genre.remove: Action, Adventure, Science fiction, Comedy
     label: FanFix
     summary: In typical fashion, exposition gets cut drastically. The last time something is explained, is hopefully the only time it is. My intent is to leave some mystery and suspense, and not everyone needs to be a main character. I didn't know these characters besides Harley before watching, and that is the perspective I maintain. Slipknot is simply a plot device, not a main character.
 
   Suicide Squad Special Edition 2:
     title: "Suicide Squad: Special Edition"
     sort_title: "Suicide Squad: Special Edition"
-    alt_title: Suicide Squad Special Edition
+    alt_title: The Suicide Squad
     originally_available: 2020-10-01
     content_rating: R
     director.sync: Wakeupkeo
-    producer.remove: Charles Rovan
-    genre.remove: Science Fiction
+    producer.remove: Charles Roven, Peter Safran
+    writer.remove: James Gunn
+    genre.remove: Action, Adventure, Science fiction, Comedy
     label: FanFix
     summary: In typical fashion, exposition gets cut drastically. The last time something is explained, is hopefully the only time it is. My intent is to leave some mystery and suspense, and not everyone needs to be a main character. I didn't know these characters besides Harley before watching, and that is the perspective I maintain. Slipknot is simply a plot device, not a main character.
 
