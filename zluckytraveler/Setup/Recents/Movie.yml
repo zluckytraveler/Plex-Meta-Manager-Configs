@@ -11,6 +11,7 @@ collections:
       sort_by: added.desc
       all:
         added: 7
+        title.not: Small Time Crooks
     visible_library: true
         
   Recently Released:
