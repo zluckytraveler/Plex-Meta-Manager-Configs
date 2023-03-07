@@ -354,7 +354,7 @@ metadata:
 
   "Avengers: Assembled":
     sort_title: "Avengers: Assembled"
-    alt_title: "Avengers: Reassembled"
+    alt_title: "Avengers Reassembled"
     originally_available: 2019-12-01
     content_rating: PG-13
     director.sync: macmilln
@@ -629,8 +629,8 @@ metadata:
     label: FanFix
     summary: Going to see Crystal Skull on opening night is probably the worst cinematic experience I've ever had. You could just feel the room deflate, all the energy disappear, the excitement turned to disappointment. I hated it. However, time has been kinder than expected to the film. Maybe it's comparing it to what passes for modern "adventure" filmmaking, but it's sort of outdated style kind of works in its favor. There's a lot of things that do work about it. Harrison Ford and the rest of the cast are game. Though it's kind of a "left hand" movie from Spielberg, he's still the greatest movie director of our lifetimes, so it's still got some great visuals and action. The story could be intriguing.
 
-  "Indiana Jones and the Kingdom of the Crystal Skull: 15MAF Recut":
-    sort_title: "Indiana Jones and the Kingdom of the Crystal Skull: 15MAF Recut"
+  "Indiana Jones and the Kingdom of the Crystal Skull: The 15MAF Recut":
+    sort_title: "Indiana Jones and the Kingdom of the Crystal Skull: The 15MAF Recut"
     alt_title: Indiana Jones and the Kingdom of the Crystal Skull 15MAF Recut
     originally_available: 2018-09-01
     content_rating: PG-13
@@ -1034,8 +1034,8 @@ metadata:
     label: FanFix
     summary: Young Han Solo joins a band of smugglers on his first major heist and is introduced to Chewbacca and Lando Calrissian.
 
-  Suicide Squad Special Edition:
-    sort_title: Suicide Squad Special Edition
+  "Suicide Squad: Special Edition":
+    sort_title: "Suicide Squad: Special Edition"
     alt_title: The Suicide Squad
     originally_available: 2020-10-01
     content_rating: R
