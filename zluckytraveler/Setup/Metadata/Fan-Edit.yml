@@ -319,9 +319,20 @@ metadata:
     label: FanFix
     summary: There is a new opening recap to the ending of Part 1 and a subsequent scene not seen in Part 1. The tone is less cartoonish, more balanced, and there is a lot of new music with deleted material used to flesh out the movie. Much like Part 1 the focus is on Peter and Gwen's relationship without all the other distractions. 
 
-  "The Amazing Spider-Man: The Untold Extended Edition":
+  "The Amazing Spider-Man: The Untold Extended Edition" 1:
     sort_title: "Amazing Spider-Man: The Untold Extended Edition"
     alt_title: The Adventures of the Amazing Spider-Man
+    originally_available: 2020-11-01
+    content_rating: PG-13
+    director.sync: Masirimso17
+    producer.remove: Mabronii
+    genre.remove: Animation, Short
+    label: Extended
+    summary: This is The Amazing Spider-Man with all its deleted scenes PLUS the Roosevelt subplot from the second movie added to the first movie. This is the full extent of the promised Untold Story without polluting the overstuffed second movie.
+    
+   "The Amazing Spider-Man: The Untold Extended Edition" 2:
+    sort_title: "Amazing Spider-Man: The Untold Extended Edition"
+    alt_title: The Amazing Spider-Man 3
     originally_available: 2020-11-01
     content_rating: PG-13
     director.sync: Masirimso17
