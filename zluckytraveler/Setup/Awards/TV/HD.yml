@@ -11,6 +11,8 @@ collections:
     sync_mode: sync
     imdb_list: https://www.imdb.com/list/ls538625886/?sort=alpha
     visible_library: true
+    visible_shared: false
+    visible_home: false
     
   Critics Choice Award Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Critics%20Choice%20Awards.png
@@ -20,6 +22,8 @@ collections:
     trakt_list: https://trakt.tv/users/fdamico/lists/critics-choice-series?sort=title,asc
     imdb_list: https://www.imdb.com/list/ls538625146/?sort=alpha
     visible_library: true
+    visible_shared: false
+    visible_home: false
     
   Emmy Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
@@ -29,6 +33,8 @@ collections:
     imdb_list: 
       url: https://www.imdb.com/search/title/?title_type=tv_series,tv_episode,tv_special,tv_miniseries,video,tv_short,podcast_series,podcast_episode,music_video&groups=emmy_winner&sort=alpha,asc
     visible_library: true
+    visible_shared: false
+    visible_home: false
     
   Golden Globe Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
@@ -41,3 +47,5 @@ collections:
     imdb_list: 
       url: https://www.imdb.com/search/title/?title_type=tv_series,tv_special,tv_miniseries,tv_short&groups=golden_globe_winner&sort=alpha,asc
     visible_library: true
+    visible_shared: false
+    visible_home: false
