@@ -303,7 +303,7 @@ metadata:
     alt_title: The Amazing Spider Man Part 1
     originally_available: 2022-08-01
     content_rating: PG-13
-    director.sync: lantern51
+    director.sync: Lantern51
     label: FanFix
     summary: Scenes were cut, that are out of character and using alternate and deleted material from the movie to give it a different feel. It also has rescored scenes with different music to recontextualize or emphasize different moments in the movie.
     
@@ -312,7 +312,7 @@ metadata:
     alt_title: The Amazing Spiderman 2 Webb Cut
     originally_available: 2023-02-01
     content_rating: PG-13
-    director.sync: lantern51
+    director.sync: Lantern51
     producer.remove: Edson Donaldo Chávez Carbajal, Lhionel Robles
     writer.remove: Jesús Alanís, Alexander Castro Santisteban, M. Lopez
     genre.remove: Science Fiction
@@ -357,7 +357,7 @@ metadata:
     alt_title: "Avengers Reassembled"
     originally_available: 2019-12-01
     content_rating: PG-13
-    director.sync: macmilln
+    director.sync: Macmilln
     producer.remove: Brandon Heim, Haley Volentine
     writer.remove: Haley Volentine, Trevor Jean Volentine
     genre.remove: Science Fiction
@@ -401,7 +401,7 @@ metadata:
     alt_title: "Batman v Superman: Dawn of Justice"
     originally_available: 2017-03-01
     content_rating: PG-13
-    director.sync: reeseevans
+    director.sync: Reeseevans
     producer.remove: Charles Roven, Deborah Snyder
     writer.remove: David S. Goyer, Bob Kane, Jerry Siegel, Joe Shuster, Jay Olivia
     genre.remove: Science Fiction, Fantasy, Action, Adventure
@@ -413,7 +413,7 @@ metadata:
     alt_title: Better Cut Saul
     originally_available: 2022-12-01
     content_rating: PG-13
-    director.sync: letyppe
+    director.sync: Letyppe
     label: Special
     summary: An edit of the show that wraps it up into a 2h20 feature film! 
 
@@ -508,7 +508,7 @@ metadata:
     alt_title: Dune the Alternative Edition Redux
     originally_available: 2022-07-01
     content_rating: R
-    director.sync: spicediver
+    director.sync: Spicediver
     label: FanFix
     summary: A film that’s been admired, hated and puzzled-over in fairly equal amounts, writer/director David Lynch’s ambitious 1984 adaptation of Frank Herbert’s science fiction novel gets an extensive fanediting treatment in Dune The Alternative Edition Redux. This is my third and final cut of an edit I first released in 2008 and again in 2009. As previously, it draws on the heavily cut Theatrical Version, the controversial Extended “TV” Version and a selection of Deleted Scenes and soundtrack cues.
 
@@ -526,7 +526,7 @@ metadata:
     alt_title: Fight Club the I Am Jacks Laryngitis
     originally_available: 2020-04-01
     content_rating: R
-    director.sync: macmillan
+    director.sync: Macmillan
     label: FanFix
     summary: Removing Edward Norton’s voiceover, adjust and restructure some shots to flow better with the lack of narration, FIGHT CLUB gets to be a much more introspective and artsy film.
 
@@ -535,7 +535,7 @@ metadata:
     alt_title: Finest Hour a Supercut of Dunkirk and Darkest Hour
     originally_available: 2020-07-01
     content_rating: R
-    director.sync: eldusto84
+    director.sync: Eldusto84
     label: FanMix
     summary: The year is 1940. As Hitler’s forces storm across Europe, Winston Churchill is elected the new Prime Minister of the United Kingdom. His leadership is immediately tested when hundreds of thousands of British and Allied troops become trapped on the beaches of Dunkirk, with the Germans closing in. As the desperate battle for survival unfolds on land, sea and air, Churchill must fight his own battles to launch a daring rescue effort across the English Channel. This fan edit combines the intense frontline action of Dunkirk with the backroom political intrigue of Darkest Hour, to create an epic supercut that tells the full story of the Dunkirk evacuation
 
@@ -613,7 +613,7 @@ metadata:
     alt_title: J.R.R. Tolkien's the Hobbit
     originally_available: 2016-08-01
     content_rating: PG-13
-    director.sync: eldusto84
+    director.sync: Eldusto84
     genre.remove: Action, Adventure, Fantasy
     label: FanFix
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/The%20Hobbit%20Maple%20Films/poster.png
@@ -643,7 +643,7 @@ metadata:
     alt_title: The Place We're Going
     originally_available: 2023-01-01
     content_rating: PG-13
-    director.sync: futon88
+    director.sync: Futon88
     producer.remove: Jessica Petersen
     writer.remove: Shamus Hays
     genre.remove: Adventure, Drama, Fantasy
@@ -695,7 +695,7 @@ metadata:
     edition: The Milkman Conspiracy
     originally_available: 2020-07-01
     content_rating: R
-    director.sync: TheMIlkmanConspiracy
+    director.sync: The Milkman Conspiracy
     producer.remove: Lawrence Bender
     writer.remove: Quentin Tarantino
     genre.remove: Thriller, Action, Crime
@@ -707,7 +707,7 @@ metadata:
     alt_title: Logan Gothic
     originally_available: 2020-03-01
     content_rating: PG-13
-    director.sync: dannydangle
+    director.sync: Dannydangle
     label: FanMix
     summary: Logan battles his primal paternal intuition as he makes his way through a dark fairy tale landscape filled with southern gothic grotesqueries. As his health fails him he finds himself operating on instincts he thought long lost, as if his destiny were already decided. As he passes into the realm of myth he finally realizes what he had been fighting for all those years.
 
@@ -748,7 +748,7 @@ metadata:
     edition: Sacred Timeline Cut
     originally_available: 2021-01-01
     content_rating: PG-13
-    director.sync: pizzabryon
+    director.sync: Pizzabryon
     label: FanMix
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Marvels%20Infinty%20Saga/poster.png
     url_background: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Marvels%20Infinty%20Saga/background.png
@@ -804,7 +804,7 @@ metadata:
     alt_title: Pulp Empire
     originally_available: 2013-05-01
     content_rating: R
-    director.sync: njvc
+    director.sync: NJVC
     label: FanMix
     summary: A Tarantino inspired Star Wars mashup and remix.
 
@@ -813,7 +813,7 @@ metadata:
     alt_title: On Set with 'Raiders of the Lost Ark'
     originally_available: 2011-12-01
     content_rating: PG-13
-    director.sync: njvc
+    director.sync: NJVC
     producer.remove: Laurent Bouzereau
     genre.remove: Documentary
     label: FanFix
@@ -851,7 +851,7 @@ metadata:
     alt_title: Spirited De Musicalized
     originally_available: 2022-12-01
     content_rating: R
-    director.sync: stomachworm
+    director.sync: Stomachworm
     label: FanFix
     summary: I was excited to hear about Will & Ryan teaming up on a Christmas movie until I found out it was a f@#!ing musical. Well, now it isn't! I hope you enjoy.
 
@@ -1060,7 +1060,7 @@ metadata:
     alt_title: "Thor: Love and Thunder"
     originally_available: 2022-12-01
     content_rating: PG-13
-    director.sync: tremault
+    director.sync: Tremault
     producer.remove: Kevin Feige, Brad Winderbaum
     writer.remove: Taika Waititi, Jennifer Kaytin Robinson
     genre.remove: Fantasy, Action, Adventure, Romance, Science Fiction, Comedy
