@@ -637,7 +637,7 @@ metadata:
     director.sync: 15MAF
     label: FanFix
     summary: This edit aims to eradicate the paternal cause of some questionable narrative that essentially removed the viewer from the fantasy of adventure and also other complaints I had with the level of schlock falling lower than was necessary. It also aims to strike a balance for those that didn’t mind or could live with certain things like cgi bugs or iconic atomic silhouettes... Cutting the best part of twenty minutes was as far as I’d like to go to try to keep a feature length feel. There be aliens ahead, but differently presented...
-
+    
   "Interstellar: Where We're Going":
     sort_title: "Interstellar: Where We're Going"
     alt_title: The Place We're Going
@@ -1037,6 +1037,18 @@ metadata:
   "Suicide Squad: Special Edition":
     sort_title: "Suicide Squad: Special Edition"
     alt_title: The Suicide Squad
+    originally_available: 2020-10-01
+    content_rating: R
+    director.sync: Wakeupkeo
+    producer.remove: Charles Rovan, Peter Safran
+    writer.remove: James Gunn
+    genre.remove: Action, Adventure, Science Fiction, Comedy
+    label: FanFix
+    summary: In typical fashion, exposition gets cut drastically. The last time something is explained, is hopefully the only time it is. My intent is to leave some mystery and suspense, and not everyone needs to be a main character. I didn't know these characters besides Harley before watching, and that is the perspective I maintain. Slipknot is simply a plot device, not a main character.
+
+  "Suicide Squad: Special Edition":
+    sort_title: "Suicide Squad: Special Edition"
+    alt_title: Suicide Squad Special Edition
     originally_available: 2020-10-01
     content_rating: R
     director.sync: Wakeupkeo
