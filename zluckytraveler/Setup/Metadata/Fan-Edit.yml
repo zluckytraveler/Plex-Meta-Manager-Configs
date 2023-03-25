@@ -927,18 +927,6 @@ metadata:
     url_background: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Project%204K/4K83/background.png
     summary: After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.
 
-  "Star Wars: Episode III - Return of the Jedi":
-    sort_title: Star Wars Despecialized-03
-    alt_title: Star Wars Episode 3 Return of the Jedi Despecialized Edition
-    edition: Despecialized
-    originally_available: 2013-05-29
-    content_rating: PG
-    director.sync: Petr Harmacek
-    label: FanFix
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Despecialized/Star%20Wars%20Episode%20III%20-%20Return%20of%20the%20Jedi/poster.png
-    url_background: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Despecialized/Star%20Wars%20Episode%20III%20-%20Return%20of%20the%20Jedi/background.png
-    summary: Petr "Harmy" Harmacek introduces some of the sources used to create the Despecialized version of Star Wars.
-
   "Star Wars: Episode IV - A New Hope":
     sort_title: Star Wars Despecialized-04
     alt_title: "Star Wars: Despecialized Edition Remastered V2.5, Introducing the Sources"
@@ -966,6 +954,18 @@ metadata:
     label: FanFix
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Despecialized/Star%20Wars%20Episode%20V%20-%20The%20Empire%20Strikes%20Back/poster.png
     url_background: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Despecialized/Star%20Wars%20Episode%20V%20-%20The%20Empire%20Strikes%20Back/background.png
+    summary: Petr "Harmy" Harmacek introduces some of the sources used to create the Despecialized version of Star Wars.
+    
+  "Star Wars: Episode VI - Return of the Jedi":
+    sort_title: Star Wars Despecialized-06
+    alt_title: Star Wars Episode 3 Return of the Jedi Despecialized Edition
+    edition: Despecialized
+    originally_available: 2013-05-29
+    content_rating: PG
+    director.sync: Petr Harmacek
+    label: FanFix
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Despecialized/Star%20Wars%20Episode%20III%20-%20Return%20of%20the%20Jedi/poster.png
+    url_background: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Despecialized/Star%20Wars%20Episode%20III%20-%20Return%20of%20the%20Jedi/background.png
     summary: Petr "Harmy" Harmacek introduces some of the sources used to create the Despecialized version of Star Wars.
 
   "Star Wars: Episode IV - A New Hope Revisited":
