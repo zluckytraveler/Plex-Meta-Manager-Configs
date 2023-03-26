@@ -993,7 +993,6 @@ metadata:
     sort_title: Star Wars Revisited-04
     alt_title: Star Wars Episode IV Special Edition Revisited
     edition: Revisited
-    edition_filter: Revisited
     originally_available: 2008-01-01
     content_rating: PG
     director.sync: Adywan
@@ -1004,7 +1003,6 @@ metadata:
     sort_title: Star Wars Revisited-05
     alt_title: Star Wars the Empire Strikes Back Revisited
     edition: Revisited
-    edition_filter: Revisited
     originally_available: 2017-08-01
     content_rating: PG
     director.sync: Adywan
