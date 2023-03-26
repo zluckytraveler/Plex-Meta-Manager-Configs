@@ -366,9 +366,23 @@ metadata:
     label: Extended
     summary: Good intentions wreak havoc when Tony Stark unwittingly creates Ultron, a terrifying A.I. monster who vows to achieve "world peace" via mass extinction. Inspired by SamSpider3’s own extended cut, this adds all-new deleted and extended scenes with finished VFX being masterfully reintegrated into the movie. adding 10 new scenes and 11 more minutes of footage.
 
-  "Avengers: Assembled":
+  "Avengers Assembled 1":
+    title: "Avengers: Assembled"
     sort_title: "Avengers: Assembled"
-    alt_title: "Avengers Reassembled"
+    alt_title: "Avengers: Reassembled"
+    originally_available: 2019-12-01
+    content_rating: PG-13
+    director.sync: Macmilln
+    producer.remove: Brandon Heim, Haley Volentine
+    writer.remove: Haley Volentine, Trevor Jean Volentine
+    genre.remove: Science Fiction
+    label: FanFix
+    summary: "An epic two-in-one edit of Avengers: Infinity War and Avengers: Endgame. Seamlessly combining the two films, along with credits scenes from Ant-Man and the Wasp and Captain Marvel. Additionally, there has been much cut from both films to remove some of the crappy dialogue and humour, to make for the most digestible and tolerable rewatch experience."
+    
+  "Avengers Assembled 2":
+    title: "Avengers: Assembled"
+    sort_title: "Avengers: Assembled"
+    alt_title: Avengers Reassembled
     originally_available: 2019-12-01
     content_rating: PG-13
     director.sync: Macmilln
