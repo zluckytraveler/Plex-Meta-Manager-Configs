@@ -948,7 +948,8 @@ metadata:
     originally_available: 2013-05-29
     content_rating: PG
     director.sync: Petr Harmacek
-    writer.remove: Peter Harmacek
+    producer.remove: Gary Kurtz, Rick McCallum
+    writer.remove: Peter Harmacek, George Lucas
     genre.remove: Documentary, Short
     country.remove: Czech Republic
     label: FanFix
@@ -977,6 +978,8 @@ metadata:
     originally_available: 2013-05-29
     content_rating: PG
     director.sync: Petr Harmacek
+    producer.remove: Rick McCallum, Howard G. Kazanjian
+    writer.remove: George Lucas, Lawrence Kasdan
     label: FanFix
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Despecialized/Star%20Wars%20Episode%20III%20-%20Return%20of%20the%20Jedi/poster.png
     url_background: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Despecialized/Star%20Wars%20Episode%20III%20-%20Return%20of%20the%20Jedi/background.png
