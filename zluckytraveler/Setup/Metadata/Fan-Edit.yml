@@ -917,6 +917,7 @@ metadata:
     sort_title: Star Wars Project4K-77
     alt_title: "Star Wars: Episode IV - A New Hope"
     edition: Project 4K
+    edition_filter: Project 4K
     originally_available: 1977-05-25
     content_rating: PG
     director.sync: George Lucas
@@ -931,6 +932,7 @@ metadata:
     sort_title: Star Wars Project4K-83
     alt_title: "Star Wars: Episode VI - Return of the Jedi"
     edition: Project 4K
+    edition_filter: Project 4K
     originally_available: 1983-05-25
     content_rating: PG
     director.sync: George Lucas
@@ -945,6 +947,7 @@ metadata:
     sort_title: Star Wars Despecialized-04
     alt_title: "Star Wars: Despecialized Edition Remastered V2.5, Introducing the Sources"
     edition: Despecialized
+    edition_filter: Despecialized
     originally_available: 2013-05-29
     content_rating: PG
     director.sync: Petr Harmacek
@@ -961,6 +964,7 @@ metadata:
     sort_title: Star Wars Despecialized-05
     alt_title: "Star Wars: Episode V - The Empire Strikes Back"
     edition: Despecialized
+    edition_filter: Despecialized
     originally_available: 2013-05-29
     content_rating: PG
     director.sync: Petr Harmacek
@@ -975,6 +979,7 @@ metadata:
     sort_title: Star Wars Despecialized-06
     alt_title: Star Wars Episode 3 Return of the Jedi Despecialized Edition
     edition: Despecialized
+    edition_filter: Despecialized
     originally_available: 2013-05-29
     content_rating: PG
     director.sync: Petr Harmacek
@@ -989,6 +994,7 @@ metadata:
     sort_title: Star Wars Revisited-04
     alt_title: Star Wars Episode IV Special Edition Revisited
     edition: Revisited
+    edition_filter: Revisited
     originally_available: 2008-01-01
     content_rating: PG
     director.sync: Adywan
@@ -999,6 +1005,7 @@ metadata:
     sort_title: Star Wars Revisited-05
     alt_title: Star Wars the Empire Strikes Back Revisited
     edition: Revisited
+    edition_filter: Revisited
     originally_available: 2017-08-01
     content_rating: PG
     director.sync: Adywan
