@@ -145,7 +145,7 @@ collections:
       sort_by: title.asc
       any:
         studio.is: Netflix
-        netwiork: Netflix
+        network: Netflix
       validate: false
       
   NHK:
