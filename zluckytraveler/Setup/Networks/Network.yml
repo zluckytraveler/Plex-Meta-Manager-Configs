@@ -295,15 +295,6 @@ collections:
         - Comedy Central Latinoamérica
       validate: false
       
-  Comic-Con HQ:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Comic%20Con%20HQ.png
-    sort_title: 06-Comic-Con HQ
-    smart_filter:
-      sort_by: title.asc
-      any:
-        network: Comic-Con HQ
-      validate: false
-      
   Crackle:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Crackle.png
     sort_title: 06-Crackle
