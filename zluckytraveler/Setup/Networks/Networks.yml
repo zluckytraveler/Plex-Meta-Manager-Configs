@@ -1432,16 +1432,3 @@ collections:
         - WWE Studios
         network: WWE Network
       validate: false
-
-  YouTube:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Youtube.png
-    sort_title: 06-Youtube
-    smart_filter:
-      sort_by: title.asc
-      any:
-        studio: YouTube
-        network:
-        - YouTube
-        - YouTube Premium
-        - Youtube Kids
-      validate: false
