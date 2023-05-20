@@ -19,7 +19,7 @@ collections:
     sort_title: 03-Awards Critics Choice Award
     collection_order: title.asc
     sync_mode: sync
-    trakt_list: https://trakt.tv/users/fdamico/lists/critics-choice-series?sort=title,asc
+    trakt_list: https://trakt.tv/users/fdamico/lists/critics-choice-series
     imdb_list: https://www.imdb.com/list/ls538625146/?sort=alpha
     visible_library: true
     
@@ -40,8 +40,8 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     trakt_list:
-    - https://trakt.tv/users/pd_review/lists/golden-globes-best-tv-drama?sort=title,desc
-    - https://trakt.tv/users/pd_review/lists/golden-globes-best-tv-comedy-musical?sort=title,desc
+    - https://trakt.tv/users/pd_review/lists/golden-globes-best-tv-drama
+    - https://trakt.tv/users/pd_review/lists/golden-globes-best-tv-comedy-musical
     imdb_list: 
       url: https://www.imdb.com/search/title/?title_type=tv_series,tv_miniseries&groups=golden_globe_winner&sort=alpha,asc
     visible_library: true
