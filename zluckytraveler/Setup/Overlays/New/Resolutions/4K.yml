@@ -4,37 +4,6 @@
 
 
 overlays:
-  1080p:
-    plex_search:
-      any:
-        resolution.regex: '(?i)1080|2k'
-      validate: false
-    overlay:
-      name: 1080p
-      group: Resolution-4K
-      weight: 10
-      horizontal_offset: 0
-      horizontal_align: center
-      vertical_offset: 0
-      vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/Solid/1080P.png
-
-  1080p-HDR:
-    plex_search:
-      all:
-        resolution.regex: '(?i)1080|2k'
-        hdr: true
-      validate: false
-    overlay:
-      name: 1080p-HDR
-      group: Resolution-4K
-      weight: 20
-      horizontal_offset: 0
-      horizontal_align: center
-      vertical_offset: 0
-      vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/Solid/1080P-HDR.png
-
   4K-UHD:
     plex_search:
       any:
