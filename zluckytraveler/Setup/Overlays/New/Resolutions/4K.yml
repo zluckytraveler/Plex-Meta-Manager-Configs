@@ -12,7 +12,7 @@ overlays:
     overlay:
       name: 4K-UHD
       group: Resolution-4K
-      weight: 40
+      weight: 10
       horizontal_offset: 0
       horizontal_align: center
       vertical_offset: 0
@@ -28,7 +28,7 @@ overlays:
     overlay:
       name: 4K-HDR
       group: Resolution-4K
-      weight: 80
+      weight: 20
       horizontal_offset: 0
       horizontal_align: center
       vertical_offset: 0
