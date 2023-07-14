@@ -5,7 +5,7 @@
 
 collections:
   Apple TV+:
-    tmdb_network: 16
+    tmdb_network: 2552
     sort_title: 06-Apple TV+
     collection_order: title.asc
     sync_mode: sync
