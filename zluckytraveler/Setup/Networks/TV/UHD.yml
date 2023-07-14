@@ -95,7 +95,7 @@ collections:
     sync_mode: sync
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MGM%2B.png
 
-  Netflix:
+  Netflix (UHD):
     tmdb_network: 213
     sort_title: 06-Netflix
     collection_order: title.asc
