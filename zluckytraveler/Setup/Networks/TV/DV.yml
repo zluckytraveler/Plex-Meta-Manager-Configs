@@ -82,7 +82,7 @@ collections:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO.png
 
   Hulu (DV):
-    tmdb_network: 453
+    tmdb_network: 453, 1772
     sort_title: 06-Hulu
     collection_order: title.asc
     sync_mode: sync
