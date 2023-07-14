@@ -61,7 +61,7 @@ collections:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Discovery%2B.png
 
   Disney+ (UHD):
-    tmdb_network: 2739
+    tmdb_network: 2739, 3919, 6029, 6074
     sort_title: 06-Disney+
     collection_order: title.asc
     sync_mode: sync
@@ -103,7 +103,7 @@ collections:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Netflix.png
 
   Paramount+ (UHD):
-    tmdb_network: 4330, 5506, 5511, 5567, 6100, 6183, 6318, 6445, 6631
+    tmdb_network: 2076, 4330, 5506, 5511, 5567, 6100, 6183, 6318, 6445, 6631
     sort_title: 06-Paramount+
     collection_order: title.asc
     sync_mode: sync
@@ -124,7 +124,7 @@ collections:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Showtime.png
 
   Starz (UHD):
-    tmdb_network: 318, 758
+    tmdb_network: 318, 758, 5594, 6222, 6292
     sort_title: 06-Starz
     collection_order: title.asc
     sync_mode: sync
