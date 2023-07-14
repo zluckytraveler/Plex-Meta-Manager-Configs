@@ -4,7 +4,7 @@
 
 
 collections:
-  Amazon (DV):
+  Amazon (DV) :
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
     sort_title: 06-Amazon
     collection_order: title.asc
@@ -13,7 +13,7 @@ collections:
     - https://letterboxd.com/theflarkone/list/amazon-originals/by/name/
     - https://letterboxd.com/bzeltzer/list/list-of-amazon-prime-video-original-films/by/name/
     
-  Apple TV+ (DV):
+  Apple TV+ (DV) :
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Apple%20TV.png
     sort_title: 06-Apple TV+
     collection_order: title.asc
@@ -22,7 +22,7 @@ collections:
     - https://letterboxd.com/bzeltzer/list/list-of-apple-tv-original-programming/by/name/
     - https://letterboxd.com/theflarkone/list/apple-tv-originals/by/name/
     
-  Disney+ (DV):
+  Disney+ (DV) :
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%2B.png
     sort_title: 06-Disney+
     collection_order: title.asc
@@ -31,7 +31,7 @@ collections:
     - https://letterboxd.com/theflarkone/list/disney-originals/by/name/
     - https://letterboxd.com/bzeltzer/list/list-of-disney-original-films/by/name/
     
-  HBO (DV):
+  HBO (DV) :
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO.png
     sort_title: 06-HBO
     collection_order: title.asc
@@ -43,7 +43,7 @@ collections:
     - https://letterboxd.com/theflarkone/list/hbo-max-originals/by/name/
     - https://letterboxd.com/bzeltzer/list/list-of-hbo-max-original-programming/by/name/
     
-  Hulu (DV):
+  Hulu (DV) :
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Hulu.png
     sort_title: 06-Hulu
     collection_order: title.asc
@@ -52,7 +52,7 @@ collections:
     - https://letterboxd.com/theflarkone/list/hulu-originals/by/name/
     - https://letterboxd.com/bzeltzer/list/list-of-hulu-original-programming/by/name/
     
-  Netflix (DV):
+  Netflix (DV) :
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Netflix.png
     sort_title: 06-Netflix
     collection_order: title.asc
@@ -62,21 +62,21 @@ collections:
     - https://letterboxd.com/bzeltzer/list/list-of-netflix-original-stand-up-comedy/by/name/
     - https://letterboxd.com/bzeltzer/list/list-of-netflix-original-films/by/name/
     
-  Paramount+ (DV):
+  Paramount+ (DV) :
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Paramount.png
     sort_title: 06-Paramount+
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: https://letterboxd.com/bzeltzer/list/list-of-paramount-original-programming/by/name/
     
-  Peacock (DV):
+  Peacock (DV) :
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Peacock.png
     sort_title: 06-Peacock
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: https://letterboxd.com/bzeltzer/list/list-of-peacock-original-programming/by/name/
     
-  Youtube (DV):
+  Youtube (DV) :
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Youtube.png
     sort_title: 06-Youtube
     collection_order: title.asc
