@@ -1,0 +1,26 @@
+######################################################
+#                   NETWORKS -  TV                   #
+######################################################
+
+
+collections:
+  Apple TV+:
+    tmdb_network: 16
+    sort_title: 06-Apple TV+
+    collection_order: title.asc
+    sync_mode: sync
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Apple%20TV.png
+
+  Disney+:
+    tmdb_network: 2739
+    sort_title: 06-Disney+
+    collection_order: title.asc
+    sync_mode: sync
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%2B.png
+
+  FX:
+    tmdb_network: 88, 1641, 1035
+    sort_title: 06-FX
+    collection_order: title.asc
+    sync_mode: sync
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/FX.png
