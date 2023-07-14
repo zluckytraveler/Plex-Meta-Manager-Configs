@@ -93,7 +93,7 @@ collections:
     sort_title: 06-MGM+
     collection_order: title.asc
     sync_mode: sync
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Apple%20TV.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MGM%2B.png
 
   Netflix:
     tmdb_network: 213
