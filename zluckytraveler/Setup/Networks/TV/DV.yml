@@ -75,7 +75,7 @@ collections:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/FX.png
 
   HBO (DV):
-    tmdb_network: 49, 1062, 1089, 1129, 1303, 1590, 2593,3308, 3618, 3877, 5484, 5485, 5646, 3186, 5479, 5666, 5750, 5764, 5836
+    tmdb_network: 49, 1062, 1089, 1129, 1303, 1590, 2593, 3186, 3308, 3618, 3877, 5479, 5484, 5485, 5646, 5666, 5750, 5764, 5836, 6783
     sort_title: 06-HBO
     collection_order: title.asc
     sync_mode: sync
