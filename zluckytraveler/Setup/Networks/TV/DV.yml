@@ -130,9 +130,9 @@ collections:
     sync_mode: sync
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Starz.png
 
-  YouTube Premium:
+  YouTube:
     tmdb_network: 1436
-    sort_title: 06-YouTube Premium
+    sort_title: 06-YouTube
     collection_order: title.asc
     sync_mode: sync
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Youtube.png
