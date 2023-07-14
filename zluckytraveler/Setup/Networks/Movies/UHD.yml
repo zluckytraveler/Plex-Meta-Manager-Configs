@@ -40,13 +40,6 @@ collections:
     - https://letterboxd.com/jorgemora4/list/hbo-original-films/by/name/
     - https://letterboxd.com/jorgemora4/list/hbo-original-documentaries/by/name/
     - https://letterboxd.com/neperfectionist/list/hbo-original-stand-up-comedy-specials/by/name/
-    
-  HBO Max - UHD:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO%20Max.png
-    sort_title: 06-HBO Max
-    collection_order: title.asc
-    sync_mode: sync
-    letterboxd_list: 
     - https://letterboxd.com/theflarkone/list/hbo-max-originals/by/name/
     - https://letterboxd.com/bzeltzer/list/list-of-hbo-max-original-programming/by/name/
     
