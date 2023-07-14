@@ -4,6 +4,15 @@
 
 
 collections:
+  Amazon - UHD:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
+    sort_title: 06-Amazon
+    collection_order: title.asc
+    sync_mode: sync
+    letterboxd_list: 
+    - https://letterboxd.com/theflarkone/list/amazon-originals/by/name/
+    - https://letterboxd.com/bzeltzer/list/list-of-amazon-prime-video-original-films/by/name/
+    
   Apple TV+ - UHD:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Apple%20TV.png
     sort_title: 06-Apple TV+
@@ -66,15 +75,6 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: https://letterboxd.com/bzeltzer/list/list-of-peacock-original-programming/by/name/
-
-  Prime Video - UHD:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
-    sort_title: 06-Prime Video
-    collection_order: title.asc
-    sync_mode: sync
-    letterboxd_list: 
-    - https://letterboxd.com/theflarkone/list/amazon-originals/by/name/
-    - https://letterboxd.com/bzeltzer/list/list-of-amazon-prime-video-original-films/by/name/
     
   Youtube - UHD:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Youtube.png
