@@ -1,10 +1,10 @@
 ######################################################
-#              POPULAR - FOREIGN MOVIES              #
+#              POPULAR (Foreign) MOVIES              #
 ######################################################
 
 
 collections:
-  Popular Movies - Foreign:
+  Popular Movies (Foreign):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Movies.png
     sort_title: 01-Popular Movies
     collection_order: custom
