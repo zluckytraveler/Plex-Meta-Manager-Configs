@@ -10,7 +10,6 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: https://letterboxd.com/rantonucci/list/baftas-best-film-outstanding-british-film/by/name/
-    visible_library: true
     
   Berlinale Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Berlinale.png
@@ -18,7 +17,6 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: https://letterboxd.com/moviewithus/list/berlin-film-festival-winners/by/name/
-    visible_library: true
     
   Cannes Film Festival Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Cannes.png
@@ -28,7 +26,6 @@ collections:
     letterboxd_list: 
     - https://letterboxd.com/moviewithus/list/cannes-winners/by/name/
     - https://letterboxd.com/deepbluefunk/list/short-film-winners-cannes/by/name/
-    visible_library: true
     
   Emmy Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
@@ -37,7 +34,6 @@ collections:
     sync_mode: sync
     imdb_list: 
       url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=emmy_winner&sort=alpha,asc
-    visible_library: true
     
   European Film Award Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/European%20Film%20Awards.png
@@ -51,7 +47,6 @@ collections:
     - https://letterboxd.com/moviedoc/list/european-film-award-best-animated-feature/by/name/
     - https://letterboxd.com/moviedoc/list/european-film-award-best-comedy-winners-2013/by/name/
     - https://letterboxd.com/moviedoc/list/european-film-awards-best-film-winners-1988/by/name/
-    visible_library: true
     
   Golden Globe Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
@@ -59,7 +54,6 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: https://letterboxd.com/jonny5244/list/golden-globe-winners/by/name/
-    visible_library: true
       
   Locarno Film Festival Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Locarno%20Film%20Festival.png
@@ -72,7 +66,6 @@ collections:
     - https://letterboxd.com/drwade42/list/locarno-best-director-winners-ranked/by/name/
     - https://letterboxd.com/drwade42/list/locarno-best-actor-winners-ranked/by/name/
     - https://letterboxd.com/drwade42/list/locarno-best-actress-winners-ranked/by/name/
-    visible_library: true
     
   Oscar Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Ocar.png
@@ -80,7 +73,6 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: https://letterboxd.com/floorman/list/every-oscar-winner-ever-1/by/name/
-    visible_library: true
       
   Sundance Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Sundance.png
@@ -91,7 +83,6 @@ collections:
     - https://letterboxd.com/neperfectionist/list/sundance-film-festival-winners-us-dramatic/by/name/
     - https://letterboxd.com/deepbluefunk/list/sundance-short-film-winners/by/name/
     - https://letterboxd.com/glicose/list/winners-of-sundance/by/name/
-    visible_library: true
     
   Venice Film Festival Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Venice%20Film%20Festival.png
@@ -99,4 +90,3 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: https://letterboxd.com/moviewithus/list/venice-winners/by/name/
-    visible_library: true
