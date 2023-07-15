@@ -1,10 +1,10 @@
 ######################################################
-#                POPULAR - FOREIGN TV                #
+#                POPULAR (Foreign) TV                #
 ######################################################
 
 
 collections:
-  Popular Shows - Foreign:
+  Popular Shows (Foreign):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Movies.png
     sort_title: 01-Popular Shows
     collection_order: custom
