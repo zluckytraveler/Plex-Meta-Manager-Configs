@@ -4,7 +4,7 @@
 
 
 collections:
-  BAFTA Winners - DV:
+  BAFTA Winners (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
     sort_title: 03-Awards BAFTA
     collection_order: title.asc
@@ -12,7 +12,7 @@ collections:
     imdb_list: https://www.imdb.com/list/ls538625886/?sort=alpha
     visible_library: true
     
-  Critics Choice Award Winners - DV:
+  Critics Choice Award Winners (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Critics%20Choice%20Awards.png
     sort_title: 03-Awards Critics Choice Award
     collection_order: title.asc
@@ -21,7 +21,7 @@ collections:
     imdb_list: https://www.imdb.com/list/ls538625146/?sort=alpha
     visible_library: true
     
-  Emmy Winners - DV:
+  Emmy Winners (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
     sort_title: 03-Awards Emmy
     collection_order: title.asc
@@ -30,7 +30,7 @@ collections:
       url: https://www.imdb.com/search/title/?title_type=tv_series,tv_episode,tv_special,tv_miniseries,video,tv_short,podcast_series,podcast_episode,music_video&groups=emmy_winner&sort=alpha,asc
     visible_library: true
     
-  Golden Globe Winners - DV:
+  Golden Globe Winners (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
     sort_title: 03-Awards Golden Globes
     collection_order: title.asc
