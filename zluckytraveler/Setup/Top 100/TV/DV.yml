@@ -4,7 +4,7 @@
 
 
 collections:
-  Top 100 Shows - DV:
+  Top 100 Shows (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Top%20100/Top%20100.png
     sort_title: 02-Top 100
     collection_order: custom
