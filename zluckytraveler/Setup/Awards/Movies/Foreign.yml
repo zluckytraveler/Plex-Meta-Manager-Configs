@@ -48,7 +48,7 @@ collections:
     - https://letterboxd.com/moviedoc/list/european-film-award-best-comedy-winners-2013/by/name/
     - https://letterboxd.com/moviedoc/list/european-film-awards-best-film-winners-1988/by/name/
     
-  Filmfare Winners:
+  Filmfare Winners (Foreign):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Filmfare.png
     sort_title: 03-Awards Filmfare
     collection_order: title.asc
