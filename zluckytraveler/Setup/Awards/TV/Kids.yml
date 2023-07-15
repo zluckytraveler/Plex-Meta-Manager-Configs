@@ -10,7 +10,6 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     imdb_list: https://www.imdb.com/list/ls538625886/?sort=alpha
-    visible_library: true
     
   Critics Choice Award Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Critics%20Choice%20Awards.png
@@ -19,7 +18,6 @@ collections:
     sync_mode: sync
     trakt_list: https://trakt.tv/users/fdamico/lists/critics-choice-series?sort=title,asc
     imdb_list: https://www.imdb.com/list/ls538625146/?sort=alpha
-    visible_library: true
     
   Emmy Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
@@ -28,7 +26,6 @@ collections:
     sync_mode: sync
     imdb_list: 
       url: https://www.imdb.com/search/title/?title_type=tv_series,tv_episode,tv_special,tv_miniseries,video,tv_short,podcast_series,podcast_episode,music_video&groups=emmy_winner&sort=alpha,asc
-    visible_library: true
     
   Golden Globe Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
@@ -40,4 +37,3 @@ collections:
     - https://trakt.tv/users/pd_review/lists/golden-globes-best-tv-comedy-musical?sort=title,asc
     imdb_list: 
       url: https://www.imdb.com/search/title/?title_type=tv_series,tv_miniseries&groups=golden_globe_winner&sort=alpha,asc
-    visible_library: true
