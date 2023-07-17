@@ -4,13 +4,6 @@
 
 
 collections:
-  BAFTA Winners:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
-    sort_title: 03-Awards BAFTA
-    collection_order: title.asc
-    sync_mode: sync
-    imdb_list: https://www.imdb.com/list/ls538625886/?sort=alpha
-    
   Critics Choice Award Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Critics%20Choice%20Awards.png
     sort_title: 03-Awards Critics Choice Award
