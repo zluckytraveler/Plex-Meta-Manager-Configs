@@ -4,6 +4,50 @@
 
 
 collections:
+  BAFTA Winners:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
+    sort_title: 03-Awards BAFTA
+    collection_order: title.asc
+    sync_mode: sync
+    letterboxd_list: https://letterboxd.com/rantonucci/list/baftas-best-film-outstanding-british-film/by/name/
+    
+  Berlinale Winners:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Berlinale.png
+    sort_title: 03-Awards Berlinale
+    collection_order: title.asc
+    sync_mode: sync
+    letterboxd_list: https://letterboxd.com/moviewithus/list/berlin-film-festival-winners/by/name/
+    
+  Cannes Film Festival Winners:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Cannes.png
+    sort_title: 03-Awards Cannes
+    collection_order: title.asc
+    sync_mode: sync
+    letterboxd_list: 
+    - https://letterboxd.com/moviewithus/list/cannes-winners/by/name/
+    - https://letterboxd.com/deepbluefunk/list/short-film-winners-cannes/by/name/
+    
+  Emmy Winners:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
+    sort_title: 03-Awards Emmy
+    collection_order: title.asc
+    sync_mode: sync
+    imdb_list: 
+      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=emmy_winner&sort=alpha,asc
+    
+  European Film Award Winners:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/European%20Film%20Awards.png
+    sort_title: 03-Awards European Film Awards
+    collection_order: title.asc
+    sync_mode: sync
+    letterboxd_list: 
+    - https://letterboxd.com/ra_pha/list/european-film-awards/by/name/
+    - https://letterboxd.com/reysol/list/european-film-award-for-best-film-1988-2021/by/name/
+    - https://letterboxd.com/moviedoc/list/european-film-award-best-documentary-winners/by/name/
+    - https://letterboxd.com/moviedoc/list/european-film-award-best-animated-feature/by/name/
+    - https://letterboxd.com/moviedoc/list/european-film-award-best-comedy-winners-2013/by/name/
+    - https://letterboxd.com/moviedoc/list/european-film-awards-best-film-winners-1988/by/name/
+    
   Golden Globe Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
     sort_title: 03-Awards Golden Globes
