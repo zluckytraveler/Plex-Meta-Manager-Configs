@@ -25,11 +25,3 @@ collections:
     sync_mode: sync
     letterboxd_list: 
       url: https://letterboxd.com/jonny5244/list/golden-globe-winners/
-
-  Venice Film Festival Winners (Anime):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Venice%20Film%20Festival.png
-    sort_title: 03-Awards Venice Film Festival
-    collection_order: custom
-    sync_mode: sync
-    letterboxd_list_details: 
-      url: https://letterboxd.com/moviewithus/list/venice-winners/
