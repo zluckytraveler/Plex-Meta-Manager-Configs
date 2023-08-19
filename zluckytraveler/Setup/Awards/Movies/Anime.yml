@@ -17,11 +17,3 @@ collections:
     collection_order: custom
     sync_mode: sync
     letterboxd_list_details: https://letterboxd.com/moviewithus/list/berlin-film-festival-winners/
-
-  Golden Globe Winners (Anime):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
-    sort_title: 03-Awards Golden Globes
-    collection_order: custom
-    sync_mode: sync
-    letterboxd_list: 
-      url: https://letterboxd.com/jonny5244/list/golden-globe-winners/
