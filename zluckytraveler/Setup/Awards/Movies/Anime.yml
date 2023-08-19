@@ -7,7 +7,7 @@ collections:
   BAFTA Winners (Anime):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
     sort_title: 03-Awards BAFTA
-    collection_order: title.asc
+    collection_order: custom
     sync_mode: sync
     letterboxd_list: https://letterboxd.com/rantonucci/list/baftas-best-film-outstanding-british-film/by/name/
     
@@ -16,77 +16,4 @@ collections:
     sort_title: 03-Awards Berlinale
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: https://letterboxd.com/moviewithus/list/berlin-film-festival-winners/by/name/
-    
-  Cannes Film Festival Winners (Anime):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Cannes.png
-    sort_title: 03-Awards Cannes
-    collection_order: title.asc
-    sync_mode: sync
-    letterboxd_list: 
-    - https://letterboxd.com/moviewithus/list/cannes-winners/by/name/
-    - https://letterboxd.com/deepbluefunk/list/short-film-winners-cannes/by/name/
-    
-  Emmy Winners (Anime):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
-    sort_title: 03-Awards Emmy
-    collection_order: title.asc
-    sync_mode: sync
-    imdb_list: 
-      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=emmy_winner&sort=alpha,asc
-      
-  European Film Award Winners (Anime):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/European%20Film%20Awards.png
-    sort_title: 03-Awards European Film Awards
-    collection_order: title.asc
-    sync_mode: sync
-    letterboxd_list: 
-    - https://letterboxd.com/ra_pha/list/european-film-awards/by/name/
-    - https://letterboxd.com/reysol/list/european-film-award-for-best-film-1988-2021/by/name/
-    - https://letterboxd.com/moviedoc/list/european-film-award-best-documentary-winners/by/name/
-    - https://letterboxd.com/moviedoc/list/european-film-award-best-animated-feature/by/name/
-    - https://letterboxd.com/moviedoc/list/european-film-award-best-comedy-winners-2013/by/name/
-    - https://letterboxd.com/moviedoc/list/european-film-awards-best-film-winners-1988/by/name/
-    
-  Golden Globe Winners (Anime):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
-    sort_title: 03-Awards Golden Globes
-    collection_order: title.asc
-    sync_mode: sync
-    letterboxd_list: https://letterboxd.com/jonny5244/list/golden-globe-winners/by/name/
-      
-  Locarno Film Festival Winners (Anime):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Locarno%20Film%20Festival.png
-    sort_title: 03-Awards Locarno Film Festival
-    collection_order: title.asc
-    sync_mode: sync
-    letterboxd_list: 
-    - https://letterboxd.com/drwade42/list/golden-leopard-winners-ranked/by/name/
-    - https://letterboxd.com/drwade42/list/locarno-special-jury-prize-winners-ranked/by/name/
-    - https://letterboxd.com/drwade42/list/locarno-best-director-winners-ranked/by/name/
-    - https://letterboxd.com/drwade42/list/locarno-best-actor-winners-ranked/by/name/
-    - https://letterboxd.com/drwade42/list/locarno-best-actress-winners-ranked/by/name/
-    
-  Oscar Winners (Anime):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Ocar.png
-    sort_title: 03-Awards Oscars
-    collection_order: title.asc
-    sync_mode: sync
-    letterboxd_list: https://letterboxd.com/floorman/list/every-oscar-winner-ever-1/by/name/
-      
-  Sundance Winners (Anime):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Sundance.png
-    sort_title: 03-Awards Sundance
-    collection_order: title.asc
-    sync_mode: sync
-    letterboxd_list: 
-    - https://letterboxd.com/neperfectionist/list/sundance-film-festival-winners-us-dramatic/by/name/
-    - https://letterboxd.com/deepbluefunk/list/sundance-short-film-winners/by/name/
-    - https://letterboxd.com/glicose/list/winners-of-sundance/by/name/
-    
-  Venice Film Festival Winners (Anime):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Venice%20Film%20Festival.png
-    sort_title: 03-Awards Venice Film Festival
-    collection_order: title.asc
-    sync_mode: sync
-    letterboxd_list: https://letterboxd.com/moviewithus/list/venice-winners/by/name/
+    letterboxd_list: https://letterboxd.com/moviewithus/list/berlin-film-festival-winners
