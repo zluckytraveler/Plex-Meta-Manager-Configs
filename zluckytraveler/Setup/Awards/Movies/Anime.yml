@@ -32,4 +32,4 @@ collections:
     collection_order: custom
     sync_mode: sync
     letterboxd_list_details: 
-      url: https://letterboxd.com/moviewithus/list/venice-winners/by/name/
+      url: https://letterboxd.com/moviewithus/list/venice-winners/
