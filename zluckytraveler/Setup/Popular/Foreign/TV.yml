@@ -9,8 +9,6 @@ collections:
     sort_title: 01-Popular Shows
     collection_order: custom
     sync_mode: sync
-    tmdb_discover:
-      sort_by: popularity.desc
-      limit: 2000
+    mdblist_list: https://mdblist.com/lists/zluckytraveler/popular-shows-foreign
     limit: 50
     visible_library: true
