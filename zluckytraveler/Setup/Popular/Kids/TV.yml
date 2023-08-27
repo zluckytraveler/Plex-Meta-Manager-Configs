@@ -9,6 +9,6 @@ collections:
     sort_title: 01-Popular Shows
     collection_order: custom
     sync_mode: sync
-    mdblist_list: https://mdblist.com/lists/zluckytraveler/popular-shows-kids
+    mdblist_list: https://mdblist.com/lists/zluckytraveler/popular-shows-kids-6g1bp1fqq5
     limit: 50
     visible_library: true
