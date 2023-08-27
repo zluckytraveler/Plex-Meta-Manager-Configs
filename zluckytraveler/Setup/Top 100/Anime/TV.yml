@@ -9,6 +9,6 @@ collections:
     sort_title: 02-Top 100
     collection_order: custom
     sync_mode: sync
-    anilist_top_rated: 1500
+    mal_tv: 500
     limit: 100
     visible_library: true
