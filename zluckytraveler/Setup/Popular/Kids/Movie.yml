@@ -9,6 +9,6 @@ collections:
     sort_title: 01-Popular Movies
     collection_order: custom
     sync_mode: sync
-    mdblist_list: https://mdblist.com/lists/zluckytraveler/popular-movies-kids
+    mdblist_list: https://mdblist.com/lists/zluckytraveler/popular-movies-kids-6caxh2acze
     limit: 50
     visible_library: true
