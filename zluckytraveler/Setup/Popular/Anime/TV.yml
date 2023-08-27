@@ -1,14 +1,17 @@
 ######################################################
-#                POPULAR (Anime) SHOWS               #
+#                POPULAR (Anime) MOVIES              #
 ######################################################
 
 
 collections:
-  Popular Shows (Anime):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Shows.png
+  Popular Movies (Anime):
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Movies.png
     sort_title: 01-Popular
     collection_order: custom
     sync_mode: sync
-    mdblist_list: https://mdblist.com/lists/zluckytraveler/popular-shows-anime
+    mal_search:
+      type: tv
+      sort_by: popularity.desc
+      limit: 500
     limit: 50
     visible_library: true
