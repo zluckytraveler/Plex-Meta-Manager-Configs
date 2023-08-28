@@ -9,7 +9,8 @@ collections:
     sort_title: 01-Popular Movies
     collection_order: custom
     sync_mode: sync
-    mdblist_list: https://mdblist.com/lists/zluckytraveler/popular-movies-foreign-mfbg0rymop
+    mdblist_list: 
+      url: https://mdblist.com/lists/zluckytraveler/popular-movies-foreign-mfbg0rymop
       sort_by: imdbpopular.desc
     limit: 50
     visible_library: true
