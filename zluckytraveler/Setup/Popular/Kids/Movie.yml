@@ -10,5 +10,6 @@ collections:
     collection_order: custom
     sync_mode: sync
     mdblist_list: https://mdblist.com/lists/zluckytraveler/popular-movies-kids-6caxh2acze
+      sort_by: imdbpopular.desc
     limit: 50
     visible_library: true
