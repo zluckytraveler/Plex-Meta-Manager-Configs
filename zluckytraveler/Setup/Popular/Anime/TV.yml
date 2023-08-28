@@ -11,7 +11,7 @@ collections:
     sync_mode: sync
     mal_search:
       type: tv
-      sort_by: popularity.desc
-      limit: 1000
+      sort_by: popularity.asc
+      limit: 500
     limit: 50
     visible_library: true
