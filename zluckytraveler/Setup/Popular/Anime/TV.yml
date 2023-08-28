@@ -1,11 +1,11 @@
 ######################################################
-#                 POPULAR (Anime) TV                 #
+#                  POPULAR ANIME TV                  #
 ######################################################
 
 
 collections:
   Popular Shows (Anime):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Movies.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Shows.png
     sort_title: 01-Popular
     collection_order: custom
     sync_mode: sync
