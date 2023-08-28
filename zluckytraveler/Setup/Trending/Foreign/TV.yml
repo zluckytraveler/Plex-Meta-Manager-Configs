@@ -5,7 +5,7 @@
 
 collections:
   Trending Shows (Foreign):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Trending/Trending%20Movies.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Trending/Trending%20Shows.png
     sort_title: 01-Trending Shows
     collection_order: custom
     sync_mode: sync
