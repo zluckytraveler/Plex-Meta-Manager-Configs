@@ -12,6 +12,6 @@ collections:
     mal_search:
       type: tv
       sort_by: popularity.desc
-      limit: 500
+      limit: 1000
     limit: 50
     visible_library: true
