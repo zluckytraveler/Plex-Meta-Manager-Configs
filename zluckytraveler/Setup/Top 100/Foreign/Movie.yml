@@ -9,7 +9,8 @@ collections:
     sort_title: 02-Top 100
     collection_order: custom
     sync_mode: sync
-    mdblist_list: https://mdblist.com/lists/zluckytraveler/top-100-movies-foreign-dlvdlrrgek
+    mdblist_list: 
+      url: https://mdblist.com/lists/zluckytraveler/top-100-movies-foreign-dlvdlrrgek
       sort_by: score.desc
     limit: 100
     visible_library: true
