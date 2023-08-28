@@ -11,7 +11,7 @@ collections:
     sync_mode: sync
     mal_search:
       type: movie
-      sort_by: popularity.desc
-      limit: 500
+      sort_by: popularity.asc
+      limit: 1000
     limit: 50
     visible_library: true
