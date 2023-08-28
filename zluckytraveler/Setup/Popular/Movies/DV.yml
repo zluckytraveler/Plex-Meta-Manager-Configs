@@ -11,5 +11,6 @@ collections:
     sync_mode: sync
     mdblist_list: 
       url: https://mdblist.com/lists/zluckytraveler/popular-movies-hduhddv-f11lzxojq9
+      sort_by: imdbpopular.desc
     limit: 50
     visible_library: true
