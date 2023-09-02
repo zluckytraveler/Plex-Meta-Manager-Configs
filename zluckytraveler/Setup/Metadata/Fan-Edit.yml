@@ -436,6 +436,15 @@ metadata:
     label: FanFix
     summary: "'No Justice' refocuses Batman v. Superman on its central conflict between Man and God. All aspects of its 'Dawn of Justice' subtitle are excluded: Wonder Woman, the Justice League, Doomsday, Darkseid and the Kryptonian ship. These omissions create a more coherent and accessible story, intended for a wider audience."
 
+  Crisis on Earth-X:
+    sort_title: Crisis on Earth-X
+    alt_title: Better Cut Saul
+    originally_available: 2022-09-01
+    content_rating: PG-13
+    director.sync: BionicBob
+    label: Special
+    summary: Super powered Nazis from a parallel world invade! What is their ultimate goal and can our Arrowverse Heroes stop them?!?!
+
   Better Cut Saul:
     sort_title: Better Cut Saul
     alt_title: Better Cut Saul
