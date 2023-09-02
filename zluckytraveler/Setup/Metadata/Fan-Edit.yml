@@ -445,6 +445,16 @@ metadata:
     label: Special
     summary: An edit of the show that wraps it up into a 2h20 feature film!
 
+  Blade Runner 2008:
+    sort_title: Blade Runner 2008:
+    alt_title: 
+    edition: Extended Edition
+    originally_available: 2008-03-01
+    content_rating: R
+    director.sync: ADigitalMan
+    label: FanFix
+    summary: This edit weaves back and forth between the International Cut, the Final Cut, and the deleted scenes to provide a more detailed telling of the tormented soul of Rick Deckard, Blade Runner (Retired).
+    
   "Blade Runner 2049: Aerodynamik":
     sort_title: "Blade Runner 2049: Aerodynamik"
     alt_title: Blade Runner 2049
@@ -475,16 +485,6 @@ metadata:
     director.sync: TM2YC
     label: Special
     summary: The Penultimate Cut is named because it's supposed to be one step back from 'The Final Cut'. Ridley Scott's final/ultimate version of 'Blade Runner' but how it used to look and feel.
-
-  Blade Runner 2008:
-    sort_title: Blade Runner 2008:
-    alt_title: 
-    edition: Extended Edition
-    originally_available: 2008-03-01
-    content_rating: R
-    director.sync: ADigitalMan
-    label: FanFix
-    summary: This edit weaves back and forth between the International Cut, the Final Cut, and the deleted scenes to provide a more detailed telling of the tormented soul of Rick Deckard, Blade Runner (Retired).
 
   Blue Velvet:
     sort_title: Blue Velvet
