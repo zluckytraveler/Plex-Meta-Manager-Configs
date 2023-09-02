@@ -436,15 +436,6 @@ metadata:
     label: FanFix
     summary: "'No Justice' refocuses Batman v. Superman on its central conflict between Man and God. All aspects of its 'Dawn of Justice' subtitle are excluded: Wonder Woman, the Justice League, Doomsday, Darkseid and the Kryptonian ship. These omissions create a more coherent and accessible story, intended for a wider audience."
 
-  Crisis on Earth-X:
-    sort_title: Crisis on Earth-X
-    alt_title: "Climate Crisis: Earth on the Edge"
-    originally_available: 2022-09-01
-    content_rating: PG-13
-    director.sync: BionicBob
-    label: Special
-    summary: Super powered Nazis from a parallel world invade! What is their ultimate goal and can our Arrowverse Heroes stop them?!?!
-
   Better Cut Saul:
     sort_title: Better Cut Saul
     alt_title: Better Cut Saul
@@ -485,6 +476,16 @@ metadata:
     label: Special
     summary: The Penultimate Cut is named because it's supposed to be one step back from 'The Final Cut'. Ridley Scott's final/ultimate version of 'Blade Runner' but how it used to look and feel.
 
+  Blade Runner 2008:
+    sort_title: Blade Runner 2008:
+    alt_title: 
+    edition: Extended Edition
+    originally_available: 2008-03-01
+    content_rating: R
+    director.sync: ADigitalMan
+    label: FanFix
+    summary: This edit weaves back and forth between the International Cut, the Final Cut, and the deleted scenes to provide a more detailed telling of the tormented soul of Rick Deckard, Blade Runner (Retired).
+
   Blue Velvet:
     sort_title: Blue Velvet
     alt_title: Blue Velvet Q2 Edition
@@ -494,6 +495,24 @@ metadata:
     director.sync: Q2
     label: Extended
     summary: David Lynch's masterpiece with all deleted scenes reincorporated.
+
+  Crisis on Earth-X:
+    sort_title: Crisis on Earth-X
+    alt_title: "Climate Crisis: Earth on the Edge"
+    originally_available: 2022-09-01
+    content_rating: PG-13
+    director.sync: BionicBob
+    label: Special
+    summary: Super powered Nazis from a parallel world invade! What is their ultimate goal and can our Arrowverse Heroes stop them?!?!
+
+  "Crisis on Infinite Earths: The Legacy of Oliver Queen":
+    sort_title: "Crisis on Infinite Earths: The Legacy of Oliver Queen"
+    alt_title: 
+    originally_available: 2023-06-01
+    content_rating: PG-13
+    director.sync: BionicBob
+    label: Special
+    summary: The CRISIS has arrived! The Multiverse is under attack and only the Heroes of the Arrowverse can save the day.
 
   "Dawn of Justice: Part 1 The Outsider":
     sort_title: "Dawn of Justice: Part 1 The Outsider"
@@ -636,6 +655,15 @@ metadata:
     label: FanFix
     summary: The Godfather, The Godfather Part 2 and 3 are monumental masterpieces. This Godfather Magnum Opus will over two movies restore all available HD material to a total run time of 602 min. A few minutes never seen in HD, making it the longest possible chronological version ever seen and UNCENSORED! PLUS, the original ending of Part 3, which MUST be in full and not truncated as it was in Coda, has been restored (together with the 14 mins removed from Coda).
 
+  "H8teful: Reconstructed Hateful 8 Roadshow Version":
+    sort_title: "H8teful: Reconstructed Hateful 8 Roadshow Version"
+    alt_title: 
+    originally_available: 2022-10-01
+    content_rating: R
+    director.sync: Wraith
+    label: Extended
+    summary: This version runs 191 minutes and for now it is the longest runtime version you can watch!
+  
   "The Hobbit: The Spence Edit":
     sort_title: "Hobbit: The Spence Edit"
     alt_title: The Hobbit the Spence Edit
