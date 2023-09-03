@@ -254,7 +254,7 @@ metadata:
     label: Regrade
 
   "Tron: Legacy":
-    title: "TRON: Legacy"
+    title: "Tron: Legacy"
     label: Regrade
 
   Troy:
@@ -571,8 +571,8 @@ metadata:
     label: Special
     summary: On 30th October 2014 BBC3 screened a new version of Nicholas Winding Refn's 2011 film 'Drive' with an all-new score of original music. It was curated by Radio 1 DJ Zane Lowe with the full co-operation of the Director. So it's one of those rare "Official Fanedits".
 
-  Dune Deluxe Edition:
-    sort_title: Dune Deluxe Edition
+  "Dune: Deluxe Edition":
+    sort_title: "Dune: Deluxe Edition"
     alt_title: Dune Deluxe Edition
     originally_available: 2020-10-01
     content_rating: PG-13
@@ -660,7 +660,7 @@ metadata:
 
   "The Godfather: Don Vito’s Opus":
     sort_title: "Godfather: Don Vito’s Opus"
-    alt_title: The Godfather Don Vito's Opus
+    alt_title: "Godfather: Don Vito's Opus"
     originally_available: 2021-04-01
     content_rating: R
     director.sync: Wraith
@@ -669,7 +669,7 @@ metadata:
 
   "The Godfather: Michael’s Opus":
     sort_title: "Godfather: Michael’s Opus"
-    alt_title: The Godfather Michael's Opus
+    alt_title: "Godfather: Michael's Opus"
     originally_available: 2021-04-01
     content_rating: R
     director.sync: Wraith
@@ -766,8 +766,8 @@ metadata:
     label: FanFix
     summary: Die Another Day should have been celebration of everything good about the James Bond franchise. Unfortunately, in trying to throw everything but the kitchen sink at the screen in celebration of 007's 40th anniversary, director Lee Tamahori and the producers ended up with an unfocused movie, riddled with poor innuendo jokes and some ill-advised ventures into the more fantasy CGI arena. The hope with Icarus, is to redress the balance and uncover what I believe is a genuinely good old-fashioned large scale Bond adventure. No invisible car, no CGI tsunami surfing heroics, the poor jokes removed, Icarus attempts to give Pierce Brosnan the Bond swansong he deserved.
 
-  Jaws The Sharksploitation Edit:
-    sort_title: Jaws The Sharksploitation Edit
+  "Jaws: The Sharksploitation Edit":
+    sort_title: "Jaws: The Sharksploitation Edit"
     alt_title: Jaws the Sharksploitation Edit
     originally_available: 2009-06-01
     content_rating: R
@@ -1030,6 +1030,7 @@ metadata:
 
   "Star Wars: Episode V - The Empire Strikes Back":
     sort_title: Star Wars Despecialized-05
+    alt_title: "Star Wars: Episode V - The Empire Strikes Back Revisited"
     edition: Despecialized
     edition_filter: Despecialized
     originally_available: 2013-05-29
@@ -1095,7 +1096,7 @@ metadata:
     label: FanFix
     summary: The second of the revamped '9000 Series,' The Approaching Storm delivers a re-crafted perspective on Star Wars Episode II in keeping with the drive of the original trilogy of films. Unnecessary 'galaxy shrinking' cameos from classic characters have been cut-down or removed. Anakin and Padme are depicted as realistic adults developing romantic feelings for one another. The political plot is made more straightforward and graspable. Superfluous action is subdued to make the film more story driven.
 
-  "Star Wars: Episode III - Labyrinth Of Evil":
+  "Star Wars: Episode III - Labyrinth of Evil":
     sort_title: Star Wars HAL9000-03
     alt_title: Star Wars Episode III Labyrinth of Evil
     originally_available: 2014-03-01
@@ -1126,7 +1127,7 @@ metadata:
     label: FanFix
     summary: "It’s the same Star Wars: The Last Jedi you pondered over, cleared of distractions. The trip to the casino of Canto Bight is truncated, the Caretakers of Ach-To are removed, and a few scenes are rearranged, allowing Rian Johnson’s story to shine. Strap in for a contemplative journey not experienced since The Empire Strikes Back."
 
-  "Star Wars: Episode IX - The Rise Of Skywalker: Ascendant":
+  "Star Wars: Episode IX - The Rise of Skywalker: Ascendant":
     sort_title: Star Wars HAL9000-09
     alt_title: "Star Wars: Episode IX - The Rise of Skywalker"
     originally_available: 2020-11-01
