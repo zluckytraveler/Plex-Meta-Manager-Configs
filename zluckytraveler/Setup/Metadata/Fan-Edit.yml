@@ -424,6 +424,18 @@ metadata:
     label: FanFix
     summary: "Batman: The Man Who Laughs tries to amplify the strengths of The Dark Knight while omitting some of its weaknesses. Pacing is tightened up, some scenes are restructured, rescored, reordered, or omitted altogether. Lines of dialogue and humor that seemed out of place omitted as well. I usually fanedit awful movies. Here I wanted to take a very good movie and make it the best it could be."
 
+  "Batman vs Superman: False God":
+    sort_title: "Batman vs Superman: False God"
+    alt_title: 
+    originally_available: 2023-08-01
+    content_rating: PG-13
+    director.sync: Sin Pausa
+    producer.remove: 
+    writer.remove: 
+    genre.remove: 
+    label: FanMix
+    summary: "'No Justice' refocuses Batman v. Superman on its central conflict between Man and God. All aspects of its 'Dawn of Justice' subtitle are excluded: Wonder Woman, the Justice League, Doomsday, Darkseid and the Kryptonian ship. These omissions create a more coherent and accessible story, intended for a wider audience."
+    
   "Batman vs Superman: No Justice":
     sort_title: "Batman vs Superman: No Justice"
     alt_title: "Batman v Superman: Dawn of Justice"
@@ -434,7 +446,7 @@ metadata:
     writer.remove: David S. Goyer, Bob Kane, Jerry Siegel, Joe Shuster, Jay Olivia
     genre.remove: Science Fiction, Fantasy, Action, Adventure
     label: FanFix
-    summary: "'No Justice' refocuses Batman v. Superman on its central conflict between Man and God. All aspects of its 'Dawn of Justice' subtitle are excluded: Wonder Woman, the Justice League, Doomsday, Darkseid and the Kryptonian ship. These omissions create a more coherent and accessible story, intended for a wider audience."
+    summary: "What if BvS didn’t try to balance an Extended Universe and instead kept the focus on the titular characters; while minimizing the problems with infamous elements like the portrayal of Luthor? That’s what False God intends to offer."
 
   Better Cut Saul:
     sort_title: Better Cut Saul
@@ -496,14 +508,23 @@ metadata:
     label: Extended
     summary: David Lynch's masterpiece with all deleted scenes reincorporated.
 
+  "Captain America: The Winter Soldier - Defrosted Edition":
+    sort_title: "Captain America: The Winter Soldier - Defrosted Edition"
+    alt_title: 
+    originally_available: 2017-12-01
+    content_rating: PG-13
+    director.sync: Bobson Dugnutt
+    label: Special
+    summary: Super powered Nazis from a parallel world invade! What is their ultimate goal and can our Arrowverse Heroes stop them?!?!
+    
   Crisis on Earth-X:
     sort_title: Crisis on Earth-X
     alt_title: "Climate Crisis: Earth on the Edge"
     originally_available: 2022-09-01
     content_rating: PG-13
     director.sync: BionicBob
-    label: Special
-    summary: Super powered Nazis from a parallel world invade! What is their ultimate goal and can our Arrowverse Heroes stop them?!?!
+    label: Extended
+    summary: "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier." 
 
   "Crisis on Infinite Earths: The Legacy of Oliver Queen":
     sort_title: "Crisis on Infinite Earths: The Legacy of Oliver Queen"
@@ -1193,6 +1214,15 @@ metadata:
     label: FanFix
     summary: Tron Perfection is a story about the conflict of man vs himself, and less about Sam Flynn (who is merely our entry-point into the Grid.) Kevin Flynn spent so much in his crusade to get revenge on Dillinger in the original Tron that once he got his revenge, made Clu, and set about to create a new Grid, he was mirroring comparable character flaws that included massive ambition married to a sense of entitlement.
 
+  "Venom: The Marvel Cut":
+    sort_title: "Venom: The Marvel Cut"
+    alt_title: 
+    originally_available: 2023-08-01
+    content_rating: PG-13
+    director.sync: Josephdquinn
+    label: FanFix
+    summary: "Venom wasn't terrible, but it wasn't great. By cutting a few scenes I've been able to tighten the pacing and make it slightly more enjoyable than the theatrical cut."
+    
   "The War of The Stars: A New Hope Grindhoused":
     sort_title: "War of The Stars: A New Hope Grindhoused"
     alt_title: The War of the Stars a New Hope Grindhoused
