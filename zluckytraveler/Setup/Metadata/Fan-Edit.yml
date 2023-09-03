@@ -660,7 +660,7 @@ metadata:
 
   "The Godfather: Don Vito’s Opus":
     sort_title: "Godfather: Don Vito’s Opus"
-    alt_title: "Godfather: Don Vito's Opus"
+    alt_title: "Godfather: Don Vito’s Opus"
     originally_available: 2021-04-01
     content_rating: R
     director.sync: Wraith
@@ -669,7 +669,7 @@ metadata:
 
   "The Godfather: Michael’s Opus":
     sort_title: "Godfather: Michael’s Opus"
-    alt_title: "Godfather: Michael's Opus"
+    alt_title: "Godfather: Michael’s Opus"
     originally_available: 2021-04-01
     content_rating: R
     director.sync: Wraith
@@ -1030,7 +1030,7 @@ metadata:
 
   "Star Wars: Episode V - The Empire Strikes Back":
     sort_title: Star Wars Despecialized-05
-    alt_title: "Star Wars: Episode V - The Empire Strikes Back Revisited"
+    alt_title: "Star Wars: Episode V - The Empire Strikes Back"
     edition: Despecialized
     edition_filter: Despecialized
     originally_available: 2013-05-29
@@ -1129,7 +1129,7 @@ metadata:
 
   "Star Wars: Episode IX - The Rise of Skywalker: Ascendant":
     sort_title: Star Wars HAL9000-09
-    alt_title: "Star Wars: Episode IX - The Rise Of Skywalker: Ascendant"
+    alt_title: "Star Wars: Episode IX - The Rise Of Skywalker"
     originally_available: 2020-11-01
     content_rating: PG-13
     director.sync: HAL9000
