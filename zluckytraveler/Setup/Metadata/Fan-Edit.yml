@@ -344,6 +344,18 @@ metadata:
     label: Extended
     summary: This is The Amazing Spider-Man with all its deleted scenes PLUS the Roosevelt subplot from the second movie added to the first movie. This is the full extent of the promised Untold Story without polluting the overstuffed second movie.
 
+  The Amazing Spider-Man The Untold Extended Edition 3:
+    title: "The Amazing Spider-Man: The Untold Extended Edition"
+    sort_title: "Amazing Spider-Man 1: The Untold Extended Edition"
+    originally_available: 2020-11-01
+    content_rating: PG-13
+    director.sync: Masirimso17
+    producer.remove: James Burzelic, T.C. De Witt
+    writer.remove: T.C. De Witt, James Burzelic, Steve Ditko
+    genre.remove: Action, Adventure, Drama
+    label: Extended
+    summary: This is The Amazing Spider-Man with all its deleted scenes PLUS the Roosevelt subplot from the second movie added to the first movie. This is the full extent of the promised Untold Story without polluting the overstuffed second movie.
+
   The Amazing Spider-Man 2 The Untold Finale Edition 1:
     title: "The Amazing Spider-Man 2: The Untold Finale Edition"
     sort_title: "Amazing Spider-Man 2: The Untold Finale Edition"
@@ -1138,7 +1150,8 @@ metadata:
     label: FanFix
     summary: "It’s the same Star Wars: The Last Jedi you pondered over, cleared of distractions. The trip to the casino of Canto Bight is truncated, the Caretakers of Ach-To are removed, and a few scenes are rearranged, allowing Rian Johnson’s story to shine. Strap in for a contemplative journey not experienced since The Empire Strikes Back."
 
-  "Star Wars: Episode IX - The Rise of Skywalker: Ascendant":
+  Star Wars Episode IX - The Rise of Skywalker Ascendant 1:
+    title: "Star Wars: Episode IX - The Rise of Skywalker: Ascendant"
     sort_title: Star Wars HAL9000-09
     alt_title: "Star Wars: Episode IX - The Rise Of Skywalker"
     originally_available: 2020-11-01
@@ -1149,6 +1162,18 @@ metadata:
     label: FanFix
     summary: "Star Wars: The Rise of Skywalker gets an overhaul to serve as a conclusion to the Star Wars saga. Pacing, character journeys, and story continuity are improved via an unprecedented fan editing collaboration. A layer of polish and care applied to a relentlessly fast-paced film. Subtle character tweaks. And a few new surprises."
 
+  Star Wars Episode IX - The Rise of Skywalker Ascendant 2:
+    title: "Star Wars: Episode IX - The Rise of Skywalker: Ascendant"
+    sort_title: Star Wars HAL9000-09
+    alt_title: "Star Wars: Episode IX - The Rise of Skywalker"
+    originally_available: 2020-11-01
+    content_rating: PG-13
+    director.sync: HAL9000
+    producer.remove: Kathleen Kennedy, J.J. Abrams, Michele Rejwan
+    writer.remove: George Lucas, J.J. Abrams, Chris Terrio, Colin Trevorrow, Derek Connolly
+    label: FanFix
+    summary: "Star Wars: The Rise of Skywalker gets an overhaul to serve as a conclusion to the Star Wars saga. Pacing, character journeys, and story continuity are improved via an unprecedented fan editing collaboration. A layer of polish and care applied to a relentlessly fast-paced film. Subtle character tweaks. And a few new surprises."
+    
   "Star Wars: Rise of the Rebellion":
     sort_title: "Star Wars: Rise of the Rebellion"
     alt_title: "Star Wars: The Rise of Ren"
