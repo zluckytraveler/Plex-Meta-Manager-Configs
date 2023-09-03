@@ -459,7 +459,7 @@ metadata:
 
   Blade Runner 2008:
     sort_title: Blade Runner 2008:
-    alt_title: 
+    alt_title: Blade Runner
     edition: Extended Edition
     originally_available: 2008-03-01
     content_rating: R
@@ -528,7 +528,7 @@ metadata:
 
   "Crisis on Infinite Earths: The Legacy of Oliver Queen":
     sort_title: "Crisis on Infinite Earths: The Legacy of Oliver Queen"
-    alt_title: 
+    alt_title: Crisis on Infinite Earths the Legacy of Oliver Queen
     originally_available: 2023-06-01
     content_rating: PG-13
     director.sync: BionicBob
@@ -678,7 +678,7 @@ metadata:
 
   "H8teful: Reconstructed Hateful 8 Roadshow Version":
     sort_title: "H8teful: Reconstructed Hateful 8 Roadshow Version"
-    alt_title: 
+    alt_title: H8teful Reconstructed Hateful 8 Roadshow Version
     originally_available: 2022-10-01
     content_rating: R
     director.sync: Wraith
