@@ -671,7 +671,9 @@ metadata:
 
   Escape from the Shining Alien Thing from Beyond the Stars:
     match: 
-      title: Escape from the Shining Alien Thing from Beyond the Stars
+      title:
+        - Escape From the Shining Alien Thing From Beyond the Stars
+        - Escape from the Shining Alien Thing from Beyond the Stars
     title: Escape from the Shining Alien Thing from Beyond the Stars
     sort_title: Escape from the Shining Alien Thing from Beyond the Stars
     originally_available: 2022-06-01
