@@ -255,7 +255,7 @@ metadata:
 
   Tron Legacy:
     match: 
-      title: TRON: Legacy
+      title: "TRON: Legacy"
     title: "Tron: Legacy"
     label: Regrade
 
