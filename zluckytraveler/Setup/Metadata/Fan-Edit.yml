@@ -697,7 +697,7 @@ metadata:
   The Godfather Don Vito’s Opus:
     match: 
       title:
-        - The Godfather Don Vito’s Opus
+        - The Godfather Don Vito's Opus
         - "Godfather: Don Vito’s Opus"
     title: "The Godfather: Don Vito’s Opus"
     sort_title: "Godfather: Don Vito’s Opus"
@@ -710,7 +710,7 @@ metadata:
   The Godfather Michael’s Opus:
     match: 
       title:
-        - The Godfather Michael’s Opus
+        - The Godfather Michael's Opus
         - "Godfather: Michael’s Opus"
     title: "The Godfather: Michael’s Opus"
     sort_title: "Godfather: Michael’s Opus"
@@ -1099,7 +1099,9 @@ metadata:
 
   Star Wars Episode IV - A New Hope:
     match: 
-      title: "Star Wars: Despecialized Edition Remastered V2.5, Introducing the Sources"
+      title:
+        - "Star Wars: Episode IV - A New Hope"
+        - "Star Wars: Despecialized Edition Remastered V2.5, Introducing the Sources"
     title: "Star Wars: Episode IV - A New Hope"
     sort_title: Star Wars Despecialized-04
     edition: Despecialized
@@ -1135,7 +1137,9 @@ metadata:
 
   Star Wars Episode VI - Return of the Jedi:
     match: 
-      title: Star Wars Episode 3 Return of the Jedi Despecialized Edition
+      title:
+        - "Star Wars: Episode VI - Return of the Jedi"
+        - Star Wars Episode 3 Return of the Jedi Despecialized Edition
     title: "Star Wars: Episode VI - Return of the Jedi"
     sort_title: Star Wars Despecialized-06
     edition: Despecialized
@@ -1176,7 +1180,9 @@ metadata:
 
   Star Wars Episode I - Cloak of Deception:
     match: 
-      title: Star Wars Episode I Cloak Of Deception
+      title:
+        - Star Wars Episode I Cloak of Deception
+        - Star Wars Episode I Cloak Of Deception
     title: "Star Wars: Episode I - Cloak of Deception"
     sort_title: Star Wars HAL9000-01
     originally_available: 2014-01-01
