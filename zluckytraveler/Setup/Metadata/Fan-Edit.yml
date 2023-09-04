@@ -411,7 +411,7 @@ metadata:
     label: FanFix
     summary: Enjoy Scaperat's original vision, with updated visual fidelity, sound design, and transitions. I have been working on enhancing and revising this classic edit by Scaperat.
 
-  "Batman: The Man Who Laughs":
+  Batman The Man Who Laughs:
     match: 
       title: The Man Who Laughs
     title: "Batman: The Man Who Laughs"
@@ -503,7 +503,7 @@ metadata:
     label: FanFix
     summary: This edit includes various visual and audio elements from all released versions of Blade Runner in an attempt to make it the best available presentation with a few narrative edits for personal preference. Most notable inclusions are the technical updates from The Final Cut, with the visual elements re-graded to match the legacy colour tones of the previous releases - and particular attention being paid to literally preserving the original portions of the legacy frames as well as grading the changes where masking was appropriate. The film's narrative follows more closely the Workprint and tacitly rejects Ridley Scott's attempts to render the human/replicant philosophical analogue as effectively superficial. This version takes out any connection to references made by Scott in interviews and indeed the Director's Cut relating to Deckard's origins. Instead this film is content to literally study/contrast the philosophical state of all the humanity on display or lack thereof from all participants.
 
-  "Blade Runner: The Penultimate Cut":
+  Blade Runner The Penultimate Cut:
     match: 
       title: Blade Runner the Penultimate Cut
     title: "Blade Runner: The Penultimate Cut"
@@ -548,7 +548,7 @@ metadata:
     label: Extended
     summary: "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier." 
 
-  "Crisis on Infinite Earths: The Legacy of Oliver Queen":
+  Crisis on Infinite Earths The Legacy of Oliver Queen:
     match: 
       title: Crisis on Infinite Earths the Legacy of Oliver Queen
     title: "Crisis on Infinite Earths: The Legacy of Oliver Queen"
@@ -558,3 +558,843 @@ metadata:
     director.sync: BionicBob
     label: Special
     summary: The CRISIS has arrived! The Multiverse is under attack and only the Heroes of the Arrowverse can save the day.
+
+  Dawn of Justice Part 1 The Outsider:
+    match: 
+      title: Dawn of Justice Part 1 the Outsider
+    title: "Dawn of Justice: Part 1 The Outsider"
+    sort_title: "Dawn of Justice: Part 1 The Outsider"
+    originally_available: 2020-12-01
+    content_rating: PG-13
+    director.sync: Wakeupkeo
+    label: FanFix
+    summary: This Man of Steel edit tries to keep the spirit of the original movie, but also find the classic hero inside - to make Clark more like “the noble Superman I grew up with” (yes I am aware how extremely subjective that is).
+
+  Dawn of Justice Part 2 The Consequences:
+    match: 
+      title: Dawn of Justice Part 2 the Consequences
+    title: "Dawn of Justice: Part 2 The Consequences"
+    sort_title: "Dawn of Justice: Part 2 The Consequences"
+    originally_available: 2020-12-01
+    content_rating: PG-13
+    director.sync: Wakeupkeo
+    label: FanFix
+    summary: This edit generally focus on the inherent nature of mankind.
+
+  Dawn of Justice Part 3 The Hard Truths:
+    match: 
+      title: Dawn of Justice Part 3 the Hard Truths
+    title: "Dawn of Justice: Part 3 The Hard Truths"
+    sort_title: "Dawn of Justice: Part 3 The Hard Truths"
+    originally_available: 2020-12-01
+    content_rating: PG-13
+    director.sync: Wakeupkeo
+    label: FanFix
+    summary: On first watch I loved this movie, so I didn’t change much... just to fix that ending, and to make the end more in line with her character in BvS - that these heroes are awesome but mankind is questionable.
+
+  Drive Radio 1 Rescores:
+    match: 
+      title: Drive Radio 1 Rescores
+    title: Drive Radio 1 Rescores
+    sort_title: Drive Radio 1 Rescores
+    originally_available: 2014-11-01
+    content_rating: R
+    director.sync: TM2YC
+    label: Special
+    summary: On 30th October 2014 BBC3 screened a new version of Nicholas Winding Refn's 2011 film 'Drive' with an all-new score of original music. It was curated by Radio 1 DJ Zane Lowe with the full co-operation of the Director. So it's one of those rare "Official Fanedits".
+
+  Dune Deluxe Edition:
+    match: 
+      title: Dune Deluxe Edition
+    title: "Dune: Deluxe Edition"
+    sort_title: "Dune: Deluxe Edition"
+    originally_available: 2020-10-01
+    content_rating: PG-13
+    director.sync: 15MAF
+    label: FanFix
+    summary: The addition of various scenes from The Extended Edition from the Collectors 2 disc set, brand new shots, expansion of surround sound fidelity where possible, additional sound design, trimming of various original elements and a re-scored and re-edited finale. There has also been extensive repair, re-composition, grading and clean up work put into the project.
+
+  Dune The Alternative Edition Redux:
+    match: 
+      title: Dune the Alternative Edition Redux
+    title: "Dune: The Alternative Edition Redux"
+    sort_title: "Dune: The Alternative Edition Redux"
+    originally_available: 2022-07-01
+    content_rating: R
+    director.sync: Spicediver
+    label: FanFix
+    summary: A film that’s been admired, hated and puzzled-over in fairly equal amounts, writer/director David Lynch’s ambitious 1984 adaptation of Frank Herbert’s science fiction novel gets an extensive fanediting treatment in Dune The Alternative Edition Redux. This is my third and final cut of an edit I first released in 2008 and again in 2009. As previously, it draws on the heavily cut Theatrical Version, the controversial Extended “TV” Version and a selection of Deleted Scenes and soundtrack cues.
+
+  Escape from the Shining Alien Thing from Beyond the Stars:
+    match: 
+      title: Escape From the Shining Alien Thing From Beyond the Stars
+    title: Escape from the Shining Alien Thing from Beyond the Stars
+    sort_title: Escape from the Shining Alien Thing from Beyond the Stars
+    originally_available: 2022-06-01
+    content_rating: R
+    director.sync: Blueyoda
+    label: FanMix
+    summary: This fanedit is my love letter to John Carpenter's classic horror film "The Thing" but also to that beautiful decade that was the 80s. There are many, many movie and pop culture references throughout; there's a new soundtrack, alternate dialog, new visual effects (some so subtle only the most hardcore The Thing fans will notice) and more Easter eggs than Palmer's got dutchies. Basically, I threw everything but the kitchen sink at this Thing.
+
+  Fight Club I Am Jack's Laryngitis:
+    match: 
+      title: Fight Club the I Am Jacks Laryngitis
+    title: "Fight Club: I Am Jack's Laryngitis"
+    sort_title: "Fight Club: I Am Jack's Laryngitis"
+    originally_available: 2020-04-01
+    content_rating: R
+    director.sync: Macmillan
+    label: FanFix
+    summary: Removing Edward Norton’s voiceover, adjust and restructure some shots to flow better with the lack of narration, FIGHT CLUB gets to be a much more introspective and artsy film.
+
+  Finest Hour A Supercut of Dunkirk and Darkest Hour:
+    match: 
+      title: Finest Hour a Supercut of Dunkirk and Darkest Hour
+    title: "Finest Hour: A Supercut of Dunkirk and Darkest Hour"
+    sort_title: "Finest Hour: A Supercut of Dunkirk and Darkest Hour"
+    originally_available: 2020-07-01
+    content_rating: R
+    director.sync: Eldusto84
+    label: FanMix
+    summary: The year is 1940. As Hitler’s forces storm across Europe, Winston Churchill is elected the new Prime Minister of the United Kingdom. His leadership is immediately tested when hundreds of thousands of British and Allied troops become trapped on the beaches of Dunkirk, with the Germans closing in. As the desperate battle for survival unfolds on land, sea and air, Churchill must fight his own battles to launch a daring rescue effort across the English Channel. This fan edit combines the intense frontline action of Dunkirk with the backroom political intrigue of Darkest Hour, to create an epic supercut that tells the full story of the Dunkirk evacuation
+
+  Frank Herbert's Dune The Spence Edit:
+    match: 
+      title: Frank Herbert's Dune the Spence Edit
+    title: "Frank Herbert's Dune: The Spence Edit"
+    sort_title: "Frank Herbert's Dune: The Spence Edit"
+    originally_available: 2021-12-01
+    content_rating: PG-13
+    director.sync: Spence
+    label: Special
+    summary: Frank Herbert's Dune is a fantastic miniseries adaptation of the original novel, but what would it look like as a feature length film?
+
+  Friendly Neighborhood Spider-Man:
+    match: 
+      title: 
+        - Your Friendly Eco-Friendly Spider-Man
+        - A Friend Called Spider-Man
+    title: Friendly Neighborhood Spider-Man
+    sort_title: Friendly Neighborhood Spider-Man
+    originally_available: 2018-03-01
+    content_rating: PG-13
+    director.sync: Bobson Dugnutt
+    genre.remove: Documentary, Short
+    label: FanFix
+    summary: Friendly Neighborhood Spider-Man is mere 3 minutes shorter than the official cut, with a few trims here and there that improve an already great film. Rescoring, cutting, trimming and moving scenes and jokes all feature here to make the movie the best it can be.
+
+  Ghost in the Shell Lean & Mean Edition:
+    match: 
+      title: Ghost in the Shell Lean & Mean Edition
+    title: "Ghost in the Shell: Lean & Mean Edition"
+    sort_title: "Ghost in the Shell: Lean & Mean Edition"
+    originally_available: 2019-02-01
+    content_rating: PG-13
+    director.sync: FairFriend
+    label: FanFix
+    summary: The theatrical cut was full of lines which were very on the nose. Additionally, there was a subplot, involving Motoko's mother, that went nowhere. These issues have been addressed in the Lean & Mean cut. Moreover the beginning of the movie was re-edited to mimic the way the original animated movie starts. To this purpose, the credits scene was rescored using Kenji Kaway new rendition of the original main theme. Scenes from the very beginning of the movie have been used to create a flashback sequence that now appears much later. Multiple scenes where shortened, lines of dialogues were either deleted or altered or used in different contexts. The cemetery scene was restored to its original state and purpose. As far as I can tell, in the theatrical cut it was sliced in 2 to accomodate for the character of Motoko's mother, which I presumed was added at a later time to address the whitewashing controversy and to make up for the deleted scenes which included the character of Paz.
+
+  The Godfather Don Vito’s Opus:
+    match: 
+      title: "Godfather: Don Vito’s Opus"
+    title: "The Godfather: Don Vito’s Opus"
+    sort_title: "Godfather: Don Vito’s Opus"
+    originally_available: 2021-04-01
+    content_rating: R
+    director.sync: Wraith
+    label: FanFix
+    summary: The Godfather, The Godfather Part 2 and 3 are monumental masterpieces. This Godfather Magnum Opus will over two movies restore all available HD material to a total run time of 602 min, with a few minutes never seen in HD, making it the longest possible chronological version ever seen and UNCENSORED!
+
+  The Godfather Michael’s Opus:
+    match: 
+      title: "Godfather: Michael’s Opus"
+    title: "The Godfather: Michael’s Opus"
+    sort_title: "Godfather: Michael’s Opus"
+    originally_available: 2021-04-01
+    content_rating: R
+    director.sync: Wraith
+    label: FanFix
+    summary: The Godfather, The Godfather Part 2 and 3 are monumental masterpieces. This Godfather Magnum Opus will over two movies restore all available HD material to a total run time of 602 min. A few minutes never seen in HD, making it the longest possible chronological version ever seen and UNCENSORED! PLUS, the original ending of Part 3, which MUST be in full and not truncated as it was in Coda, has been restored (together with the 14 mins removed from Coda).
+
+  H8teful Reconstructed Hateful 8 Roadshow Version:
+    match: 
+      title: H8teful Reconstructed Hateful 8 Roadshow Version
+    title: "H8teful: Reconstructed Hateful 8 Roadshow Version"
+    sort_title: "H8teful: Reconstructed Hateful 8 Roadshow Version"
+    originally_available: 2022-10-01
+    content_rating: R
+    director.sync: Wraith
+    label: Extended
+    summary: This version runs 191 minutes and for now it is the longest runtime version you can watch!
+  
+  The Hobbit The Spence Edit:
+    match: 
+      title: The Hobbit the Spence Edit
+    title: "The Hobbit: The Spence Edit"
+    sort_title: "Hobbit: The Spence Edit"
+    originally_available: 2015-04-01
+    content_rating: PG-13
+    director.sync: Spence
+    label: FanFix
+    summary: This is a 3 film in 1 edit running at 3 hours 25 minutes. This is not intended as a "book cut" but instead tries to imagine what Peter Jackson and Co. might have made if they had decided to do the story as one film.
+
+  The Hobbit Maple Films:
+    match: 
+      title: J.R.R. Tolkien's the Hobbit
+    title: "The Hobbit Maple Films"
+    sort_title: "Hobbit Maple Films"
+    originally_available: 2016-08-01
+    content_rating: PG-13
+    director.sync: Eldusto84
+    genre.remove: Action, Adventure, Fantasy
+    label: FanFix
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/The%20Hobbit%20Maple%20Films/poster.png
+    url_background: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/The%20Hobbit%20Maple%20Films/background.png
+    summary: Over half of the cumulative running time of the films have been cut. What was once a bloated, 542-minute trilogy is now a more digestible 247-minute epic. In general, I’ve tried to keep the spirit of the book intact by removing unnecessary subplots, characters, ridiculous action scenes, and so on.
+
+  Indiana Jones and the Kingdom of the Crystal Skull The Spence Edit:
+    match: 
+      title: Indiana Jones and the Kingdom of the Crystal Skull the Spence Edit
+    title: "Indiana Jones and the Kingdom of the Crystal Skull: The Spence Edit"
+    sort_title: "Indiana Jones and the Kingdom of the Crystal Skull: The Spence Edit"
+    originally_available: 2022-08-01
+    content_rating: PG-13
+    director.sync: Spence
+    label: FanFix
+    summary: Going to see Crystal Skull on opening night is probably the worst cinematic experience I've ever had. You could just feel the room deflate, all the energy disappear, the excitement turned to disappointment. I hated it. However, time has been kinder than expected to the film. Maybe it's comparing it to what passes for modern "adventure" filmmaking, but it's sort of outdated style kind of works in its favor. There's a lot of things that do work about it. Harrison Ford and the rest of the cast are game. Though it's kind of a "left hand" movie from Spielberg, he's still the greatest movie director of our lifetimes, so it's still got some great visuals and action. The story could be intriguing.
+
+  Indiana Jones and the Kingdom of the Crystal Skull The 15MAF Cut:
+    match: 
+      title: 
+        - Indiana Jones and the Kingdom of the Crystal Skull 15MAF Recut
+        - "Indiana Jones and the Kingdom of the Crystal Skull: 15MAF Recut"
+        - "Indiana Jones and the Kingdom of the Crystal Skull: The 15MAF Recut"
+    title: "Indiana Jones and the Kingdom of the Crystal Skull: The 15MAF Cut"
+    sort_title: "Indiana Jones and the Kingdom of the Crystal Skull: The 15MAF Cut"
+    originally_available: 2018-09-01
+    content_rating: PG-13
+    director.sync: 15MAF
+    label: FanFix
+    summary: This edit aims to eradicate the paternal cause of some questionable narrative that essentially removed the viewer from the fantasy of adventure and also other complaints I had with the level of schlock falling lower than was necessary. It also aims to strike a balance for those that didn’t mind or could live with certain things like cgi bugs or iconic atomic silhouettes... Cutting the best part of twenty minutes was as far as I’d like to go to try to keep a feature length feel. There be aliens ahead, but differently presented...
+
+  Interstellar Where We're Going:
+    match: 
+      title: The Place We're Going
+    title: "Interstellar: Where We're Going"
+    sort_title: "Interstellar: Where We're Going"
+    originally_available: 2023-01-01
+    content_rating: PG-13
+    director.sync: Futon88
+    producer.remove: Jessica Petersen
+    writer.remove: Shamus Hays
+    genre.remove: Adventure, Drama, Fantasy
+    label: FanFix
+    summary: This is Interstellar as you know it, with modest improvements to pacing, some adjustments to make dialogue sound more natural, little less pretentious, with the removal of what feels like artificial conflict.
+
+  Icarus:
+    match: 
+      title: Icarus
+    title: Icarus
+    sort_title: Icarus
+    originally_available: 2013-01-01
+    content_rating: PG-13
+    director.sync: LastSurvivor
+    label: FanFix
+    summary: Die Another Day should have been celebration of everything good about the James Bond franchise. Unfortunately, in trying to throw everything but the kitchen sink at the screen in celebration of 007's 40th anniversary, director Lee Tamahori and the producers ended up with an unfocused movie, riddled with poor innuendo jokes and some ill-advised ventures into the more fantasy CGI arena. The hope with Icarus, is to redress the balance and uncover what I believe is a genuinely good old-fashioned large scale Bond adventure. No invisible car, no CGI tsunami surfing heroics, the poor jokes removed, Icarus attempts to give Pierce Brosnan the Bond swansong he deserved.
+
+  Jaws The Sharksploitation Edit:
+    match: 
+      title: Jaws the Sharksploitation Edit
+    title: "Jaws: The Sharksploitation Edit"
+    sort_title: "Jaws: The Sharksploitation Edit"
+    originally_available: 2009-06-01
+    content_rating: R
+    director.sync: The Man Behind The Mask
+    label: FanMix
+    summary: This fanedit adds a kind of grindhouse feel to JAWS and makes the movie fun to watch for those who are not afraid to see this masterpiece being turned into something else.
+
+  Justice League Rise of the Motherboxes:
+    match: 
+      title: Justice League Rise of the Motherboxes
+    title: "Justice League: Rise of the Motherboxes"
+    sort_title: "Justice League: Rise of the Motherboxes"
+    originally_available: 2023-01-01
+    content_rating: PG-13
+    director.sync: Wakeupkeo
+    label: FanFix
+    summary: The goal of this edit was to try to use this movie to move these characters from the darker Zak Snyder origins, to end with the more positive, classic Justice League heroic archetypes.
+
+  Kenobi A Star Wars Story:
+    match: 
+      title: "Fulcrum: Star Wars fan film"
+    title: "Kenobi: A Star Wars Story"
+    sort_title: "Kenobi: A Star Wars Story"
+    originally_available: 2022-08-01
+    content_rating: PG-13
+    director.sync: Pentex Productions
+    producer.remove: Cinnamon Hoobler
+    writer.remove: Jason Crossman, Rei Kennex
+    genre.remove: Short, Science Fiction
+    label: Special
+    summary: This edit keeps the overall story of the TV series, but cuts it down into a tight but cohesive narrative that is firmly focused on the character of Obi-Wan, and his relationship with Anakin Skywalker / Darth Vader.
+
+  Kill Bill The Whole Bloody Affair:
+    match: 
+      title: "Kill Bill: The Whole Bloody Affair"
+    title: "Kill Bill: The Whole Bloody Affair"
+    sort_title: "Kill Bill: The Whole Bloody Affair"
+    edition: The Milkman Conspiracy
+    originally_available: 2020-07-01
+    content_rating: R
+    director.sync: The Milkman Conspiracy
+    producer.remove: Lawrence Bender
+    writer.remove: Quentin Tarantino
+    genre.remove: Thriller, Action, Crime
+    label: FanMix
+    summary: "A reconstruction of Quentin Tarantino's own cut of Kill Bill: The Whole Bloody Affair that he himself screened at Cannes in 2004, and has since been screened sporadically since 2011 at the Tarantino-owned New Beverly Cinema in Los Angeles."
+
+  Logan Gothic:
+    match: 
+      title: Logan Gothic
+    title: Logan Gothic
+    sort_title: Logan Gothic
+    originally_available: 2020-03-01
+    content_rating: PG-13
+    director.sync: Dannydangle
+    label: FanMix
+    summary: Logan battles his primal paternal intuition as he makes his way through a dark fairy tale landscape filled with southern gothic grotesqueries. As his health fails him he finds himself operating on instincts he thought long lost, as if his destiny were already decided. As he passes into the realm of myth he finally realizes what he had been fighting for all those years.
+
+  M4's The Hobbit Book Edit:
+    match: 
+      title: M4's the Hobbit Book Edit
+    title: M4's The Hobbit Book Edit
+    sort_title: M4's The Hobbit Book Edit
+    originally_available: 2021-11-01
+    content_rating: PG-13
+    director.sync: M4
+    label: FanFix
+    summary: A fan edit that combines The Hobbit trilogy into one film that closely follows the book and also sits better with The Lord of the Rings film trilogy with regards to visuals / physics / combat. However, other than atmosphere, each story's tone and narrative will still be distinct without any forced references; the focus has been brought back to Bilbo's adventure with only a few subtle nods to the ensuing trilogy remaining.
+
+  Man of Steel A Symbol of Hope:
+    match: 
+      title: Man of Steel a Symbol of Hope
+    title: "Man of Steel: A Symbol of Hope"
+    sort_title: "Man of Steel: A Symbol of Hope"
+    originally_available: 2017-10-01
+    content_rating: PG-13
+    director.sync: TM2YC
+    label: FanFix
+    summary: "Man of Steel: A Symbol of Hope' does not try to radically reshape MOS because I liked most of it already. I just wanted to tweak the character of Superman to make him feel more heroic. So if you hated everything about the original MOS, then this isn't the FanFix for you. There are several 10-minute chunks of this edit that are unchanged (aside from the regrade) but when I did change something, I hope it feels significant. "
+
+  Man of Tomorrow:
+    match: 
+      title: Man of Tomorrow
+    title: Man of Tomorrow
+    sort_title: Man of Tomorrow
+    originally_available: 2016-08-01
+    content_rating: PG-13
+    director.sync: JobWillins
+    producer.remove: Florent Guiheux, Jacob Vignon, Yälrok
+    writer.remove: Baptiste Bourdon, Kévin Torgence
+    genre.remove: Short, Action, Adventure, Fantasy, Science Fiction
+    country.remove: France
+    label: FanMix
+    summary: "'Man of Tomorrow' is a narrative experiment that combines Man of Steel and Batman V. Superman into one film. The goal was to use material from both films to form a single, feature-length, 3-act structure that focuses on Superman."
+
+  Marvel's The Infinity Saga:
+    match: 
+      title: Marvel's Infinity Saga the Sacred Timeline Cut
+    title: Marvel's The Infinity Saga
+    sort_title: Marvel's The Infinity Saga
+    edition: Sacred Timeline Cut
+    originally_available: 2021-01-01
+    content_rating: PG-13
+    director.sync: Pizzabryon
+    label: FanMix
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Marvels%20Infinty%20Saga/poster.png
+    url_background: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Marvels%20Infinty%20Saga/background.png
+    summary: A fan edit supercut of the entire Phase I - Phase III of the Marvel Cinematic Universe Collection. All of the Movies and TV Shows up to this point have been edited together into one experience, encompassing it all. Start in the past with Captain Marvel and Steve Rogers and go out with a bang as the multiverse fractures in front of you.Strap in and enjoy the ride over a decade in the making.
+
+  The Matrix Revolutions Decoded:
+    match: 
+      title: The Matrix Revolutions Decoded
+    title: The Matrix Revolutions Decoded
+    sort_title: Matrix Revolutions Decoded
+    originally_available: 2016-08-01
+    content_rating: R
+    director.sync: Jerick
+    genre.remove: Adventure, Action, Thriller, Science Fiction
+    label: FanFix
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/The%20Matrix%20Revolutions%20Decoded/poster.png
+    url_background: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/The%20Matrix%20Revolutions%20Decoded/background.png
+    summary: This is a Matrix sequels edit like you've never seen before. "The Matrix Revolutions Decoded" presents a complete and focused narrative executed in the same run time as the original "Matrix" while unveiling a brand new and more satisfying conclusion to the Matrix saga. Over 2 hours have been removed from the original source material without logical gaps or jump cuts.
+
+  Once Upon a Time in Hollywood The Red Apple Cut:
+    match: 
+      title: 
+    title: "Once Upon a Time in Hollywood: The Red Apple Cut"
+    sort_title: "Once Upon a Time in Hollywood: The Red Apple Cut"
+    originally_available: 2020-03-01
+    content_rating: R
+    director.sync: macmilln
+    genre.remove: 
+    label: Extended
+    summary: A simple, unnecessary, but fun extended edition to "the ninth film by Quentin Tarantino", Once Upon a Time in Hollywood, by reinserting all deleted scenes, making the runtime just a couple minutes over three hours, adding twenty-three minutes of footage to the film.
+  
+  Paradise:
+    match: 
+      title: PARADISE
+    title: Paradise
+    sort_title: Paradise
+    originally_available: 2017-09-01
+    content_rating: R
+    director.sync: JobWillins
+    producer.remove: Autumn Wang
+    writer.remove: Autumn Wang
+    genre.remove: Crime, Drama
+    label: FanMix
+    summary: "Paradise is an editing project combining Prometheus and Alien: Covenant into a single, David-centric narrative."
+
+  Paranoia:
+    match: 
+      title: PARANÓIA
+    title: Paranoia
+    sort_title: Paranoia
+    originally_available: 2022-08-01
+    content_rating: PG-13
+    director.sync: Paulisdead2221
+    writer.remove: Alexandre Menezes
+    genre.remove: Action, Drama
+    country.remove: Brazil
+    label: FanMix
+    summary: This is a fanmix of Peter Weir's classic The Truman Show, reimagined as a psychological thriller in the style of Hitchcock/Lynch, viewed exclusively through Truman's perspective.
+
+  Pulp Dogs:
+    match: 
+      title: Pulp Dogs
+    title: Pulp Dogs
+    sort_title: Pulp Dogs
+    originally_available: 2022-10-01
+    content_rating: R
+    director.sync: Dawnrazor
+    label: FanMix
+    summary: A fasted paced grindhouse inspired combo of two classic Tarantino films Pulp fiction and Reservoir Dogs!
+
+  Pulp Empire:
+    match: 
+      title: Pulp Empire
+    title: Pulp Empire
+    sort_title: Pulp Empire
+    originally_available: 2013-05-01
+    content_rating: R
+    director.sync: NJVC
+    label: FanMix
+    summary: A Tarantino inspired Star Wars mashup and remix.
+
+  Raiders of the Lost Skull:
+    match: 
+      title: On Set with 'Raiders of the Lost Ark'
+    title: Raiders of the Lost Skull
+    sort_title: Raiders of the Lost Skull
+    originally_available: 2011-12-01
+    content_rating: PG-13
+    director.sync: NJVC
+    producer.remove: Laurent Bouzereau
+    genre.remove: Documentary
+    label: FanFix
+    summary: A new take on Indiana Jones and the Kingdom of the Crystal Skull, aiming to bring the film into the realm of the watchable by matching the tone (music/colour/pacing/characters) from Raiders of the Lost Ark.
+
+  Snowpiercer The Willy Wonka Cut:
+    match: 
+      title: Snowpiercer the Willy Wonka Cut
+    title: "Snowpiercer: The Willy Wonka Cut"
+    sort_title: "Snowpiercer: The Willy Wonka Cut"
+    originally_available: 2022-07-01
+    content_rating: R
+    director.sync: GreenandBlue12
+    label: FanMix
+    summary: According to the fan theory by Rhino Stew, Snowpiercer is actually a sequel to the 1971 film Willy Wonka in the Chocolate Factory. The theory states that Wilford (or Wilford Wonka in this case) is actually Charlie Bucket who has inherited the role of Willy Wonka. After seeing negative effects of spreading CW-7 into the atmosphere, he built the Snowpiercer which contains the last remnants of humanity.
+
+  Spider-Man 3 The Enemy Within:
+    match: 
+      title: Spider Man 3 the Enemy Within
+    title: "Spider-Man 3: The Enemy Within"
+    sort_title: "Spider-Man 3: The Enemy Within"
+    originally_available: 2020-08-01
+    content_rating: PG-13
+    director.sync: Bobson Dugnutt
+    label: FanFix
+    summary: The Enemy WIthin cuts over 20 minutes from the film, and adds back a selection of deleted scenes from the trailers as well as the official Editor's Cut, and trims various lines and subplots. Sandman is no longer Uncle Ben's killer, cheesy scenes and moments are gone, creating a much tighter and potentially darker film.
+
+  Spider-Man 2.2:
+    match: 
+      title: Spider Man 2 2
+    title: Spider-Man 2.2
+    sort_title: Spider-Man 2.2
+    originally_available: 2019-07-01
+    content_rating: PG-13
+    director.sync: Bobson Dugnutt
+    label: FanMix
+    summary: Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius.
+
+  Spirited (De-Musicalized):
+    match: 
+      title: Spirited De Musicalized
+    title: Spirited (De-Musicalized)
+    sort_title: Spirited (De-Musicalized)
+    originally_available: 2022-12-01
+    content_rating: R
+    director.sync: Stomachworm
+    label: FanFix
+    summary: I was excited to hear about Will & Ryan teaming up on a Christmas movie until I found out it was a f@#!ing musical. Well, now it isn't! I hope you enjoy.
+
+  Split Unbreakable Glass:
+    match: 
+      title: Split Unbreakable Glass
+    title: Split Unbreakable Glass
+    sort_title: Split Unbreakable Glass
+    originally_available: 2021-08-01
+    content_rating: R
+    director.sync: Wraith
+    label: FanMix
+    summary: The re-telling of the Eastrail 177 Trilogy with a new narrative structure to facilitate surprises, adjustments to reveals, new parallels, new opening and closings and much much more. One can be surprised again.
+
+  Star Wars Project 4K77:
+    match: 
+      title: "Star Wars: Episode IV - A New Hope"
+    title: "Star Wars: Project 4K77"
+    sort_title: Star Wars Project4K-77
+    edition: Project 4K
+    edition_filter: Project 4K
+    originally_available: 1977-05-25
+    content_rating: PG
+    director.sync: George Lucas
+    producer.remove: Gary Kurtz, Rick McCallum
+    writer.remove: George Lucas
+    label: Regrade
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Project%204K/4K77/poster.png
+    url_background: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Project%204K/4K77/background.png
+    summary: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+
+  Star Wars Project 4K83:
+    match: 
+      title: "Star Wars: Episode VI - Return of the Jedi"
+    title: "Star Wars: Project 4K83"
+    sort_title: Star Wars Project4K-83
+    edition: Project 4K
+    edition_filter: Project 4K
+    originally_available: 1983-05-25
+    content_rating: PG
+    director.sync: George Lucas
+    producer.remove: Rick McCallum, Howard G. Kazanjian
+    writer.remove: George Lucas, Lawrence Kasdan
+    label: Regrade
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Project%204K/4K83/poster.png
+    url_background: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Project%204K/4K83/background.png
+    summary: After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.
+
+  Star Wars Episode IV - A New Hope:
+    match: 
+      title: "Star Wars: Despecialized Edition Remastered V2.5, Introducing the Sources"
+    title: "Star Wars: Episode IV - A New Hope"
+    sort_title: Star Wars Despecialized-04
+    edition: Despecialized
+    edition_filter: Despecialized
+    originally_available: 2013-05-29
+    content_rating: PG
+    director.sync: Petr Harmacek
+    producer.remove: Gary Kurtz, Rick McCallum
+    writer.remove: Peter Harmacek, George Lucas
+    genre.remove: Documentary, Short
+    country.remove: Czech Republic
+    label: FanFix
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Despecialized/Star%20Wars%20Episode%20IV%20-%20A%20New%20Hope/poster.png
+    url_background: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Despecialized/Star%20Wars%20Episode%20IV%20-%20A%20New%20Hope/background.png
+    summary: Petr "Harmy" Harmacek introduces some of the sources used to create the Despecialized version of Star Wars.
+
+  Star Wars Episode V - The Empire Strikes Back:
+    match: 
+      title: "Star Wars: Episode V - The Empire Strikes Back"
+    title: "Star Wars: Episode V - The Empire Strikes Back"
+    sort_title: Star Wars Despecialized-05
+    edition: Despecialized
+    edition_filter: Despecialized
+    originally_available: 2013-05-29
+    content_rating: PG
+    director.sync: Petr Harmacek
+    producer.remove: Gary Kurtz, Rick McCallum, Howard G. Kazanjian
+    writer.remove: George Lucas, Leigh Brackett, Lawrence Kasdan
+    label: FanFix
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Despecialized/Star%20Wars%20Episode%20V%20-%20The%20Empire%20Strikes%20Back/poster.png
+    url_background: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Despecialized/Star%20Wars%20Episode%20V%20-%20The%20Empire%20Strikes%20Back/background.png
+    summary: Petr "Harmy" Harmacek introduces some of the sources used to create the Despecialized version of Star Wars.
+
+  Star Wars Episode VI - Return of the Jedi:
+    match: 
+      title: Star Wars Episode 3 Return of the Jedi Despecialized Edition
+    title: "Star Wars: Episode VI - Return of the Jedi"
+    sort_title: Star Wars Despecialized-06
+    edition: Despecialized
+    edition_filter: Despecialized
+    originally_available: 2013-05-29
+    content_rating: PG
+    director.sync: Petr Harmacek
+    producer.remove: Rick McCallum, Howard G. Kazanjian
+    writer.remove: George Lucas, Lawrence Kasdan
+    label: FanFix
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Despecialized/Star%20Wars%20Episode%20III%20-%20Return%20of%20the%20Jedi/poster.png
+    url_background: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Movies/Star%20Wars%20Despecialized/Star%20Wars%20Episode%20III%20-%20Return%20of%20the%20Jedi/background.png
+    summary: Petr "Harmy" Harmacek introduces some of the sources used to create the Despecialized version of Star Wars.
+
+  Star Wars Episode IV - A New Hope Revisited:
+    match: 
+      title: Star Wars Episode IV Special Edition Revisited
+    title: "Star Wars: Episode IV - A New Hope Revisited"
+    sort_title: Star Wars Revisited-04
+    edition: Revisited
+    originally_available: 2008-01-01
+    content_rating: PG
+    director.sync: Adywan
+    label: FanFix
+    summary: "Star Wars: Revisited represents perhaps the boldest and most sophisticated of any of the fan edits of Star Wars EP IV: ANH. Star Wars: Revisited not only fixes errors and technical limitations to the film that should have been made in the first SE, but gives us a whole new vision for the movie, tying it to the rest of the Star Wars saga while correcting many of the excesses of the original SE. Shots are re-mastered and restored, special effect shots are re-composited and whole new sequences are created, giving the viewer a taste of what the SE could have been."
+
+  Star Wars Episode V - The Empire Strikes Back Revisited:
+    match: 
+      title: Star Wars the Empire Strikes Back Revisited
+    title: "Star Wars: Episode V - The Empire Strikes Back Revisited"
+    sort_title: Star Wars Revisited-05
+    edition: Revisited
+    originally_available: 2017-08-01
+    content_rating: PG
+    director.sync: Adywan
+    label: FanFix
+    summary: "In 2008, a relatively unknown Faneditor going by the name of Adywan shook the Fanediting galaxy with his release of 'Star Wars: Revisited'. From that day, Faneditors and film enthusiasts from around the world (and we'd like to think throughout the galaxy…) have waited in eager anticipation for the continuation of Adywan's Revisited saga. That day has arrived! Prepare yourself to relive the magic of Star Wars with Adywan's 'The Empire Strikes Back Revisited'."
+
+  Star Wars Episode I - Cloak of Deception:
+    match: 
+      title: Star Wars Episode I Cloak Of Deception
+    title: "Star Wars: Episode I - Cloak of Deception"
+    sort_title: Star Wars HAL9000-01
+    originally_available: 2014-01-01
+    content_rating: PG
+    director.sync: HAL9000
+    label: FanFix
+    summary: The first of the revamped '9000 series', Cloak of Deception delivers a re-crafted perspective on Star Wars Episode I in keeping with the drive of the original trilogy of films. Unnecessary 'galaxy shrinking' cameos from classic characters have been cut down or removed. Anakin is depicted as a more mature and capable figure an audience can identify with. Jar Jar is recast as an everyman caught up in events outside his control who does his part in the fight for freedom, rather than a traitorous clown.
+
+  Star Wars Episode II - The Approaching Storm:
+    match: 
+      title: Star Wars Episode II the Approaching Storm
+    title: "Star Wars: Episode II - The Approaching Storm"
+    sort_title: Star Wars HAL9000-02
+    originally_available: 2014-02-01
+    content_rating: PG
+    director.sync: HAL9000
+    label: FanFix
+    summary: The second of the revamped '9000 Series,' The Approaching Storm delivers a re-crafted perspective on Star Wars Episode II in keeping with the drive of the original trilogy of films. Unnecessary 'galaxy shrinking' cameos from classic characters have been cut-down or removed. Anakin and Padme are depicted as realistic adults developing romantic feelings for one another. The political plot is made more straightforward and graspable. Superfluous action is subdued to make the film more story driven.
+
+  Star Wars Episode III - Labyrinth of Evil:
+    match: 
+      title: Star Wars Episode III Labyrinth of Evil
+    title: "Star Wars: Episode III - Labyrinth of Evil"
+    sort_title: Star Wars HAL9000-03
+    originally_available: 2014-03-01
+    content_rating: PG-13
+    director.sync: HAL9000
+    label: FanFix
+    summary: The third of the revamped '9000 Series,' Labyrinth Of Evil delivers a re-crafted perspective on Star Wars Episode III in keeping with the drive of the original trilogy of films. Anakin's fall to the dark side is portrayed in a more believable way, with political motivations that are ignited by, rather than preceded by, a desire to save his wife. Padme's role is expanded, and her fate is made to match her daughter's memories.
+
+  Star Wars Episode VII - The Force Awakens Restructured:
+    match: 
+      title: "Star Wars: Episode VII - The Force Awakens"
+    title: "Star Wars: Episode VII - The Force Awakens: Restructured"
+    sort_title: Star Wars HAL9000-07
+    originally_available: 2016-06-01
+    content_rating: PG-13
+    director.sync: HAL9000
+    producer.remove: Kathleen Kennedy, J.J. Abrams, Bryan Burk
+    writer.remove: Michael Arndt
+    label: FanFix
+    summary: "It's the same Star Wars Episode VII: The Force Awakens you fell in love with, only restructured slightly so that Starkiller Base does not fire until close to the end of the film. During the battle over Starkiller Base, the stakes are no longer protecting the Resistance base, but preventing the destruction of the Republic Capitol. Even though they destroy the First Order's superweapon, they fail to do so in time to save the day."
+
+  Star Wars Episode VIII - The Last Jedi Legendary:
+    match: 
+      title: "Star Wars: Episode VIII - The Last Jedi"
+    title: "Star Wars: Episode VIII - The Last Jedi: Legendary"
+    sort_title: Star Wars HAL9000-08
+    originally_available: 2018-07-01
+    content_rating: PG-13
+    director.sync: HAL9000
+    producer.remove: Kathleen Kennedy, Ram Bergman, Leifur B. Dagfinnsson, Andres Jauernick
+    writer.remove: George Lucas, Rian Johnson
+    label: FanFix
+    summary: "It’s the same Star Wars: The Last Jedi you pondered over, cleared of distractions. The trip to the casino of Canto Bight is truncated, the Caretakers of Ach-To are removed, and a few scenes are rearranged, allowing Rian Johnson’s story to shine. Strap in for a contemplative journey not experienced since The Empire Strikes Back."
+
+  Star Wars Episode IX - The Rise of Skywalker Ascendant:
+    match: 
+      title: "Star Wars: Episode IX - The Rise Of Skywalker"
+    title: "Star Wars: Episode IX - The Rise of Skywalker: Ascendant"
+    sort_title: Star Wars HAL9000-09
+    originally_available: 2020-11-01
+    content_rating: PG-13
+    director.sync: HAL9000
+    producer.remove: Kathleen Kennedy, J.J. Abrams, Michele Rejwan
+    writer.remove: George Lucas, J.J. Abrams, Chris Terrio, Colin Trevorrow, Derek Connolly
+    label: FanFix
+    summary: "Star Wars: The Rise of Skywalker gets an overhaul to serve as a conclusion to the Star Wars saga. Pacing, character journeys, and story continuity are improved via an unprecedented fan editing collaboration. A layer of polish and care applied to a relentlessly fast-paced film. Subtle character tweaks. And a few new surprises."
+    
+  Star Wars Rise of the Rebellion:
+    match: 
+      title: "Star Wars: The Rise of Ren"
+    title: "Star Wars: Rise of the Rebellion"
+    sort_title: "Star Wars: Rise of the Rebellion"
+    originally_available: 2017-08-01
+    content_rating: PG-13
+    director.sync: DigModiFicaTion
+    producer.remove: Conner Breedlove, Albert Hehr IV
+    writer.remove: Conner Breedlove, Matt Thomas
+    genre.remove: Action
+    label: FanFix
+    summary: Rise of the Rebellion is a light fanfix of what I consider to be the second best Star Wars movie currently released. This edit differs from others in that it does not drastically reduce the length, narrative focus of the movie or add any John Williams cues. Rise of the Rebellion seeks to restore heroes to the movie by slightly shifting their motivations and actions to produce a story that is filled with brave heroes and less distractions.
+
+  Star Wars The Coaxium Heist:
+    match: 
+      title: Star Wars the Coaxium Heist
+    title: "Star Wars: The Coaxium Heist"
+    sort_title: "Star Wars: The Coaxium Heist"
+    originally_available: 2019-07-01
+    content_rating: PG
+    director.sync: DigModiFicaTion
+    label: FanFix
+    summary: Young Han Solo joins a band of smugglers on his first major heist and is introduced to Chewbacca and Lando Calrissian.
+
+  Suicide Squad Special Edition:
+    match: 
+      title: 
+        - The Suicide Squad
+        - Suicide Squad Special Edition
+    title: "Suicide Squad: Special Edition"
+    sort_title: "Suicide Squad: Special Edition"
+    originally_available: 2020-10-01
+    content_rating: R
+    director.sync: Wakeupkeo
+    producer.remove: Charles Roven, Peter Safran
+    writer.remove: James Gunn
+    genre.remove: Action, Adventure, Science fiction, Comedy
+    label: FanFix
+    summary: In typical fashion, exposition gets cut drastically. The last time something is explained, is hopefully the only time it is. My intent is to leave some mystery and suspense, and not everyone needs to be a main character. I didn't know these characters besides Harley before watching, and that is the perspective I maintain. Slipknot is simply a plot device, not a main character.
+
+  Terminator 3 The Coming Storm:
+    match: 
+      title: Terminator 3 the Coming Storm
+    title: "Terminator 3: The Coming Storm"
+    sort_title: "Terminator 3: The Coming Storm"
+    originally_available: 2008-03-01
+    content_rating: PG-13
+    director.sync: Uncanny Antman
+    label: FanFix
+    summary: This is a serious take on TERMINATOR 3 to be more in the tradition of its prequels. Lots of cheesy and unnecessary elements were removed as well as all the references to dates and ages that contradict the previous two films.
+
+  Thor Love + Thunder - Comedy:
+    match: 
+      title: "Thor: Love and Thunder"
+    title: "Thor: Love + Thunder - Comedy"
+    sort_title: "Thor: Love + Thunder - Comedy"
+    originally_available: 2022-12-01
+    content_rating: PG-13
+    director.sync: Tremault
+    producer.remove: Kevin Feige, Brad Winderbaum
+    writer.remove: Taika Waititi, Jennifer Kaytin Robinson
+    genre.remove: Fantasy, Action, Adventure, Romance, Science Fiction, Comedy
+    label: FanFix
+    summary: Thor Love and Thunder arrived in cinemas to the sounds of raucus laughter, and the sound of footsteps as people walked out of the cinema, disgusted at what a blundering fool Thor had become. Whilst many people enjoyed Taika Waititi's unique blend of humour and emotion, There are many people who felt he had taken it too far. Thor Love and Thunder Minus Comedy takes the worst of the comedy out and aims to focus on Thor's emotional journey, rediscovering love and accentuating the threatening presence of Gorr the god-butcher. Thor discovers that Gorr is aiming to kill all gods and sets out on a mission to raise an army to rescue the abducted children of Asgard. It's not yet clear how this army will come about but on the way, he meets the enigmatic Zeus whose allegiances are never quite clear, and rekindles a romance with Jane Foster who has her own secrets.
+
+  Thor Odinson?:
+    match: 
+      title: Thor Odinson?
+    title: "Thor: Odinson?"
+    sort_title: "Thor: Odinson?"
+    edition: Godsized Edition
+    originally_available: 2020-08-01
+    content_rating: PG-13
+    director.sync: Malthus
+    label: FanFix
+    summary: This edit featured a restructured narrative and 9 reinstated deleted scenes
+
+  Tron Perfection:
+    match: 
+      title: Tron Perfection
+    title: Tron Perfection
+    sort_title: Tron Perfection
+    originally_available: 2021-03-01
+    content_rating: PG-13
+    director.sync: Wakeupkeo
+    label: FanFix
+    summary: Tron Perfection is a story about the conflict of man vs himself, and less about Sam Flynn (who is merely our entry-point into the Grid.) Kevin Flynn spent so much in his crusade to get revenge on Dillinger in the original Tron that once he got his revenge, made Clu, and set about to create a new Grid, he was mirroring comparable character flaws that included massive ambition married to a sense of entitlement.
+
+  Venom The Marvel Cut:
+    match: 
+      title: 
+    title: "Venom: The Marvel Cut"
+    sort_title: "Venom: The Marvel Cut"
+    originally_available: 2023-08-01
+    content_rating: PG-13
+    director.sync: Josephdquinn
+    label: FanFix
+    summary: "Venom wasn't terrible, but it wasn't great. By cutting a few scenes I've been able to tighten the pacing and make it slightly more enjoyable than the theatrical cut."
+    
+  The War of The Stars A New Hope Grindhoused:
+    match: 
+      title: The War of the Stars a New Hope Grindhoused
+    title: "The War of The Stars: A New Hope Grindhoused"
+    sort_title: "War of The Stars: A New Hope Grindhoused"
+    originally_available: 2010-01-01
+    content_rating: PG-13
+    director.sync: The Man Behind The Mask
+    label: FanMix
+    summary: This is a “grindhouse” version of George Lucas’s Star Wars (Episode 4 'A New Hope'). Some of the deleted scenes, alternate takes and behind the scene footage are now back in the movie. New music. New special effects. Key scenes have been reorganized.
+
+  The War of the Stars II The Future in Motion:
+    match: 
+      title: The War of the Stars II the Future in Motion
+    title: "The War of the Stars II: The Future in Motion"
+    sort_title: "War of the Stars II: The Future in Motion"
+    originally_available: 2012-04-01
+    content_rating: PG-13
+    director.sync: The Man Behind The Mask
+    label: FanMix
+    summary: "This is a sequel to THE WAR OF THE STARS: A NEW HOPE GRINDHOUSED, released in 2010. The goal is now to mix “The Empire Strikes Back” and “Return of the Jedi” while taking care of the changes made for the first edit. A lot of deleted scenes are also back in this edit. Some hopefully intertaining twists and more than 90 new special effects turn this project into something that I think is special even if maybe not as “fun” as the first edit. Or fun in another kind of way."
+
+  The Warriors:
+    match: 
+      title: The Warriors Theatrical Cut Reconstruction
+      year: 2018
+    title: The Warriors
+    sort_title: Warriors
+    edition: Theatrical Cut Reconstruction
+    originally_available: 2018-06-01
+    content_rating: R
+    director.sync: TM2YC
+    label: Special
+    summary: This edit takes the HD transfer on the 'Ultimate Director's Cut' blu-ray and goes in and fixes, alters, or replaces every single changed shot to "Reconstruct" the original 'Theatrical Cut' in almost the same HD quality. So we can once again enjoy the film the way it was meant to be seen 1979, without compromising on visual quality.
+
+  The Wolverine The James Mangold Restoration:
+    match: 
+      title: The Wolverine the James Mangold Restoration
+    title: "The Wolverine: The James Mangold Restoration"
+    sort_title: "Wolverine: The James Mangold Restoration"
+    originally_available: 2022-09-01
+    content_rating: PG-13
+    director.sync: Wakeupkeo
+    label: FanFix
+    summary: Essentially, this project aims to restore James Mangold's original vision for the film, before the studio enforced changes to the script. Knowledge of the original script, and how it was changed, comes directly from Mangold himself as well as behind the scenes commentary.
+
+  Wonder Woman The Excellent Adventure:
+    match: 
+      title: Wonder Woman the Excellent Adventure
+    title: "Wonder Woman: The Excellent Adventure"
+    sort_title: "Wonder Woman: The Excellent Adventure"
+    originally_available: 2021-09-01
+    content_rating: PG-13
+    director.sync: Wakeupkeo
+    label: FanFix
+    summary: Diana kept fighting after the events of her first movie in smaller, more hidden humanitarian ways, even though she gave up hope in mankind as a whole. We do not find her in the 80s anti-social and still brooding about Steve this whole time. Instead she is a confident hidden hero, who happens upon a chance that brings him back, and she realizes AGAIN how much she lost. This movie becomes the reason she still thinks about him in the present day JL movies. She was over him in that she knew he was gone the first time, only to have him come back for a while and let him go again. She essentially gets PTSD from this experience, instead of just being lovesick for the full 100 years. (Also, Steve is not inhabiting anyone else’s body in this edit.) WW84 also should have dialed up the 80's soundtrack. Bill and Teds was shot in '87 and released in '89, so I already knew I couldn't lock myself into ‘84 if I wanted to mix the soundtracks. Bill and ted's gave me tons of source material to work with, but I needed more, so since Bill and Ted wanted to work with Van Halen, Van Halen leads the additional songs needed. There is also Judas Priest, Pat Benatar, The Expressions, Killing Joke, Vangelis, Oingo Boingo, Def Leppard, Scorpions, Harold Faltermayer and Kenny Loggins.
