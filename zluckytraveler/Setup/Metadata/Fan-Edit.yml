@@ -696,7 +696,9 @@ metadata:
 
   The Godfather Don Vito’s Opus:
     match: 
-      title: "Godfather: Don Vito’s Opus"
+      title:
+        - The Godfather Don Vito’s Opus
+        - "Godfather: Don Vito’s Opus"
     title: "The Godfather: Don Vito’s Opus"
     sort_title: "Godfather: Don Vito’s Opus"
     originally_available: 2021-04-01
@@ -707,7 +709,9 @@ metadata:
 
   The Godfather Michael’s Opus:
     match: 
-      title: "Godfather: Michael’s Opus"
+      title:
+        - The Godfather Michael’s Opus
+        - "Godfather: Michael’s Opus"
     title: "The Godfather: Michael’s Opus"
     sort_title: "Godfather: Michael’s Opus"
     originally_available: 2021-04-01
