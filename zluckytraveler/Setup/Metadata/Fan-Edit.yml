@@ -13,12 +13,10 @@ metadata:
 
   Alien:
     title: Alien
-    edition: Director's Cut
     label: Regrade
 
   Aliens:
     title: Aliens
-    edition: Special Edition
     label: Regrade
 
   Apocalypto:
@@ -31,7 +29,6 @@ metadata:
 
   Avatar:
     title: Avatar
-    edition: Extended Collector's Edition
     label: Regrade
 
   The Aviator:
@@ -145,7 +142,6 @@ metadata:
 
   Kingdom of Heaven:
     title: Kingdom of Heaven
-    edition: Director's Cut
     label: Regrade
 
   Knight and Day:
@@ -206,7 +202,6 @@ metadata:
 
   Sin City:
     title: Sin City
-    edition: XXL Recut
     label: Regrade
 
   The Sixth Sense:
@@ -282,7 +277,6 @@ metadata:
 
   White Men Can't Jump:
     title: White Men Can't Jump
-    edition: Extended
     label: Regrade
 
   Young Guns:
