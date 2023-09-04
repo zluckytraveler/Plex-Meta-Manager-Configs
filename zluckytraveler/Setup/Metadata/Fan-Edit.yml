@@ -255,7 +255,9 @@ metadata:
 
   Tron Legacy:
     match: 
-      title: "TRON: Legacy"
+      title: 
+        - "TRON: Legacy"
+        - "Tron: Legacy"
     title: "Tron: Legacy"
     label: Regrade
 
@@ -306,7 +308,9 @@ metadata:
 
   The Amazing Spider-Man Part 1:
     match: 
-      title: The Amazing Spider Man Part 1
+      title: 
+        - The Amazing Spider Man Part 1
+        - "The Amazing Spider-Man: Part 1"
     title: "The Amazing Spider-Man: Part 1"
     sort_title: "Amazing Spider-Man: Part 1"
     originally_available: 2022-08-01
@@ -317,7 +321,9 @@ metadata:
 
   The Amazing Spider-Man Part 2:
     match: 
-      title: The Amazing Spiderman 2 Webb Cut
+      title: 
+        - The Amazing Spiderman 2 Webb Cut
+        - "The Amazing Spider-Man: Part 2"
     title: "The Amazing Spider-Man: Part 2"
     sort_title: "Amazing Spider-Man: Part 2"
     originally_available: 2023-02-01
@@ -334,6 +340,7 @@ metadata:
       title:
         - The Adventures of the Amazing Spider-Man
         - The Amazing Spider-Man 3
+        - "The Amazing Spider-Man: The Untold Extended Edition"
     title: "The Amazing Spider-Man: The Untold Extended Edition"
     sort_title: "Amazing Spider-Man 1: The Untold Extended Edition"
     originally_available: 2020-11-01
@@ -349,6 +356,7 @@ metadata:
       title:
         - "The Amazing Spider-Man: The Untold Finale Edition"
         - The Amazing Spider Man 2 the Untold Finale Edition
+        - "The Amazing Spider-Man 2: The Untold Finale Edition"
     title: "The Amazing Spider-Man 2: The Untold Finale Edition"
     sort_title: "Amazing Spider-Man 2: The Untold Finale Edition"
     originally_available: 2021-11-01
@@ -359,7 +367,9 @@ metadata:
 
   Avengers Age of Ultron:
     match: 
-      title: "Avengers: Return of Ultron"
+      title: 
+        - "Avengers: Return of Ultron"
+        - "Avengers: Age of Ultron"
     title: "Avengers: Age of Ultron"
     sort_title: "Avengers: Age of Ultron"
     edition: Extinction Edition
@@ -377,6 +387,7 @@ metadata:
       title: 
         - "Avengers: Reassembled"
         - Avengers Reassembled
+        - "Avengers: Assembled"
     title: "Avengers: Assembled"
     sort_title: "Avengers: Assembled"
     originally_available: 2019-12-01
@@ -390,7 +401,9 @@ metadata:
 
   Back to the Future Greater Scott Edition:
     match:
-      title: Back to the Future Greater Scott Edition
+      title: 
+        - Back to the Future Greater Scott Edition
+        - "Back to the Future: Greater Scott Edition"
     title: "Back to the Future: Greater Scott Edition"
     sort_title: "Back to the Future: Greater Scott Edition"
     originally_available: 2018-05-01
@@ -401,7 +414,9 @@ metadata:
 
   Batman Forever Red Book Edition:
     match:
-      title: Batman Forever the Red Book Edition
+      title: 
+        - Batman Forever the Red Book Edition
+        - "Batman Forever: Red Book Edition"
     title: "Batman Forever: Red Book Edition"
     sort_title: "Batman Forever: Red Book Edition"
     edition: 15th Anniversary Enhanced
@@ -413,7 +428,9 @@ metadata:
 
   Batman The Man Who Laughs:
     match: 
-      title: The Man Who Laughs
+      title: 
+        - The Man Who Laughs
+        - "Batman: The Man Who Laughs"
     title: "Batman: The Man Who Laughs"
     sort_title: "Batman: The Man Who Laughs"
     original_title: "Batman: The Man Who Laughs"
@@ -428,7 +445,9 @@ metadata:
 
   Batman vs Superman False God:
     match: 
-      title: Batman v Superman False God
+      title: 
+        - Batman v Superman False God
+        - "Batman vs Superman: False God"
     title: "Batman vs Superman: False God"
     sort_title: "Batman vs Superman: False God"
     originally_available: 2023-08-01
@@ -439,7 +458,9 @@ metadata:
     
   Batman vs Superman No Justice:
     match:
-      title: "Batman v Superman: Dawn of Justice"
+      title: 
+        - "Batman v Superman: Dawn of Justice"
+        - "Batman vs Superman: No Justice"
     title: "Batman vs Superman: No Justice"
     sort_title: "Batman vs Superman: No Justice"
     originally_available: 2017-03-01
@@ -464,7 +485,9 @@ metadata:
 
   Blade Runner 2008:
     match: 
-      title: Blade Runner
+      title: 
+        - Blade Runner
+        - Blade Runner 2008
     title: Blade Runner 2008
     sort_title: Blade Runner 2008
     edition: Extended Edition
@@ -476,7 +499,9 @@ metadata:
     
   Blade Runner 2049 Aerodynamik:
     match: 
-      title: Blade Runner 2049
+      title: 
+        - Blade Runner 2049
+        - "Blade Runner 2049: Aerodynamik"
     title: "Blade Runner 2049: Aerodynamik"
     sort_title: "Blade Runner 2049: Aerodynamik"
     originally_available: 2018-04-01
@@ -491,7 +516,9 @@ metadata:
 
   Blade Runner The Analogue Cut:
     match: 
-      title: Blade Runner the Analogue Cut
+      title: 
+        - Blade Runner the Analogue Cut
+        - "Blade Runner: The Analogue Cut"
     title: "Blade Runner: The Analogue Cut"
     sort_title: "Blade Runner: The Analogue Cut"
     originally_available: 2018-12-01
@@ -502,7 +529,9 @@ metadata:
 
   Blade Runner The Penultimate Cut:
     match: 
-      title: Blade Runner the Penultimate Cut
+      title: 
+        - Blade Runner the Penultimate Cut
+        - "Blade Runner: The Penultimate Cut"
     title: "Blade Runner: The Penultimate Cut"
     sort_title: "Blade Runner: The Penultimate Cut"
     originally_available: 2020-11-01
@@ -513,7 +542,9 @@ metadata:
 
   Blue Velvet:
     match: 
-      title: Blue Velvet Q2 Edition
+      title: 
+        - Blue Velvet Q2 Edition
+        - Blue Velvet
     title: Blue Velvet
     sort_title: Blue Velvet
     edition: Q2 Extended
@@ -525,7 +556,9 @@ metadata:
 
   Captain America The Winter Soldier - Defrosted Edition:
     match: 
-      title: Captain America the Winter Soldier Defrosted Edition
+      title: 
+        - Captain America the Winter Soldier Defrosted Edition
+        - "Captain America: The Winter Soldier - Defrosted Edition"
     title: "Captain America: The Winter Soldier - Defrosted Edition"
     sort_title: "Captain America: The Winter Soldier - Defrosted Edition"
     originally_available: 2017-12-01
@@ -536,7 +569,9 @@ metadata:
     
   Crisis on Earth-X:
     match: 
-      title: "Climate Crisis: Earth on the Edge"
+      title: 
+        - "Climate Crisis: Earth on the Edge"
+        - Crisis on Earth-X
     title: Crisis on Earth-X
     sort_title: Crisis on Earth-X
     originally_available: 2022-09-01
@@ -547,7 +582,9 @@ metadata:
 
   Crisis on Infinite Earths The Legacy of Oliver Queen:
     match: 
-      title: Crisis on Infinite Earths the Legacy of Oliver Queen
+      title: 
+        - Crisis on Infinite Earths the Legacy of Oliver Queen
+        - "Crisis on Infinite Earths: The Legacy of Oliver Queen"
     title: "Crisis on Infinite Earths: The Legacy of Oliver Queen"
     sort_title: "Crisis on Infinite Earths: The Legacy of Oliver Queen"
     originally_available: 2023-06-01
@@ -558,7 +595,9 @@ metadata:
 
   Dawn of Justice Part 1 The Outsider:
     match: 
-      title: Dawn of Justice Part 1 the Outsider
+      title: 
+        - Dawn of Justice Part 1 the Outsider
+        - "Dawn of Justice: Part 1 The Outsider"
     title: "Dawn of Justice: Part 1 The Outsider"
     sort_title: "Dawn of Justice: Part 1 The Outsider"
     originally_available: 2020-12-01
@@ -569,7 +608,9 @@ metadata:
 
   Dawn of Justice Part 2 The Consequences:
     match: 
-      title: Dawn of Justice Part 2 the Consequences
+      title: 
+        - Dawn of Justice Part 2 the Consequences
+        - "Dawn of Justice: Part 2 The Consequences"
     title: "Dawn of Justice: Part 2 The Consequences"
     sort_title: "Dawn of Justice: Part 2 The Consequences"
     originally_available: 2020-12-01
@@ -580,7 +621,9 @@ metadata:
 
   Dawn of Justice Part 3 The Hard Truths:
     match: 
-      title: Dawn of Justice Part 3 the Hard Truths
+      title: 
+        - Dawn of Justice Part 3 the Hard Truths
+        - "Dawn of Justice: Part 3 The Hard Truths"
     title: "Dawn of Justice: Part 3 The Hard Truths"
     sort_title: "Dawn of Justice: Part 3 The Hard Truths"
     originally_available: 2020-12-01
@@ -602,7 +645,9 @@ metadata:
 
   Dune Deluxe Edition:
     match: 
-      title: Dune Deluxe Edition
+      title: 
+        - Dune Deluxe Edition
+        - "Dune: Deluxe Edition"
     title: "Dune: Deluxe Edition"
     sort_title: "Dune: Deluxe Edition"
     originally_available: 2020-10-01
@@ -613,7 +658,9 @@ metadata:
 
   Dune The Alternative Edition Redux:
     match: 
-      title: Dune the Alternative Edition Redux
+      title: 
+        - Dune the Alternative Edition Redux
+        - "Dune: The Alternative Edition Redux"
     title: "Dune: The Alternative Edition Redux"
     sort_title: "Dune: The Alternative Edition Redux"
     originally_available: 2022-07-01
@@ -624,7 +671,7 @@ metadata:
 
   Escape from the Shining Alien Thing from Beyond the Stars:
     match: 
-      title: Escape From the Shining Alien Thing From Beyond the Stars
+      title: Escape from the Shining Alien Thing from Beyond the Stars
     title: Escape from the Shining Alien Thing from Beyond the Stars
     sort_title: Escape from the Shining Alien Thing from Beyond the Stars
     originally_available: 2022-06-01
@@ -635,7 +682,9 @@ metadata:
 
   Fight Club I Am Jack's Laryngitis:
     match: 
-      title: Fight Club the I Am Jacks Laryngitis
+      title: 
+        - Fight Club the I Am Jacks Laryngitis
+        - "Fight Club: I Am Jack's Laryngitis"
     title: "Fight Club: I Am Jack's Laryngitis"
     sort_title: "Fight Club: I Am Jack's Laryngitis"
     originally_available: 2020-04-01
@@ -646,7 +695,9 @@ metadata:
 
   Finest Hour A Supercut of Dunkirk and Darkest Hour:
     match: 
-      title: Finest Hour a Supercut of Dunkirk and Darkest Hour
+      title: 
+        - Finest Hour a Supercut of Dunkirk and Darkest Hour
+        - "Finest Hour: A Supercut of Dunkirk and Darkest Hour"
     title: "Finest Hour: A Supercut of Dunkirk and Darkest Hour"
     sort_title: "Finest Hour: A Supercut of Dunkirk and Darkest Hour"
     originally_available: 2020-07-01
@@ -657,7 +708,9 @@ metadata:
 
   Frank Herbert's Dune The Spence Edit:
     match: 
-      title: Frank Herbert's Dune the Spence Edit
+      title: 
+        - Frank Herbert's Dune the Spence Edit
+        - "Frank Herbert's Dune: The Spence Edit"
     title: "Frank Herbert's Dune: The Spence Edit"
     sort_title: "Frank Herbert's Dune: The Spence Edit"
     originally_available: 2021-12-01
@@ -671,6 +724,7 @@ metadata:
       title: 
         - Your Friendly Eco-Friendly Spider-Man
         - A Friend Called Spider-Man
+        - Friendly Neighborhood Spider-Man
     title: Friendly Neighborhood Spider-Man
     sort_title: Friendly Neighborhood Spider-Man
     originally_available: 2018-03-01
@@ -682,7 +736,9 @@ metadata:
 
   Ghost in the Shell Lean & Mean Edition:
     match: 
-      title: Ghost in the Shell Lean & Mean Edition
+      title: 
+        - Ghost in the Shell Lean & Mean Edition
+        - "Ghost in the Shell: Lean & Mean Edition"
     title: "Ghost in the Shell: Lean & Mean Edition"
     sort_title: "Ghost in the Shell: Lean & Mean Edition"
     originally_available: 2019-02-01
@@ -696,6 +752,7 @@ metadata:
       title:
         - The Godfather Don Vito's Opus
         - "Godfather: Don Vito’s Opus"
+        - "The Godfather: Don Vito’s Opus"
     title: "The Godfather: Don Vito’s Opus"
     sort_title: "Godfather: Don Vito’s Opus"
     originally_available: 2021-04-01
@@ -709,6 +766,7 @@ metadata:
       title:
         - The Godfather Michael's Opus
         - "Godfather: Michael’s Opus"
+        - "The Godfather: Michael’s Opus"
     title: "The Godfather: Michael’s Opus"
     sort_title: "Godfather: Michael’s Opus"
     originally_available: 2021-04-01
@@ -719,7 +777,9 @@ metadata:
 
   H8teful Reconstructed Hateful 8 Roadshow Version:
     match: 
-      title: H8teful Reconstructed Hateful 8 Roadshow Version
+      title: 
+      - H8teful Reconstructed Hateful 8 Roadshow Version
+      - "H8teful: Reconstructed Hateful 8 Roadshow Version"
     title: "H8teful: Reconstructed Hateful 8 Roadshow Version"
     sort_title: "H8teful: Reconstructed Hateful 8 Roadshow Version"
     originally_available: 2022-10-01
@@ -730,7 +790,9 @@ metadata:
   
   The Hobbit The Spence Edit:
     match: 
-      title: The Hobbit the Spence Edit
+      title: 
+        - The Hobbit the Spence Edit
+        - "The Hobbit: The Spence Edit"
     title: "The Hobbit: The Spence Edit"
     sort_title: "Hobbit: The Spence Edit"
     originally_available: 2015-04-01
@@ -741,7 +803,9 @@ metadata:
 
   The Hobbit Maple Films:
     match: 
-      title: J.R.R. Tolkien's the Hobbit
+      title: 
+        - J.R.R. Tolkien's the Hobbit
+        - "The Hobbit Maple Films"
     title: "The Hobbit Maple Films"
     sort_title: "Hobbit Maple Films"
     originally_available: 2016-08-01
@@ -753,7 +817,9 @@ metadata:
 
   Indiana Jones and the Kingdom of the Crystal Skull The Spence Edit:
     match: 
-      title: Indiana Jones and the Kingdom of the Crystal Skull the Spence Edit
+      title: 
+        - Indiana Jones and the Kingdom of the Crystal Skull the Spence Edit
+        - "Indiana Jones and the Kingdom of the Crystal Skull: The Spence Edit"
     title: "Indiana Jones and the Kingdom of the Crystal Skull: The Spence Edit"
     sort_title: "Indiana Jones and the Kingdom of the Crystal Skull: The Spence Edit"
     originally_available: 2022-08-01
@@ -768,6 +834,7 @@ metadata:
         - Indiana Jones and the Kingdom of the Crystal Skull 15MAF Recut
         - "Indiana Jones and the Kingdom of the Crystal Skull: 15MAF Recut"
         - "Indiana Jones and the Kingdom of the Crystal Skull: The 15MAF Recut"
+        - "Indiana Jones and the Kingdom of the Crystal Skull: The 15MAF Cut"
     title: "Indiana Jones and the Kingdom of the Crystal Skull: The 15MAF Cut"
     sort_title: "Indiana Jones and the Kingdom of the Crystal Skull: The 15MAF Cut"
     originally_available: 2018-09-01
@@ -778,7 +845,9 @@ metadata:
 
   Interstellar Where We're Going:
     match: 
-      title: The Place We're Going
+      title: 
+        - The Place We're Going
+        - "Interstellar: Where We're Going"
     title: "Interstellar: Where We're Going"
     sort_title: "Interstellar: Where We're Going"
     originally_available: 2023-01-01
@@ -803,7 +872,9 @@ metadata:
 
   Jaws The Sharksploitation Edit:
     match: 
-      title: Jaws the Sharksploitation Edit
+      title: 
+        - Jaws the Sharksploitation Edit
+        - "Jaws: The Sharksploitation Edit"
     title: "Jaws: The Sharksploitation Edit"
     sort_title: "Jaws: The Sharksploitation Edit"
     originally_available: 2009-06-01
@@ -814,7 +885,9 @@ metadata:
 
   Justice League Rise of the Motherboxes:
     match: 
-      title: Justice League Rise of the Motherboxes
+      title: 
+        - Justice League Rise of the Motherboxes
+        - "Justice League: Rise of the Motherboxes"
     title: "Justice League: Rise of the Motherboxes"
     sort_title: "Justice League: Rise of the Motherboxes"
     originally_available: 2023-01-01
@@ -825,7 +898,9 @@ metadata:
 
   Kenobi A Star Wars Story:
     match: 
-      title: "Fulcrum: Star Wars fan film"
+      title: 
+        - "Fulcrum: Star Wars fan film"
+        - "Kenobi: A Star Wars Story"
     title: "Kenobi: A Star Wars Story"
     sort_title: "Kenobi: A Star Wars Story"
     originally_available: 2022-08-01
@@ -865,7 +940,7 @@ metadata:
 
   M4's The Hobbit Book Edit:
     match: 
-      title: M4's the Hobbit Book Edit
+      title: M4's The Hobbit Book Edit
     title: M4's The Hobbit Book Edit
     sort_title: M4's The Hobbit Book Edit
     originally_available: 2021-11-01
@@ -876,7 +951,9 @@ metadata:
 
   Man of Steel A Symbol of Hope:
     match: 
-      title: Man of Steel a Symbol of Hope
+      title: 
+        - Man of Steel a Symbol of Hope
+        - "Man of Steel: A Symbol of Hope"
     title: "Man of Steel: A Symbol of Hope"
     sort_title: "Man of Steel: A Symbol of Hope"
     originally_available: 2017-10-01
@@ -902,7 +979,9 @@ metadata:
 
   Marvel's The Infinity Saga:
     match: 
-      title: Marvel's Infinity Saga the Sacred Timeline Cut
+      title: 
+        - Marvel's Infinity Saga the Sacred Timeline Cut
+        - Marvel's The Infinity Saga
     title: Marvel's The Infinity Saga
     sort_title: Marvel's The Infinity Saga
     edition: Sacred Timeline Cut
@@ -926,7 +1005,9 @@ metadata:
 
   Once Upon a Time in Hollywood The Red Apple Cut:
     match: 
-      title: Once Upon a Time in Hollywood the Red Apple Cut
+      title: 
+        - Once Upon a Time in Hollywood the Red Apple Cut
+        - "Once Upon a Time in Hollywood: The Red Apple Cut"
     title: "Once Upon a Time in Hollywood: The Red Apple Cut"
     sort_title: "Once Upon a Time in Hollywood: The Red Apple Cut"
     originally_available: 2020-03-01
@@ -937,7 +1018,9 @@ metadata:
   
   Paradise:
     match: 
-      title: PARADISE
+      title: 
+        - PARADISE
+        - Paradise
     title: Paradise
     sort_title: Paradise
     originally_available: 2017-09-01
@@ -951,7 +1034,9 @@ metadata:
 
   Paranoia:
     match: 
-      title: PARANÓIA
+      title: 
+        - PARANÓIA
+        - Paranoia
     title: Paranoia
     sort_title: Paranoia
     originally_available: 2022-08-01
@@ -987,7 +1072,9 @@ metadata:
 
   Raiders of the Lost Skull:
     match: 
-      title: On Set with 'Raiders of the Lost Ark'
+      title: 
+        - On Set with 'Raiders of the Lost Ark'
+        - Raiders of the Lost Skull
     title: Raiders of the Lost Skull
     sort_title: Raiders of the Lost Skull
     originally_available: 2011-12-01
@@ -1000,7 +1087,9 @@ metadata:
 
   Snowpiercer The Willy Wonka Cut:
     match: 
-      title: Snowpiercer the Willy Wonka Cut
+      title: 
+        - Snowpiercer the Willy Wonka Cut
+        - "Snowpiercer: The Willy Wonka Cut"
     title: "Snowpiercer: The Willy Wonka Cut"
     sort_title: "Snowpiercer: The Willy Wonka Cut"
     originally_available: 2022-07-01
@@ -1011,7 +1100,9 @@ metadata:
 
   Spider-Man 3 The Enemy Within:
     match: 
-      title: Spider Man 3 the Enemy Within
+      title: 
+        - Spider Man 3 the Enemy Within
+        - "Spider-Man 3: The Enemy Within"
     title: "Spider-Man 3: The Enemy Within"
     sort_title: "Spider-Man 3: The Enemy Within"
     originally_available: 2020-08-01
@@ -1022,7 +1113,9 @@ metadata:
 
   Spider-Man 2.2:
     match: 
-      title: Spider Man 2 2
+      title: 
+        - Spider Man 2 2
+        - Spider-Man 2.2
     title: Spider-Man 2.2
     sort_title: Spider-Man 2.2
     originally_available: 2019-07-01
@@ -1033,7 +1126,9 @@ metadata:
 
   Spirited (De-Musicalized):
     match: 
-      title: Spirited De Musicalized
+      title: 
+        - Spirited De Musicalized
+        - Spirited (De-Musicalized)
     title: Spirited (De-Musicalized)
     sort_title: Spirited (De-Musicalized)
     originally_available: 2022-12-01
@@ -1055,11 +1150,12 @@ metadata:
 
   Star Wars Project 4K77:
     match: 
-      title: "Star Wars: Episode IV - A New Hope"
+      edition: Project 4K
+      title: 
+        - "Star Wars: Episode IV - A New Hope"
+        - "Star Wars: Project 4K77"
     title: "Star Wars: Project 4K77"
     sort_title: Star Wars Project4K-77
-    edition: Project 4K
-    edition_filter: Project 4K
     originally_available: 1977-05-25
     content_rating: PG
     director.sync: George Lucas
@@ -1070,11 +1166,12 @@ metadata:
 
   Star Wars Project 4K83:
     match: 
-      title: "Star Wars: Episode VI - Return of the Jedi"
+      edition: Project 4K
+      title: 
+        - "Star Wars: Episode VI - Return of the Jedi"
+        - "Star Wars: Project 4K83"
     title: "Star Wars: Project 4K83"
     sort_title: Star Wars Project4K-83
-    edition: Project 4K
-    edition_filter: Project 4K
     originally_available: 1983-05-25
     content_rating: PG
     director.sync: George Lucas
@@ -1085,13 +1182,12 @@ metadata:
 
   Star Wars Episode IV - A New Hope:
     match: 
+      edition: Despecialized
       title:
         - "Star Wars: Episode IV - A New Hope"
         - "Star Wars: Despecialized Edition Remastered V2.5, Introducing the Sources"
     title: "Star Wars: Episode IV - A New Hope"
     sort_title: Star Wars Despecialized-04
-    edition: Despecialized
-    edition_filter: Despecialized
     originally_available: 2013-05-29
     content_rating: PG
     director.sync: Petr Harmacek
@@ -1104,6 +1200,7 @@ metadata:
 
   Star Wars Episode V - The Empire Strikes Back:
     match: 
+      edition: Despecialized
       title: "Star Wars: Episode V - The Empire Strikes Back"
     title: "Star Wars: Episode V - The Empire Strikes Back"
     sort_title: Star Wars Despecialized-05
@@ -1119,6 +1216,7 @@ metadata:
 
   Star Wars Episode VI - Return of the Jedi:
     match: 
+      edition: Despecialized
       title:
         - "Star Wars: Episode VI - Return of the Jedi"
         - Star Wars Episode 3 Return of the Jedi Despecialized Edition
@@ -1136,7 +1234,9 @@ metadata:
 
   Star Wars Episode IV - A New Hope Revisited:
     match: 
-      title: Star Wars Episode IV Special Edition Revisited
+      title: 
+        - Star Wars Episode IV Special Edition Revisited
+        - "Star Wars: Episode IV - A New Hope Revisited"
     title: "Star Wars: Episode IV - A New Hope Revisited"
     sort_title: Star Wars Revisited-04
     edition: Revisited
@@ -1148,7 +1248,9 @@ metadata:
 
   Star Wars Episode V - The Empire Strikes Back Revisited:
     match: 
-      title: Star Wars the Empire Strikes Back Revisited
+      title: 
+        - Star Wars the Empire Strikes Back Revisited
+        - "Star Wars: Episode V - The Empire Strikes Back Revisited"
     title: "Star Wars: Episode V - The Empire Strikes Back Revisited"
     sort_title: Star Wars Revisited-05
     edition: Revisited
@@ -1163,6 +1265,7 @@ metadata:
       title:
         - Star Wars Episode I Cloak of Deception
         - Star Wars Episode I Cloak Of Deception
+        - "Star Wars: Episode I - Cloak of Deception"
     title: "Star Wars: Episode I - Cloak of Deception"
     sort_title: Star Wars HAL9000-01
     originally_available: 2014-01-01
@@ -1173,7 +1276,9 @@ metadata:
 
   Star Wars Episode II - The Approaching Storm:
     match: 
-      title: Star Wars Episode II the Approaching Storm
+      title: 
+        - Star Wars Episode II the Approaching Storm
+        - "Star Wars: Episode II - The Approaching Storm"
     title: "Star Wars: Episode II - The Approaching Storm"
     sort_title: Star Wars HAL9000-02
     originally_available: 2014-02-01
@@ -1184,7 +1289,9 @@ metadata:
 
   Star Wars Episode III - Labyrinth of Evil:
     match: 
-      title: Star Wars Episode III Labyrinth of Evil
+      title: 
+        - Star Wars Episode III Labyrinth of Evil
+        - "Star Wars: Episode III - Labyrinth of Evil"
     title: "Star Wars: Episode III - Labyrinth of Evil"
     sort_title: Star Wars HAL9000-03
     originally_available: 2014-03-01
@@ -1195,7 +1302,9 @@ metadata:
 
   Star Wars Episode VII - The Force Awakens Restructured:
     match: 
-      title: "Star Wars: Episode VII - The Force Awakens"
+      title: 
+        - "Star Wars: Episode VII - The Force Awakens"
+        - "Star Wars: Episode VII - The Force Awakens: Restructured"
     title: "Star Wars: Episode VII - The Force Awakens: Restructured"
     sort_title: Star Wars HAL9000-07
     originally_available: 2016-06-01
@@ -1208,7 +1317,9 @@ metadata:
 
   Star Wars Episode VIII - The Last Jedi Legendary:
     match: 
-      title: "Star Wars: Episode VIII - The Last Jedi"
+      title: 
+        - "Star Wars: Episode VIII - The Last Jedi"
+        - "Star Wars: Episode VIII - The Last Jedi: Legendary"
     title: "Star Wars: Episode VIII - The Last Jedi: Legendary"
     sort_title: Star Wars HAL9000-08
     originally_available: 2018-07-01
@@ -1224,6 +1335,7 @@ metadata:
       title:
         - "Star Wars: Episode IX - The Rise of Skywalker"
         - "Star Wars: Episode IX - The Rise Of Skywalker"
+        - "Star Wars: Episode IX - The Rise of Skywalker: Ascendant"
     title: "Star Wars: Episode IX - The Rise of Skywalker: Ascendant"
     sort_title: Star Wars HAL9000-09
     originally_available: 2020-11-01
@@ -1236,7 +1348,9 @@ metadata:
     
   Star Wars Rise of the Rebellion:
     match: 
-      title: "Star Wars: The Rise of Ren"
+      title: 
+        - "Star Wars: The Rise of Ren"
+        - "Star Wars: Rise of the Rebellion"
     title: "Star Wars: Rise of the Rebellion"
     sort_title: "Star Wars: Rise of the Rebellion"
     originally_available: 2017-08-01
@@ -1250,7 +1364,9 @@ metadata:
 
   Star Wars The Coaxium Heist:
     match: 
-      title: Star Wars the Coaxium Heist
+      title: 
+        - Star Wars the Coaxium Heist
+        - "Star Wars: The Coaxium Heist"
     title: "Star Wars: The Coaxium Heist"
     sort_title: "Star Wars: The Coaxium Heist"
     originally_available: 2019-07-01
@@ -1264,6 +1380,7 @@ metadata:
       title: 
         - The Suicide Squad
         - Suicide Squad Special Edition
+        - "Suicide Squad: Special Edition"
     title: "Suicide Squad: Special Edition"
     sort_title: "Suicide Squad: Special Edition"
     originally_available: 2020-10-01
@@ -1277,7 +1394,9 @@ metadata:
 
   Terminator 3 The Coming Storm:
     match: 
-      title: Terminator 3 the Coming Storm
+      title: 
+        - Terminator 3 the Coming Storm
+        - "Terminator 3: The Coming Storm"
     title: "Terminator 3: The Coming Storm"
     sort_title: "Terminator 3: The Coming Storm"
     originally_available: 2008-03-01
@@ -1288,7 +1407,9 @@ metadata:
 
   Thor Love + Thunder - Comedy:
     match: 
-      title: "Thor: Love and Thunder"
+      title: 
+        - "Thor: Love and Thunder"
+        - "Thor: Love + Thunder - Comedy"
     title: "Thor: Love + Thunder - Comedy"
     sort_title: "Thor: Love + Thunder - Comedy"
     originally_available: 2022-12-01
@@ -1302,7 +1423,9 @@ metadata:
 
   Thor Odinson?:
     match: 
-      title: Thor Odinson?
+      title: 
+        - Thor Odinson?
+        - "Thor: Odinson?"
     title: "Thor: Odinson?"
     sort_title: "Thor: Odinson?"
     edition: Godsized Edition
@@ -1325,7 +1448,9 @@ metadata:
 
   Venom The Marvel Cut:
     match: 
-      title: Venom the Marvel Cut
+      title: 
+        - Venom the Marvel Cut
+        - "Venom: The Marvel Cut"
     title: "Venom: The Marvel Cut"
     sort_title: "Venom: The Marvel Cut"
     originally_available: 2023-08-01
@@ -1336,7 +1461,9 @@ metadata:
     
   The War of The Stars A New Hope Grindhoused:
     match: 
-      title: The War of the Stars a New Hope Grindhoused
+      title: 
+        - The War of the Stars a New Hope Grindhoused
+        - "The War of The Stars: A New Hope Grindhoused"
     title: "The War of The Stars: A New Hope Grindhoused"
     sort_title: "War of The Stars: A New Hope Grindhoused"
     originally_available: 2010-01-01
@@ -1347,7 +1474,9 @@ metadata:
 
   The War of the Stars II The Future in Motion:
     match: 
-      title: The War of the Stars II the Future in Motion
+      title: 
+      - The War of the Stars II the Future in Motion
+      - "The War of the Stars II: The Future in Motion"
     title: "The War of the Stars II: The Future in Motion"
     sort_title: "War of the Stars II: The Future in Motion"
     originally_available: 2012-04-01
@@ -1358,7 +1487,9 @@ metadata:
 
   The Warriors:
     match: 
-      title: The Warriors Theatrical Cut Reconstruction
+      title: 
+        - The Warriors Theatrical Cut Reconstruction
+        - The Warriors
       year: 2018
     title: The Warriors
     sort_title: Warriors
@@ -1371,7 +1502,9 @@ metadata:
 
   The Wolverine The James Mangold Restoration:
     match: 
-      title: The Wolverine the James Mangold Restoration
+      title: 
+        - The Wolverine the James Mangold Restoration
+        - "The Wolverine: The James Mangold Restoration"
     title: "The Wolverine: The James Mangold Restoration"
     sort_title: "Wolverine: The James Mangold Restoration"
     originally_available: 2022-09-01
@@ -1382,7 +1515,9 @@ metadata:
 
   Wonder Woman The Excellent Adventure:
     match: 
-      title: Wonder Woman the Excellent Adventure
+      title: 
+        - Wonder Woman the Excellent Adventure
+        - "Wonder Woman: The Excellent Adventure"
     title: "Wonder Woman: The Excellent Adventure"
     sort_title: "Wonder Woman: The Excellent Adventure"
     originally_available: 2021-09-01
