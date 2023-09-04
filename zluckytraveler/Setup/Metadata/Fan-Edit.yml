@@ -1235,7 +1235,9 @@ metadata:
 
   Star Wars Episode IX - The Rise of Skywalker Ascendant:
     match: 
-      title: "Star Wars: Episode IX - The Rise Of Skywalker"
+      title:
+        - "Star Wars: Episode IX - The Rise of Skywalker"
+        - "Star Wars: Episode IX - The Rise Of Skywalker"
     title: "Star Wars: Episode IX - The Rise of Skywalker: Ascendant"
     sort_title: Star Wars HAL9000-09
     originally_available: 2020-11-01
