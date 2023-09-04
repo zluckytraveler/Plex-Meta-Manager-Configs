@@ -934,7 +934,9 @@ metadata:
 
   M4's The Hobbit Book Edit:
     match: 
-      title: M4's The Hobbit Book Edit
+      title:
+        - M4's the Hobbit Book Edit
+        - M4's The Hobbit Book Edit
     title: M4's The Hobbit Book Edit
     sort_title: M4's The Hobbit Book Edit
     originally_available: 2021-11-01
