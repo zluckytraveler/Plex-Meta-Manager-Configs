@@ -387,3 +387,174 @@ metadata:
     genre.remove: Science Fiction
     label: FanFix
     summary: "An epic two-in-one edit of Avengers: Infinity War and Avengers: Endgame. Seamlessly combining the two films, along with credits scenes from Ant-Man and the Wasp and Captain Marvel. Additionally, there has been much cut from both films to remove some of the crappy dialogue and humour, to make for the most digestible and tolerable rewatch experience."
+
+  Back to the Future Greater Scott Edition:
+    match:
+      title: Back to the Future Greater Scott Edition
+    title: "Back to the Future: Greater Scott Edition"
+    sort_title: "Back to the Future: Greater Scott Edition"
+    originally_available: 2018-05-01
+    content_rating: PG
+    director.sync: Bobson Dugnutt
+    label: Extended
+    summary: Marty McFly, a 17-originally_available-old high school student, is accidentally sent thirty originally_availables into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown. The Greater Scott Edition extends Back to the Future to it's longest possible length using a variety of sources. All deleted and extended scenes have been masterfully reintegrated into the movie. adding 10 new scenes and 8 more minutes of footage.
+
+  Batman Forever Red Book Edition:
+    match:
+      title: Batman Forever the Red Book Edition
+    title: "Batman Forever: Red Book Edition"
+    sort_title: "Batman Forever: Red Book Edition"
+    edition: 15th Anniversary Enhanced
+    originally_available: 2022-06-01
+    content_rating: PG-13
+    director.sync: INIGHTMARES
+    label: FanFix
+    summary: Enjoy Scaperat's original vision, with updated visual fidelity, sound design, and transitions. I have been working on enhancing and revising this classic edit by Scaperat.
+
+  "Batman: The Man Who Laughs":
+    match: 
+      title: The Man Who Laughs
+    title: "Batman: The Man Who Laughs"
+    sort_title: "Batman: The Man Who Laughs"
+    original_title: "Batman: The Man Who Laughs"
+    originally_available: 2018-11-01
+    content_rating: R
+    director.sync: Ryantology
+    writer.remove: Victor Hugo
+    genre.remove: Music
+    country.remove: Republic of Korea
+    label: FanFix
+    summary: "Batman: The Man Who Laughs tries to amplify the strengths of The Dark Knight while omitting some of its weaknesses. Pacing is tightened up, some scenes are restructured, rescored, reordered, or omitted altogether. Lines of dialogue and humor that seemed out of place omitted as well. I usually fanedit awful movies. Here I wanted to take a very good movie and make it the best it could be."
+
+  Batman vs Superman False God:
+    match: 
+      title: 
+    title: "Batman vs Superman: False God"
+    sort_title: "Batman vs Superman: False God"
+    originally_available: 2023-08-01
+    content_rating: PG-13
+    director.sync: Sin Pausa
+    producer.remove: 
+    writer.remove: 
+    genre.remove: 
+    label: FanMix
+    summary: "'No Justice' refocuses Batman v. Superman on its central conflict between Man and God. All aspects of its 'Dawn of Justice' subtitle are excluded: Wonder Woman, the Justice League, Doomsday, Darkseid and the Kryptonian ship. These omissions create a more coherent and accessible story, intended for a wider audience."
+    
+  Batman vs Superman No Justice:
+    match:
+      title: "Batman v Superman: Dawn of Justice"
+    title: "Batman vs Superman: No Justice"
+    sort_title: "Batman vs Superman: No Justice"
+    originally_available: 2017-03-01
+    content_rating: PG-13
+    director.sync: Reeseevans
+    producer.remove: Charles Roven, Deborah Snyder
+    writer.remove: David S. Goyer, Bob Kane, Jerry Siegel, Joe Shuster, Jay Olivia
+    genre.remove: Science Fiction, Fantasy, Action, Adventure
+    label: FanFix
+    summary: "What if BvS didn’t try to balance an Extended Universe and instead kept the focus on the titular characters; while minimizing the problems with infamous elements like the portrayal of Luthor? That’s what False God intends to offer."
+
+  Better Cut Saul:
+    match:
+      title: Better Cut Saul
+    title: Better Cut Saul
+    sort_title: Better Cut Saul
+    originally_available: 2022-12-01
+    content_rating: PG-13
+    director.sync: Letyppe
+    label: Special
+    summary: An edit of the show that wraps it up into a 2h20 feature film!
+
+  Blade Runner 2008:
+    match: 
+      title: Blade Runner
+    title: Blade Runner 2008
+    sort_title: Blade Runner 2008
+    edition: Extended Edition
+    originally_available: 2008-03-01
+    content_rating: R
+    director.sync: ADigitalMan
+    label: FanFix
+    summary: This edit weaves back and forth between the International Cut, the Final Cut, and the deleted scenes to provide a more detailed telling of the tormented soul of Rick Deckard, Blade Runner (Retired).
+    
+  Blade Runner 2049 Aerodynamik:
+    match: 
+      title: Blade Runner 2049
+    title: "Blade Runner 2049: Aerodynamik"
+    sort_title: "Blade Runner 2049: Aerodynamik"
+    originally_available: 2018-04-01
+    content_rating: R
+    director.sync: TM2YC
+    producer.remove: Ridley Scott, Broderick Johnson, Andrew A. Kosove, Bud Yorkin, Cynthia Sikes
+    writer.remove: Phillip K. Dick, Hampton Fancher , Michael Green
+    country.remove: Canada, Hungary, Mexico, Spain, United Kingdom
+    genre.remove: Science Fiction, Thriller, Action, Drama, Mysterey
+    label: FanFix
+    summary: The main problem with 'Blade Runner 2049' was the insanely slow pace of the editing/cutting. Every line had a vast gap after it and every shot lingered for too long, even if nothing whatsoever was happening in the shot and the camera was motionless. I love long movies but when a film is nearly 3-hours, careless and lax editing is a crime. It's like they assembled all the footage and forgot to go through and tighten everything up like a good editor should. So I was interested in making a cut of this film that focused (almost) entirely on improving the pace of the cuts. The same film/experience but edited properly. An experiment in doing a fanedit that doesn't actually remove anything!
+
+  Blade Runner The Analogue Cut:
+    match: 
+      title: Blade Runner the Analogue Cut
+    title: "Blade Runner: The Analogue Cut"
+    sort_title: "Blade Runner: The Analogue Cut"
+    originally_available: 2018-12-01
+    content_rating: R
+    director.sync: 15MAF
+    label: FanFix
+    summary: This edit includes various visual and audio elements from all released versions of Blade Runner in an attempt to make it the best available presentation with a few narrative edits for personal preference. Most notable inclusions are the technical updates from The Final Cut, with the visual elements re-graded to match the legacy colour tones of the previous releases - and particular attention being paid to literally preserving the original portions of the legacy frames as well as grading the changes where masking was appropriate. The film's narrative follows more closely the Workprint and tacitly rejects Ridley Scott's attempts to render the human/replicant philosophical analogue as effectively superficial. This version takes out any connection to references made by Scott in interviews and indeed the Director's Cut relating to Deckard's origins. Instead this film is content to literally study/contrast the philosophical state of all the humanity on display or lack thereof from all participants.
+
+  "Blade Runner: The Penultimate Cut":
+    match: 
+      title: Blade Runner the Penultimate Cut
+    title: "Blade Runner: The Penultimate Cut"
+    sort_title: "Blade Runner: The Penultimate Cut"
+    originally_available: 2020-11-01
+    content_rating: R
+    director.sync: TM2YC
+    label: Special
+    summary: The Penultimate Cut is named because it's supposed to be one step back from 'The Final Cut'. Ridley Scott's final/ultimate version of 'Blade Runner' but how it used to look and feel.
+
+  Blue Velvet:
+    match: 
+      title: Blue Velvet Q2 Edition
+    title: Blue Velvet
+    sort_title: Blue Velvet
+    edition: Q2 Extended
+    originally_available: 2013-03-01
+    content_rating: R
+    director.sync: Q2
+    label: Extended
+    summary: David Lynch's masterpiece with all deleted scenes reincorporated.
+
+  Captain America The Winter Soldier - Defrosted Edition:
+    match: 
+      title: 
+    title: "Captain America: The Winter Soldier - Defrosted Edition"
+    sort_title: "Captain America: The Winter Soldier - Defrosted Edition"
+    originally_available: 2017-12-01
+    content_rating: PG-13
+    director.sync: Bobson Dugnutt
+    label: Special
+    summary: Super powered Nazis from a parallel world invade! What is their ultimate goal and can our Arrowverse Heroes stop them?!?!
+    
+  Crisis on Earth-X:
+    match: 
+      title: "Climate Crisis: Earth on the Edge"
+    title: Crisis on Earth-X
+    sort_title: Crisis on Earth-X
+    originally_available: 2022-09-01
+    content_rating: PG-13
+    director.sync: BionicBob
+    label: Extended
+    summary: "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier." 
+
+  "Crisis on Infinite Earths: The Legacy of Oliver Queen":
+    match: 
+      title: Crisis on Infinite Earths the Legacy of Oliver Queen
+    title: "Crisis on Infinite Earths: The Legacy of Oliver Queen"
+    sort_title: "Crisis on Infinite Earths: The Legacy of Oliver Queen"
+    originally_available: 2023-06-01
+    content_rating: PG-13
+    director.sync: BionicBob
+    label: Special
+    summary: The CRISIS has arrived! The Multiverse is under attack and only the Heroes of the Arrowverse can save the day.
