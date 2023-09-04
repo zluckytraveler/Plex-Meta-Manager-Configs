@@ -298,7 +298,6 @@ metadata:
       title: Amadeus
     title: Amadeus
     sort_title: Amadeus
-    edition: Theatrical Cut
     originally_available: 2017-07-01
     content_rating: R
     director.sync: TM2YC
@@ -372,7 +371,6 @@ metadata:
         - "Avengers: Age of Ultron"
     title: "Avengers: Age of Ultron"
     sort_title: "Avengers: Age of Ultron"
-    edition: Extinction Edition
     originally_available: 2019-10-01
     content_rating: PG-13
     director.sync: Bobson Dugnutt
