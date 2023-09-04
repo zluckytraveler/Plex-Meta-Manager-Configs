@@ -428,15 +428,12 @@ metadata:
 
   Batman vs Superman False God:
     match: 
-      title: 
+      title: Batman v Superman False God
     title: "Batman vs Superman: False God"
     sort_title: "Batman vs Superman: False God"
     originally_available: 2023-08-01
     content_rating: PG-13
     director.sync: Sin Pausa
-    producer.remove: 
-    writer.remove: 
-    genre.remove: 
     label: FanMix
     summary: "'No Justice' refocuses Batman v. Superman on its central conflict between Man and God. All aspects of its 'Dawn of Justice' subtitle are excluded: Wonder Woman, the Justice League, Doomsday, Darkseid and the Kryptonian ship. These omissions create a more coherent and accessible story, intended for a wider audience."
     
@@ -528,7 +525,7 @@ metadata:
 
   Captain America The Winter Soldier - Defrosted Edition:
     match: 
-      title: 
+      title: Captain America the Winter Soldier Defrosted Edition
     title: "Captain America: The Winter Soldier - Defrosted Edition"
     sort_title: "Captain America: The Winter Soldier - Defrosted Edition"
     originally_available: 2017-12-01
@@ -929,13 +926,12 @@ metadata:
 
   Once Upon a Time in Hollywood The Red Apple Cut:
     match: 
-      title: 
+      title: Once Upon a Time in Hollywood the Red Apple Cut
     title: "Once Upon a Time in Hollywood: The Red Apple Cut"
     sort_title: "Once Upon a Time in Hollywood: The Red Apple Cut"
     originally_available: 2020-03-01
     content_rating: R
     director.sync: macmilln
-    genre.remove: 
     label: Extended
     summary: A simple, unnecessary, but fun extended edition to "the ninth film by Quentin Tarantino", Once Upon a Time in Hollywood, by reinserting all deleted scenes, making the runtime just a couple minutes over three hours, adding twenty-three minutes of footage to the film.
   
@@ -1329,7 +1325,7 @@ metadata:
 
   Venom The Marvel Cut:
     match: 
-      title: 
+      title: Venom the Marvel Cut
     title: "Venom: The Marvel Cut"
     sort_title: "Venom: The Marvel Cut"
     originally_available: 2023-08-01
