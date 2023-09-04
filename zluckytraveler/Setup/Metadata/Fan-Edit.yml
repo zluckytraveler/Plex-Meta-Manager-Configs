@@ -1206,8 +1206,6 @@ metadata:
       title: "Star Wars: Episode V - The Empire Strikes Back"
     title: "Star Wars: Episode V - The Empire Strikes Back"
     sort_title: Star Wars Despecialized-05
-    edition: Despecialized
-    edition_filter: Despecialized
     originally_available: 2013-05-29
     content_rating: PG
     director.sync: Petr Harmacek
@@ -1224,8 +1222,6 @@ metadata:
         - Star Wars Episode 3 Return of the Jedi Despecialized Edition
     title: "Star Wars: Episode VI - Return of the Jedi"
     sort_title: Star Wars Despecialized-06
-    edition: Despecialized
-    edition_filter: Despecialized
     originally_available: 2013-05-29
     content_rating: PG
     director.sync: Petr Harmacek
