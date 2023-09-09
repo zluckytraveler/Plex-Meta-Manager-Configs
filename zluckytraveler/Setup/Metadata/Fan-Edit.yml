@@ -19,6 +19,14 @@ metadata:
     title: Aliens
     label: Regrade
 
+  American History X:
+    title: American History X
+    label: Regrade
+
+  Any Given Sunday:
+    title: Any Given Sunday
+    label: Regrade
+
   Apocalypto:
     title: Apocalypto
     label: Regrade
@@ -47,12 +55,24 @@ metadata:
     title: Big Trouble in Little China
     label: Regrade
 
+  Boogie Nights:
+    title: Boogie Nights
+    label: Regrade
+
   The Book of Eli:
     title: The Book of Eli
     label: Regrade
 
   The Breakfast Club:
     title: The Breakfast Club
+    label: Regrade
+
+  Bruce Almighty:
+    title: Bruce Almighty
+    label: Regrade
+
+  Cinderella Man:
+    title: Cinderella Man
     label: Regrade
 
   Cocoon:
@@ -63,6 +83,14 @@ metadata:
     title: Con Air
     label: Regrade
 
+  Contact:
+    title: Contact
+    label: Regrade
+
+  Crash:
+    title: Crash
+    label: Regrade
+
   Crimson Tide:
     title: Crimson Tide
     label: Regrade
@@ -71,8 +99,36 @@ metadata:
     title: The Crow
     label: Regrade
 
+  Deep Blue Sea:
+    title: Deep Blue Sea
+    label: Regrade
+
+  Deja Vu:
+    title: Deja Vu
+    label: Regrade
+
+  The Departed:
+    title: The Departed
+    label: Regrade
+
+  The Devil's Advocate:
+    title: The Devil's Advocate
+    label: Regrade
+
+  Dumb and Dumber:
+    title: Dumb and Dumber
+    label: Regrade
+
   Dune:
     title: Dune
+    label: Regrade
+
+  Equilibrium:
+    title: Equilibrium
+    label: Regrade
+
+  Face/Off:
+    title: Face/Off
     label: Regrade
 
   Fight Club:
@@ -107,6 +163,10 @@ metadata:
     title: Goldfinger
     label: Regrade
 
+  Gone Girl:
+    title: Gone Girl
+    label: Regrade
+
   Gone in 60 Seconds:
     title: Gone in 60 Seconds
     label: Regrade
@@ -115,8 +175,16 @@ metadata:
     title: Good Will Hunting
     label: Regrade
 
+  Happy Gilmore:
+    title: Happy Gilmore
+    label: Regrade
+
   Immortals:
     title: Immortals
+    label: Regrade
+
+  Insomnia:
+    title: Insomnia
     label: Regrade
 
   The Island:
@@ -126,6 +194,10 @@ metadata:
   Jurassic Park:
     title: Jurassic Park
     edition: 35mm Scan
+    label: Regrade
+
+  K-Pax:
+    title: K-Pax
     label: Regrade
 
   Kalifornia:
@@ -152,6 +224,10 @@ metadata:
     title: L.A. Confidential
     label: Regrade
 
+  Liar Liar:
+    title: Liar Liar
+    label: Regrade
+
   Live Free or Die Hard:
     title: Live Free or Die Hard
     label: Regrade
@@ -160,12 +236,60 @@ metadata:
     title: Man on Fire
     label: Regrade
 
+  Magnolia:
+    title: Magnolia
+    label: Regrade
+
+  The Mask:
+    title: The Mask
+    label: Regrade
+
   "Master and Commander: The Far Side of the World":
     title: "Master and Commander: The Far Side of the World"
     label: Regrade
 
+  Meet Joe Black:
+    title: Meet Joe Black
+    label: Regrade
+
+  Memento:
+    title: Memento
+    label: Regrade
+
   Minority Report:
     title: Minority Report
+    label: Regrade
+
+  Moneyball:
+    title: Moneyball
+    label: Regrade
+
+  A Monster Calls:
+    title: A Monster Call
+    label: Regrade
+
+  Mr.and.Mrs.Smith:
+    title: Mr.and.Mrs.Smith
+    label: Regrade
+
+  Mr.Nobody:
+    title: Mr.Nobody
+    label: Regrade
+
+  Munich:
+    title: Munich
+    label: Regrade
+
+  No Country for Old Men:
+    title: No Country for Old Men
+    label: Regrade
+
+  Notorious:
+    title: Notorious
+    label: Regrade
+
+  Old School:
+    title: Old School
     label: Regrade
 
   Outlander:
@@ -176,12 +300,28 @@ metadata:
     title: Pandorum
     label: Regrade
 
+  The Pianist:
+    title: The Pianist
+    label: Regrade
+
   Predators:
     title: Predators
     label: Regrade
 
+  Prisoners:
+    title: Prisoners
+    label: Regrade
+    
+  Risky Business:
+    title: Risky Business
+    label: Regrade
+
   Rounders:
     title: Rounders
+    label: Regrade
+
+  Rudy:
+    title: Rudy
     label: Regrade
 
   Rush:
@@ -196,12 +336,20 @@ metadata:
     title: The Secret Life of Walter Mitty
     label: Regrade
 
+  Selma:
+    title: Selma
+    label: Regrade
+
   Signs:
     title: Signs
     label: Regrade
 
   Sin City:
     title: Sin City
+    label: Regrade
+
+  Sixteen Candles:
+    title: Sixteen Candles
     label: Regrade
 
   The Sixth Sense:
@@ -218,6 +366,10 @@ metadata:
 
   Sunshine:
     title: Sunshine
+    label: Regrade
+
+  Swordfish:
+    title: Swordfish
     label: Regrade
 
   Tears of the Sun:
@@ -269,6 +421,10 @@ metadata:
       title: The Warriors
       year: 1979
     title: The Warriors
+    label: Regrade
+
+  The Waterboy:
+    title: The Waterboy
     label: Regrade
 
   We Were Soldiers:
@@ -1160,6 +1316,22 @@ metadata:
     label: Regrade
     summary: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
 
+  Star Wars Project 4K80:
+    match: 
+      edition: Project 4K
+      title: 
+        - "Star Wars: Episode V - The Empire Strikes Back"
+        - "Star Wars: Project 4K80"
+    title: "Star Wars: Project 4K80"
+    sort_title: Star Wars Project4K-80
+    originally_available: 1980-05-25
+    content_rating: PG
+    director.sync: George Lucas
+    producer.remove: Gary Kurtz, Rick McCallum
+    writer.remove: George Lucas
+    label: Regrade
+    summary: After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.
+  
   Star Wars Project 4K83:
     match: 
       edition: Project 4K
