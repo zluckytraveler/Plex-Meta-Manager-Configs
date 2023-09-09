@@ -1326,9 +1326,9 @@ metadata:
     sort_title: Star Wars Project4K-80
     originally_available: 1980-05-25
     content_rating: PG
-    director.sync: George Lucas
-    producer.remove: Gary Kurtz, Rick McCallum
-    writer.remove: George Lucas
+    director.sync: Irvin Kershner
+    producer.remove: Gary Kurtz, Howard G. Kazanjian, Rick McCallum
+    writer.remove: George Lucas, Leigh Brackett, Lawrence Kasdan
     label: Regrade
     summary: After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.
   
@@ -1342,7 +1342,7 @@ metadata:
     sort_title: Star Wars Project4K-83
     originally_available: 1983-05-25
     content_rating: PG
-    director.sync: George Lucas
+    director.sync: Richard Marquand
     producer.remove: Rick McCallum, Howard G. Kazanjian
     writer.remove: George Lucas, Lawrence Kasdan
     label: Regrade
