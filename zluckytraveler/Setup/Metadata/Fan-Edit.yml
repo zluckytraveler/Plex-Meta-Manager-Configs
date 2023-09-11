@@ -1775,10 +1775,6 @@ metadata:
     originally_available: 2022-09-01
     content_rating: PG-13
     director.sync: Wakeupkeo
-    writer.remove: Marc Outbreak, Mark Sears
-    producer.remove: Marc Outbreak
-    genre.remove: Short, Action, Science Fiction
-    country.remove: United Kingdom
     label: FanFix
     summary: Essentially, this project aims to restore James Mangold's original vision for the film, before the studio enforced changes to the script. Knowledge of the original script, and how it was changed, comes directly from Mangold himself as well as behind the scenes commentary.
 
@@ -1792,6 +1788,10 @@ metadata:
     originally_available: 2023-06-01
     content_rating: PG-13
     director.sync: Bailey
+    writer.remove: Marc Outbreak, Mark Sears
+    producer.remove: Marc Outbreak
+    genre.remove: Short, Action, Science Fiction
+    country.remove: United Kingdom
     label: FanFix
     summary: A decent version of X-Men Origins Wolverine in HD quality!
     
