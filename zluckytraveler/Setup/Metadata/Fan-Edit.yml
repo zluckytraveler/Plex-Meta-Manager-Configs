@@ -714,6 +714,19 @@ metadata:
     director.sync: Bobson Dugnutt
     label: Special
     summary: "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier."
+
+  Captain Marvel The Supreme Cut:
+    match: 
+      title: 
+        - 
+        - "Captain Marvel: The Supreme Cut"
+    title: "Captain Marvel: The Supreme Cut"
+    sort_title: "Captain Marvel: The Supreme Cut"
+    originally_available: 2023-04-01
+    content_rating: PG-13
+    director.sync: Josephdquinn
+    label: FanFix
+    summary: The Supreme Cut takes Captain Marvel's origin story and improves upon it by giving Carol Danvers a more defined character arc, from struggling Kree warrior to one of Earth's Mightiest Heroes - an Avenger
     
   Crisis on Earth-X:
     match: 
@@ -741,6 +754,19 @@ metadata:
     label: Special
     summary: The CRISIS has arrived! The Multiverse is under attack and only the Heroes of the Arrowverse can save the day.
 
+  The Dark Knight Ascends:
+    match: 
+      title: 
+        - 
+        - The Dark Knight Ascends
+    title: The Dark Knight Ascends
+    sort_title: The Dark Knight Ascends
+    originally_available: 2023-05-01
+    content_rating: R
+    director.sync: DonkeyKonga
+    label: FanFix
+    summary: The movie isnt fun. It has downright rediculous moments, and it reduces it's main villain to a love interest. On top of this we have a rediculous nuke that goes off in a minute.
+    
   Dawn of Justice Part 1 The Outsider:
     match: 
       title: 
@@ -856,6 +882,19 @@ metadata:
     label: FanMix
     summary: The year is 1940. As Hitler’s forces storm across Europe, Winston Churchill is elected the new Prime Minister of the United Kingdom. His leadership is immediately tested when hundreds of thousands of British and Allied troops become trapped on the beaches of Dunkirk, with the Germans closing in. As the desperate battle for survival unfolds on land, sea and air, Churchill must fight his own battles to launch a daring rescue effort across the English Channel. This fan edit combines the intense frontline action of Dunkirk with the backroom political intrigue of Darkest Hour, to create an epic supercut that tells the full story of the Dunkirk evacuation
 
+  Flux Capacitor....Fluxing!:
+    match: 
+      title: 
+        - 
+        - Flux Capacitor....Fluxing!
+    title: Flux Capacitor....Fluxing!
+    sort_title: Flux Capacitor....Fluxing!
+    originally_available: 2023-08-01
+    content_rating: PG
+    director.sync: Phase3
+    label: Special
+    summary: I have loved these films since I first saw them in the cinema, and had wanted to do something fun by combining them into one long film. This was done for fans of the films, plus anyone wanting a movie marathon of sorts!
+    
   Frank Herbert's Dune The Spence Edit:
     match: 
       title: 
@@ -1020,6 +1059,19 @@ metadata:
     label: FanFix
     summary: Die Another Day should have been celebration of everything good about the James Bond franchise. Unfortunately, in trying to throw everything but the kitchen sink at the screen in celebration of 007's 40th anniversary, director Lee Tamahori and the producers ended up with an unfocused movie, riddled with poor innuendo jokes and some ill-advised ventures into the more fantasy CGI arena. The hope with Icarus, is to redress the balance and uncover what I believe is a genuinely good old-fashioned large scale Bond adventure. No invisible car, no CGI tsunami surfing heroics, the poor jokes removed, Icarus attempts to give Pierce Brosnan the Bond swansong he deserved.
 
+  Jackie Brown in the Del Amo Heist:
+    match: 
+      title:
+        - 
+        - Jackie Brown in the Del Amo Heist
+    title: Jackie Brown in the Del Amo Heist
+    sort_title: Jackie Brown in the Del Amo Heist
+    originally_available: 2023-06-01
+    content_rating: PG-13
+    director.sync: Daedal
+    label: FanFix
+    summary: This is Tarantino's adaptation of Rum Punch with some changes to narrative and a fresh take on the music
+    
   Jaws The Sharksploitation Edit:
     match: 
       title: 
@@ -1143,6 +1195,17 @@ metadata:
     label: FanMix
     summary: A fan edit supercut of the entire Phase I - Phase III of the Marvel Cinematic Universe Collection. All of the Movies and TV Shows up to this point have been edited together into one experience, encompassing it all. Start in the past with Captain Marvel and Steve Rogers and go out with a bang as the multiverse fractures in front of you.Strap in and enjoy the ride over a decade in the making.
 
+  Mathilda:
+    match: 
+      title: Mathilda
+    title: Mathilda
+    sort_title: Mathilda
+    originally_available: 2023-04-01
+    content_rating: R
+    director.sync: ArtisDead, futon88
+    label: FanFix
+    summary: This is Luc Besson's "Leon" re-framed to be more Mathilda-centric, with Leon's story revealed more slowly, but also in a more ambiguous way. What brought him to this moment? You decide. Featuring many songs from the 80's and 90's, and leaning heavily into female vocalists, the soundscape taps onto Mathilda's motivations and emotional states at key moments in the story.
+    
   The Matrix Revolutions Decoded:
     match: 
       title: The Matrix Revolutions Decoded
@@ -1200,6 +1263,19 @@ metadata:
     label: FanMix
     summary: This is a fanmix of Peter Weir's classic The Truman Show, reimagined as a psychological thriller in the style of Hitchcock/Lynch, viewed exclusively through Truman's perspective.
 
+  The Postman Spark of Hope:
+    match: 
+      title: 
+        - 
+        - "The Postman: Spark of Hope"
+    title: "The Postman: Spark of Hope"
+    sort_title: "The Postman: Spark of Hope"
+    originally_available: 2023-02-01
+    content_rating: PG-13
+    director.sync: theomega
+    label: FanFix
+    summary: The United States as we know it is destroyed in the climax of a Civil war. Years after the nuclear event a vicious band of raiders, led by the ruthless General Bethlehem, reign terror among the survivors in the Oregon region. In these desperate times a postman is send to restore communication routes and unintentionally ignites a spark of hope which inevitably crashes with General Bethlehem and his minions.
+    
   Pulp Dogs:
     match: 
       title: Pulp Dogs
@@ -1569,6 +1645,32 @@ metadata:
     label: FanFix
     summary: This is a serious take on TERMINATOR 3 to be more in the tradition of its prequels. Lots of cheesy and unnecessary elements were removed as well as all the references to dates and ages that contradict the previous two films.
 
+  The Terminator Enhanced Edition:
+    match: 
+      title: 
+        - 
+        - "The Terminator: Enhanced Edition"
+    title: "The Terminator: Enhanced Edition"
+    sort_title: "The Terminator: Enhanced Edition"
+    originally_available: 2023-05-01
+    content_rating: PG-13
+    director.sync: krausfadr
+    label: FanFix
+    summary: The purpose of this edit is to improve the low budget, outdated VFX so it still feels like a 1984 Terminator movie, but the laughable moments like painfully obvious Schwarzenegger mannequins and choppy stop motion animation are fixed.
+
+  The Thing from 1951:
+    match: 
+      title: 
+        - 
+        - The Thing from 1951
+    title: The Thing from 1951
+    sort_title: The Thing from 1951
+    originally_available: 2023-03-01
+    content_rating: R
+    director.sync: The Scribbling Man
+    label: FanMix
+    summary: Arrow Parallel present, for the first time, John Carpenter's 'The Thing' from 1951. While some damage inevitably remains due to the nature of interdimensional travel, the content has been painstakingly restored and largely remains in excellent condition. Please enjoy this insight into an alternate history through what is, quite literally, "The Thing" from another world...
+    
   Thor Love + Thunder - Comedy:
     match: 
       title: 
@@ -1676,6 +1778,19 @@ metadata:
     label: FanFix
     summary: Essentially, this project aims to restore James Mangold's original vision for the film, before the studio enforced changes to the script. Knowledge of the original script, and how it was changed, comes directly from Mangold himself as well as behind the scenes commentary.
 
+  Wolverine Weapon X:
+    match: 
+      title: 
+        - 
+        - "Wolverine: Weapon X"
+    title: "Wolverine: Weapon X"
+    sort_title: "Wolverine: Weapon X"
+    originally_available: 2023-06-01
+    content_rating: PG-13
+    director.sync: Bailey
+    label: FanFix
+    summary: A decent version of X-Men Origins Wolverine in HD quality!
+    
   Wonder Woman The Excellent Adventure:
     match: 
       title: 
