@@ -1195,6 +1195,10 @@ metadata:
     originally_available: 2023-04-01
     content_rating: R
     director.sync: ArtisDead, futon88
+    writer.remove: Joana Caiano
+    producer.remove: Sara Elizabeth Joyce
+    country.remove: United Kingdom
+    genre.remove: Short
     label: FanFix
     summary: This is Luc Besson's "Leon" re-framed to be more Mathilda-centric, with Leon's story revealed more slowly, but also in a more ambiguous way. What brought him to this moment? You decide. Featuring many songs from the 80's and 90's, and leaning heavily into female vocalists, the soundscape taps onto Mathilda's motivations and emotional states at key moments in the story.
     
@@ -1265,6 +1269,10 @@ metadata:
     originally_available: 2023-02-01
     content_rating: PG-13
     director.sync: theomega
+    writer.remove: Piotr Biedroń
+    producer.remove: Beata Pisula
+    genre.remove: Drama, Science Fiction
+    country.remove: Poland
     label: FanFix
     summary: The United States as we know it is destroyed in the climax of a Civil war. Years after the nuclear event a vicious band of raiders, led by the ruthless General Bethlehem, reign terror among the survivors in the Oregon region. In these desperate times a postman is send to restore communication routes and unintentionally ignites a spark of hope which inevitably crashes with General Bethlehem and his minions.
     
@@ -1767,6 +1775,10 @@ metadata:
     originally_available: 2022-09-01
     content_rating: PG-13
     director.sync: Wakeupkeo
+    writer.remove: Marc Outbreak, Mark Sears
+    producer.remove: Marc Outbreak
+    genre.remove: Short, Action, Science Fiction
+    country.remove: United Kingdom
     label: FanFix
     summary: Essentially, this project aims to restore James Mangold's original vision for the film, before the studio enforced changes to the script. Knowledge of the original script, and how it was changed, comes directly from Mangold himself as well as behind the scenes commentary.
 
