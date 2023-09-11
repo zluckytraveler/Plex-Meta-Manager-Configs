@@ -714,7 +714,7 @@ metadata:
   Captain Marvel The Supreme Cut:
     match: 
       title: 
-        - 
+        - Captain Marvel the Supreme Cut
         - "Captain Marvel: The Supreme Cut"
     title: "Captain Marvel: The Supreme Cut"
     sort_title: "Captain Marvel: The Supreme Cut"
@@ -752,9 +752,7 @@ metadata:
 
   The Dark Knight Ascends:
     match: 
-      title: 
-        - 
-        - The Dark Knight Ascends
+      title: The Dark Knight Ascends
     title: The Dark Knight Ascends
     sort_title: The Dark Knight Ascends
     originally_available: 2023-05-01
@@ -881,7 +879,7 @@ metadata:
   Flux Capacitor....Fluxing!:
     match: 
       title: 
-        - 
+        - Flux Capacitor Fluxing!
         - Flux Capacitor....Fluxing!
     title: Flux Capacitor....Fluxing!
     sort_title: Flux Capacitor....Fluxing!
@@ -1057,9 +1055,7 @@ metadata:
 
   Jackie Brown in the Del Amo Heist:
     match: 
-      title:
-        - 
-        - Jackie Brown in the Del Amo Heist
+      title: Jackie Brown in the Del Amo Heist
     title: Jackie Brown in the Del Amo Heist
     sort_title: Jackie Brown in the Del Amo Heist
     originally_available: 2023-06-01
@@ -1262,7 +1258,7 @@ metadata:
   The Postman Spark of Hope:
     match: 
       title: 
-        - 
+        - The Last Spark of Hope
         - "The Postman: Spark of Hope"
     title: "The Postman: Spark of Hope"
     sort_title: "The Postman: Spark of Hope"
@@ -1644,7 +1640,7 @@ metadata:
   The Terminator Enhanced Edition:
     match: 
       title: 
-        - 
+        - The Terminator Enhanced Edition
         - "The Terminator: Enhanced Edition"
     title: "The Terminator: Enhanced Edition"
     sort_title: "The Terminator: Enhanced Edition"
@@ -1657,7 +1653,7 @@ metadata:
   The Thing from 1951:
     match: 
       title: 
-        - 
+        - The Thing From
         - The Thing from 1951
     title: The Thing from 1951
     sort_title: The Thing from 1951
@@ -1777,7 +1773,7 @@ metadata:
   Wolverine Weapon X:
     match: 
       title: 
-        - 
+        - "Wolverine Vs. Deadpool: Back to Weapon X"
         - "Wolverine: Weapon X"
     title: "Wolverine: Weapon X"
     sort_title: "Wolverine: Weapon X"
