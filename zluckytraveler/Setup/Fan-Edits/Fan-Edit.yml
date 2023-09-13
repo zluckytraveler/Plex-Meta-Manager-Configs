@@ -53,3 +53,13 @@ collections:
     visible_library: true
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Special.png
     summary: Projects where an editor infuses personal creative choices to modify the viewing experience, yet are not significantly different from the original. The main purpose is to make minor changes to a film that do not affect the story or plot drastically, but to only change the atmosphere creating a unique viewing experience. (TV to Movie edits have been combined with this category)
+
+  TV to Movie:
+    smart_filter:
+      sort_by: title.asc
+      all:
+        label: TV to Movie
+    sort_title: 08-TV to Movie
+    visible_library: true
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/TV%20to%20MOVIE.png
+    summary: With a TV to Movie edit, the editor is combining multiple episodes of a television show to create an all-in-one feature film. They may modify the series to make it a more enjoyable viewing experience. Quite often this entails, adding and/or removing scenes or episodes of the television show, reordering episodes.
