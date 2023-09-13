@@ -273,7 +273,7 @@ metadata:
     label: Regrade
 
   Mr. Nobody:
-    title: Mr.Nobody
+    title: Mr. Nobody
     label: Regrade
 
   Munich:
@@ -1847,8 +1847,8 @@ metadata:
       title: 
         - The Thing From
         - The Thing from 1951
-    title: Thing from 1951
-    sort_title: The Thing from 1951
+    title: The Thing from 1951
+    sort_title: Thing from 1951
     originally_available: 2023-03-01
     content_rating: R
     director.sync: The Scribbling Man
