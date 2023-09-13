@@ -272,7 +272,7 @@ metadata:
     title: Mr. & Mrs. Smith
     label: Regrade
 
-  Mr.Nobody:
+  Mr. Nobody:
     title: Mr.Nobody
     label: Regrade
 
@@ -526,7 +526,7 @@ metadata:
   Aquaman Special Edition:
     match: 
       title:
-        - Aquaman Special Edition
+        - Aquaman Special Editon
         - "Aquaman: Special Edition"
     title: "Aquaman: Special Edition"
     sort_title: "Aquaman: Special Edition"
@@ -1423,7 +1423,7 @@ metadata:
   Serenity Chronicles I Firefly:
     match: 
       title: 
-        - Serenity Chronicles I Firefly
+        - The Serenity Chronicles I Firefly
         - "Serenity Chronicles I: Firefly"
     title: "Serenity Chronicles I: Firefly"
     sort_title: "Serenity Chronicles I: Firefly"
