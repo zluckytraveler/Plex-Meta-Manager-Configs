@@ -663,7 +663,7 @@ metadata:
     originally_available: 2022-12-01
     content_rating: PG-13
     director.sync: Letyppe
-    label.remove: Special
+    label: TV to Movie
     summary: An edit of the show that wraps it up into a 2h20 feature film!
 
   Blade Runner 2008:
@@ -747,7 +747,7 @@ metadata:
     originally_available: 2017-12-01
     content_rating: PG-13
     director.sync: Bobson Dugnutt
-    label.remove: Special
+    label: Extended
     summary: "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier."
 
   Captain Marvel The Supreme Cut:
@@ -773,7 +773,7 @@ metadata:
     originally_available: 2022-09-01
     content_rating: PG-13
     director.sync: BionicBob
-    label.remove: Special
+    label: TV to Movie
     summary: Super powered Nazis from a parallel world invade! What is their ultimate goal and can our Arrowverse Heroes stop them?!?!
 
   Crisis on Infinite Earths The Legacy of Oliver Queen:
@@ -786,7 +786,7 @@ metadata:
     originally_available: 2023-06-01
     content_rating: PG-13
     director.sync: BionicBob
-    label.remove: Special
+    label: TV to Movie
     summary: The CRISIS has arrived! The Multiverse is under attack and only the Heroes of the Arrowverse can save the day.
 
   The Dark Knight Ascends:
@@ -989,7 +989,7 @@ metadata:
     originally_available: 2021-12-01
     content_rating: PG-13
     director.sync: Spence
-    label.remove: Special
+    label: TV to Movie
     summary: Frank Herbert's Dune is a fantastic miniseries adaptation of the original novel, but what would it look like as a feature length film?
 
   Friendly Neighborhood Spider-Man:
@@ -1193,7 +1193,7 @@ metadata:
     producer.remove: Cinnamon Hoobler
     writer.remove: Jason Crossman, Rei Kennex
     genre.remove: Short, Science Fiction
-    label.remove: Special
+    label: TV to Movie
     summary: This edit keeps the overall story of the TV series, but cuts it down into a tight but cohesive narrative that is firmly focused on the character of Obi-Wan, and his relationship with Anakin Skywalker / Darth Vader.
 
   Kill Bill The Whole Bloody Affair:
