@@ -439,6 +439,19 @@ metadata:
     title: Young Guns II
     label: Regrade
 
+  Aliens No Hope Edition:
+    match: 
+      title: 
+        -  Aliens No Hope Edition
+        - "Aliens: No Hope Edition"
+    title: "Aliens: No Hope Edition"
+    sort_title: "Aliens: No Hope Edition"
+    originally_available: 2020-03-01
+    content_rating: R
+    director.sync: Bobson Dugnutt
+    label: FanMIx
+    summary: Inspired by my media teacher's hatred for the early Hadley's Hope scenes in Aliens (the only reason that we watched the theatrical cut in class was due to these 2 scenes in the SE), I've created my own cut as a half way point between the Special Edition and the Theatrical without the Hadley's Hope sequence.
+
   Amadeus:
     match: 
       title: Amadeus
@@ -510,6 +523,19 @@ metadata:
     label: FanFix
     summary: The Amazing Spider-Man 2 rebalanced, with deleted scenes added, motivations strengthened, pacing & structure improved, and plotlines that distract from the main conflict removed.
 
+  Aquaman Special Edition:
+    match: 
+      title:
+        - Aquaman Special Edition
+        - "Aquaman: Special Edition"
+    title: "Aquaman: Special Edition"
+    sort_title: "Aquaman: Special Edition"
+    originally_available: 2020-11-01
+    content_rating: PG-13
+    director.sync: Wakeupkeo
+    label: FanFix
+    summary: A tighter, more focused story of the reluctant heir to the kingdom of Atlantis, now with much of the unnecessary exposition as possible removed, Depeche Mode and Pitbull songs removed, "Ocean Master" references removed, and as many plot holes as possible removed.
+    
   Avengers Age of Ultron:
     match: 
       title: 
@@ -556,6 +582,19 @@ metadata:
     label: Extended
     summary: Marty McFly, a 17-originally_available-old high school student, is accidentally sent thirty originally_availables into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown. The Greater Scott Edition extends Back to the Future to it's longest possible length using a variety of sources. All deleted and extended scenes have been masterfully reintegrated into the movie. adding 10 new scenes and 8 more minutes of footage.
 
+  Batman Begins Dark Cut:
+    match:
+      title: 
+        - Batman Begins Dark Cut
+        - "Batman Begins: Dark Cut"
+    title: "Batman Begins: Dark Cut"
+    sort_title: "Batman Begins: Dark Cut"
+    originally_available: 2009-05-01
+    content_rating: R
+    director.sync: Jokersmailbag
+    label: FanFix
+    summary: A more streamlined version of Batman Begins, with fewer cheesy jokes, less un-Batman-like behavior and, most importantly, a more tolerable Katie Holmes.
+    
   Batman Forever Red Book Edition:
     match:
       title: 
@@ -760,6 +799,45 @@ metadata:
     director.sync: DonkeyKonga
     label: FanFix
     summary: The movie isnt fun. It has downright rediculous moments, and it reduces it's main villain to a love interest. On top of this we have a rediculous nuke that goes off in a minute.
+
+  The Dark Knight Saga Recut Part I:
+    match: 
+      title: 
+        - The Dark Knight Saga Recut Part I
+        - "The Dark Knight Saga Recut: Part I"
+    title: "The Dark Knight Saga Recut: Part I"
+    sort_title: "Dark Knight Saga Recut: Part I"
+    originally_available: 2014-08-01
+    content_rating: R
+    director.sync: njvc
+    label: FanFix
+    summary: Batman Begins is a great origin story, establishing the gritty and realistic tone that would come to define Nolan's trilogy. Unfortunately, the film is also weighed down by numerous issues, including clunky exposition, poor attempts at humour, distracting CGI effects, and an overly yellow colour grade in many scenes. This edit attempts to fix those issues, hopefully strengthening this already great film and allowing its stronger elements to shine through.
+
+  The Dark Knight Saga Recut Part II:
+    match: 
+      title: 
+        - The Dark Knight Saga Recut Part II
+        - "The Dark Knight Saga Recut: Part II"
+    title: "The Dark Knight Saga Recut: Part II"
+    sort_title: "Dark Knight Saga Recut: Part II"
+    originally_available: 2014-08-01
+    content_rating: R
+    director.sync: njvc
+    label: FanFix
+    summary: The Dark Knight is undoubtedly the crowning achievement of Nolan's Bat-Trilogy. It is rightly considered a classic of modern cinema, however, it is still victim to many of the flaws that plague the trilogy as a whole, including poor humour, weak performances from supporting characters, clunky exposition and jarring narrative details. This edit attempts to tighten up The Dark Knight, trimming those elements that detracted from this wonderful film, hopefully allowing what remains to be all the more enjoyable as a result.
+
+  The Dark Knight Saga Recut Part III:
+    match: 
+      title: 
+        - The Dark Knight Saga Recut Part III
+        - "The Dark Knight Saga Recut: Part III"
+    title: "The Dark Knight Saga Recut: Part III"
+    sort_title: "Dark Knight Saga Recut: Part III"
+    originally_available: 2014-08-01
+    content_rating: R
+    director.sync: njvc
+    label: FanFix
+    summary: The Dark Knight Rises has some of the strongest elements of the trilogy, but is ultimately weighed down by its bloated running time, illogical narrative (especially in the 3rd act), jokey one-liners, and arguably, the failure to stick the landing in the film's final moments. This edit aims to strip down the finale of Nolan's trilogy to its core, emphasising the stronger aspects of the story and hopefully offering a more emotionally satisfying conclusion to Batman's story as a whole.
     
   Dawn of Justice Part 1 The Outsider:
     match: 
@@ -800,6 +878,18 @@ metadata:
     label: FanFix
     summary: On first watch I loved this movie, so I didn’t change much... just to fix that ending, and to make the end more in line with her character in BvS - that these heroes are awesome but mankind is questionable.
 
+  Dead Set Serious:
+    match: 
+      title: 
+        - Dead Set Serious
+    title: Dead Set Serious
+    sort_title: Dead Set Serious
+    originally_available: 2008-12-01
+    content_rating: R
+    director.sync: CBB
+    label: Special
+    summary: This turns the TV show DEAD SET into a true zombie movie. Gone are the dragging, too funny, annoying and over-the-top scenes to present an extraordinary quality horror film from the UK.
+    
   Drive Radio 1 Rescores:
     match: 
       title: Drive Radio 1 Rescores
@@ -1275,6 +1365,23 @@ metadata:
     country.remove: Poland
     label: FanFix
     summary: The United States as we know it is destroyed in the climax of a Civil war. Years after the nuclear event a vicious band of raiders, led by the ruthless General Bethlehem, reign terror among the survivors in the Oregon region. In these desperate times a postman is send to restore communication routes and unintentionally ignites a spark of hope which inevitably crashes with General Bethlehem and his minions.
+
+  Prometheus Special Edition:
+    match: 
+      title: 
+        - Prometheus
+        - "Prometheus: Special Edition"
+    title: "Prometheus: Special Edition"
+    sort_title: "Prometheus: Special Edition"
+    originally_available: 2013-05-01
+    content_rating: R
+    director.sync: Agent 9
+    writer.remove: Damon Lindelof, Jon Spaihts
+    producer.remove: Ridley Scott, David Giler, Walter Hill
+    genre.remove: Science Fiction, Adventure, Mystery
+    country.remove: United Kingdom, United States of America
+    label: FanFix
+    summary: Prometheus SE cuts out a lot of the unnecessary humor, dialog and scene's, building stronger, smarter characters. Removing many plot holes with the story and just general things that have issues. Such as Fifield getting lost in the structure, running in a straight line away from a rolling space craft. Deleted scene's or certain shots from the deleted footage was re-integrated back into the movie by either using several shots to change certain scene's or by adding a whole new scene to the film. All new material was color corrected, scored, sfx added and leveled to appropriate audio levels.
     
   Pulp Dogs:
     match: 
@@ -1313,6 +1420,45 @@ metadata:
     label: FanFix
     summary: A new take on Indiana Jones and the Kingdom of the Crystal Skull, aiming to bring the film into the realm of the watchable by matching the tone (music/colour/pacing/characters) from Raiders of the Lost Ark.
 
+  Serenity Chronicles I Firefly:
+    match: 
+      title: 
+        - Serenity Chronicles I Firefly
+        - "Serenity Chronicles I: Firefly"
+    title: "Serenity Chronicles I: Firefly"
+    sort_title: "Serenity Chronicles I: Firefly"
+    originally_available: 2014-07-01
+    content_rating: PG-13
+    director.sync: MusicEd921
+    label: Special
+    summary: The Chronicles of Serenity follows the story of Malcolm Reynolds, a soldier who fought for the losing side of the Unification War. After losing his faith in the bloodiest battle of the war, he takes to the skies in a firefly-class transport ship seeking whatever jobs he can get to keep flying. Enter a ragtag crew and some passengers with secrets of their own and you have the beginning of an epic 3-part adventure that mixes Sci-Fi and Westerns like never before.
+
+  The Serenity Chronicles II War Stories:
+    match: 
+      title: 
+        - The Serenity Chronicles II War Stories
+        - "Serenity Chronicles II: War Stories"
+    title: "Serenity Chronicles II: War Stories"
+    sort_title: "Serenity Chronicles II: War Stories"
+    originally_available: 2014-09-01
+    content_rating: PG-13
+    director.sync: MusicEd921
+    label: Special
+    summary: The second chapter in the Serenity Chronicles finds the Firefly crew harboring two Alliance fugitives and looking for any job they can find to keep their ship flying. The more time they spend hiding from the Alliance, the more Simon Tam fears for his sister River's mental stability as she begins to show signs of aggression that could endanger everyone on board. 
+
+  The Serenity Chronicles III Revelations:
+    match: 
+      title: 
+        - The Serenity Chronicles III Revelations
+        - "Serenity Chronicles III: Revelations"
+    title: "Serenity Chronicles III: Revelations"
+    sort_title: "Serenity Chronicles III: Revelations"
+    originally_available: 2014-10-01
+    content_rating: PG-13
+    director.sync: MusicEd921
+    label: Extended
+    summary: This is the most complete version of the film Serenity. All deleted scenes have been added back in and whenever possible, they have been scored with music from the score composed by David Newman.
+    
   Snowpiercer The Willy Wonka Cut:
     match: 
       title: 
@@ -1376,6 +1522,30 @@ metadata:
     label: FanMix
     summary: The re-telling of the Eastrail 177 Trilogy with a new narrative structure to facilitate surprises, adjustments to reveals, new parallels, new opening and closings and much much more. One can be surprised again.
 
+  Star Trek Reunion:
+    match: 
+      title: 
+        - Star Trek Reunion
+        - "Star Trek: Reunion"
+    title: "Star Trek: Reunion"
+    sort_title: "Star Trek: Reunion"
+    originally_available: 2014-12-01
+    content_rating: PG
+    director.sync: TM2YC
+    label: FanFix
+    summary: This is a cut of 'The Motion Picture' that attempts to get a little closer to the excitement and pacing of the Original-Series and the five Original-Crew films that followed it.
+
+  Star Trek Vengeance:
+    match: 
+      title: Star Trek Vengeance
+    title: Star Trek Vengeance
+    sort_title: Star Trek Vengeance
+    originally_available: 2016-10-01
+    content_rating: PG-13
+    director.sync: TM2YC
+    label: FanFix
+    summary: This is an attempt to create an ideal version, a version that brings out the best of what was always there. The "plot holes" remain (Removing them would be like trying to make a bowl, out of a sieve) but the emotional impact and character motivations are now what they should have been.
+    
   Star Wars Project 4K77:
     match: 
       edition: Project 4K
@@ -1585,6 +1755,19 @@ metadata:
     writer.remove: George Lucas, J.J. Abrams, Chris Terrio, Colin Trevorrow, Derek Connolly
     label: FanFix
     summary: "Star Wars: The Rise of Skywalker gets an overhaul to serve as a conclusion to the Star Wars saga. Pacing, character journeys, and story continuity are improved via an unprecedented fan editing collaboration. A layer of polish and care applied to a relentlessly fast-paced film. Subtle character tweaks. And a few new surprises."
+
+  Star Wars Obi-Wan Kenobi - The Spence Edit:
+    match: 
+      title: 
+        - Star Wars Obi Wan Kenobi the Spence Edit
+        - "Star Wars: Obi-Wan Kenobi - The Spence Edit"
+    title: "Star Wars: Obi-Wan Kenobi - The Spence Edit"
+    sort_title: "Star Wars: Obi-Wan Kenobi - The Spence Edit"
+    originally_available: 2023-07-01
+    content_rating: PG-13
+    director.sync: Spence
+    label: Special
+    summary: The Kenobi show, trimmed down to a movie length. This series started life as a movie script, and the show just feels like a movie stretched to six hours. This keeps most of the main plot point, but makes it fit as an easily digestible Star Wars film.
     
   Star Wars Rise of the Rebellion:
     match: 
@@ -1711,6 +1894,23 @@ metadata:
     label: FanFix
     summary: Tron Perfection is a story about the conflict of man vs himself, and less about Sam Flynn (who is merely our entry-point into the Grid.) Kevin Flynn spent so much in his crusade to get revenge on Dillinger in the original Tron that once he got his revenge, made Clu, and set about to create a new Grid, he was mirroring comparable character flaws that included massive ambition married to a sense of entitlement.
 
+  Twin Peaks Fire Walk With Me:
+    match: 
+      title: 
+        - "Twin Peaks: The Missing Pieces"
+        - "Twin Peaks: Fire Walk With Me"
+    title: "Twin Peaks: Fire Walk With Me"
+    sort_title: "Twin Peaks: Fire Walk With Me"
+    originally_available: 2014-08-01
+    content_rating: R
+    director.sync: Q2
+    writer.remove: David Lynch, Robert Engels
+    producer.remove: Sabrina S. Sutherland
+    genre.remove: Thriller, Drama, Crime, Horror, Mystery
+    country.remove: United States of America
+    label: Extended
+    summary: "Twin Peaks: Fire Walk With Me is the prequel film to the cult favorite television show 'Twin Peaks'. It chronicles the last seven days of Laura Palmer's life leading up to her death. When originally released nearly an hour and a half of deleted and extended footage had been cut, and for over twenty years fans have been clamoring for this footage."
+    
   Venom The Marvel Cut:
     match: 
       title: 
@@ -1765,6 +1965,33 @@ metadata:
     label: Special
     summary: This edit takes the HD transfer on the 'Ultimate Director's Cut' blu-ray and goes in and fixes, alters, or replaces every single changed shot to "Reconstruct" the original 'Theatrical Cut' in almost the same HD quality. So we can once again enjoy the film the way it was meant to be seen 1979, without compromising on visual quality.
 
+  Watchmen Midnight:
+    match: 
+      title: 
+        - "Spike Midnight Movie Special: Watchmen"
+        - "Watchmen: Midnight"
+    title: "Watchmen: Midnight"
+    sort_title: "Watchmen: Midnight"
+    originally_available: 2011-10-01
+    content_rating: R
+    director.sync: Flixcapacitor
+    producer.remove: Austin Reading, Julie Kellman Reading, Dana Riedel, Jennifer Russakoff
+    genre.remove: Science Fiction
+    country.remove: United States of America
+    label: FanFix
+    summary: This fanedit was crafted to recapture some of the spirit, story structure, and character depth of the original comic books by reorganizing/trimming scenes, adding new content from the “Under the Hood” documentary, replacing music to change the tone of various scenes, as well as cutting out silly stunts and other material that did not fit the tone of the original comics.
+
+  Wolf Dancer:
+    match: 
+      title: Wolf Dancer
+    title: Wolf Dancer
+    sort_title: Wolf Dancer
+    originally_available: 2010-02-01
+    content_rating: PG-13
+    director.sync: CBB
+    label: FanMix
+    summary: This is a new take on DANCES WITH WOLVES, the famous 4h Western/Adventure that is so similar in its story to Avatar. Condensed to 2h30 minutes this is a much faster paced intense movie with no voice overs from John Dunbar, no irritating madness and less over-the-top scenes. The conflict of the two worlds and clashing cultures has been toned down to a more realistic, but still highly emotional take.
+    
   The Wolverine The James Mangold Restoration:
     match: 
       title: 
