@@ -52,7 +52,7 @@ collections:
     sort_title: 08-Special
     visible_library: true
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Special.png
-    summary: Projects where an editor infuses personal creative choices to modify the viewing experience, yet are not significantly different from the original. The main purpose is to make minor changes to a film that do not affect the story or plot drastically, but to only change the atmosphere creating a unique viewing experience. (TV to Movie edits have been combined with this category)
+    summary: Projects where an editor infuses personal creative choices to modify the viewing experience, yet are not significantly different from the original. The main purpose is to make minor changes to a film that do not affect the story or plot drastically, but to only change the atmosphere creating a unique viewing experience.
 
   TV to Movie:
     smart_filter:
