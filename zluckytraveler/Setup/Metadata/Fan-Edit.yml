@@ -1352,6 +1352,7 @@ metadata:
   The Postman Spark of Hope:
     match: 
       title: 
+        - The Last Strike of Hope
         - The Last Spark of Hope
         - "The Postman: Spark of Hope"
     title: "The Postman: Spark of Hope"
