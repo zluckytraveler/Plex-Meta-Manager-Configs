@@ -793,7 +793,7 @@ metadata:
     match: 
       title: The Dark Knight Ascends
     title: The Dark Knight Ascends
-    sort_title: The Dark Knight Ascends
+    sort_title: Dark Knight Ascends
     originally_available: 2023-05-01
     content_rating: R
     director.sync: DonkeyKonga
@@ -1356,7 +1356,7 @@ metadata:
         - The Last Spark of Hope
         - "The Postman: Spark of Hope"
     title: "The Postman: Spark of Hope"
-    sort_title: "The Postman: Spark of Hope"
+    sort_title: "Postman: Spark of Hope"
     originally_available: 2023-02-01
     content_rating: PG-13
     director.sync: theomega
