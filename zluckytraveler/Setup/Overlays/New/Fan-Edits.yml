@@ -55,6 +55,19 @@ overlays:
       vertical_offset: 0
       vertical_align: top
       url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Fan-Edit/SPECIAL.png
+
+  TV to Movie:
+    plex_search:
+      all:
+        label: TV to Movie
+      validate: false
+    overlay: 
+      name: TV to Movie
+      horizontal_offset: 0
+      horizontal_align: center
+      vertical_offset: 0
+      vertical_align: top
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Fan-Edit/TV%20to%20MOVIE.png
       
   4K-UHD Regrade:
     plex_search:
