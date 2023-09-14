@@ -439,6 +439,19 @@ metadata:
     title: Young Guns II
     label: Regrade
 
+  Alien V Extended Cut:
+    match: 
+      title: 
+        -  
+        - "Alien V: Extended Cut"
+    title: "Alien V: Extended Cut"
+    sort_title: "Alien V: Extended Cut"
+    originally_available: 2020-11-01
+    content_rating: R
+    director.sync: Wraith
+    label: FanFIx
+    summary: These two edits (ALIEN V rt 132min and ALIEN COVENANT:EXTENDED CUT rt 154 min) restore the three act structure by creating a new first act from supplemental and deleted material. There is also a new Coda, tightened up restored scenes to develop character and score and audio enhancements to give it a more ALIEN feel all over.
+
   Aliens No Hope Edition:
     match: 
       title: 
@@ -1304,6 +1317,19 @@ metadata:
     label: FanFix
     summary: This is a Matrix sequels edit like you've never seen before. "The Matrix Revolutions Decoded" presents a complete and focused narrative executed in the same run time as the original "Matrix" while unveiling a brand new and more satisfying conclusion to the Matrix saga. Over 2 hours have been removed from the original source material without logical gaps or jump cuts.
 
+  No Time To Die The Traditional Cut:
+    match: 
+      title: 
+        - 
+        - "No Time To Die: The Traditional Cut"
+    title: "No Time To Die: The Traditional Cut"
+    sort_title: "No Time To Die: The Traditional Cut"
+    originally_available: 2023-02-01
+    content_rating: R
+    director.sync: ScottCrane
+    label: FanFix
+    summary: This version has a much shorter pre-tite sequence (with a 'bloody' gun barrel), and in the end, Bond isn't poisoned and doesn't die.
+    
   Once Upon a Time in Hollywood The Red Apple Cut:
     match: 
       title: 
