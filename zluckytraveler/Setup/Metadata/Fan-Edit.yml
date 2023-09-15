@@ -439,6 +439,19 @@ metadata:
     title: Young Guns II
     label: Regrade
 
+  Alien 3 Third Cut:
+    match: 
+      title: 
+        -  
+        - "Alien 3: Third Cut"
+    title: "Alien 3: Third Cut"
+    sort_title: "Alien 3: Third Cut"
+    originally_available: 2019-04-01
+    content_rating: R
+    director.sync: 15MaF
+    label: FanFIx
+    summary: This uses The Assembly Cut as it's base and introduces Theatrical Cut elements that I have a preference for. I also attempt to clean up the colour and contrast imbalances in certain composite shots. I also add extra FX for dramatic effect in places, to improve visually on the original or to technically facilitate differences in lighting between the 2 versions when using footage for the same scenes.
+
   Alien V Extended Cut:
     match: 
       title: 
@@ -710,6 +723,19 @@ metadata:
     label: FanFix
     summary: The main problem with 'Blade Runner 2049' was the insanely slow pace of the editing/cutting. Every line had a vast gap after it and every shot lingered for too long, even if nothing whatsoever was happening in the shot and the camera was motionless. I love long movies but when a film is nearly 3-hours, careless and lax editing is a crime. It's like they assembled all the footage and forgot to go through and tighten everything up like a good editor should. So I was interested in making a cut of this film that focused (almost) entirely on improving the pace of the cuts. The same film/experience but edited properly. An experiment in doing a fanedit that doesn't actually remove anything!
 
+  Blade Runner 2049 New Vangelis Cut:
+    match: 
+      title: 
+        - 
+        - "Blade Runner 2049: New Vangelis Cut"
+    title: "Blade Runner 2049: New Vangelis Cut"
+    sort_title: "Blade Runner 2049: New Vangelis Cut"
+    originally_available: 2018-10-01
+    content_rating: R
+    director.sync: Problem Eliminator
+    label: FanMix
+    summary: What would a modern day Blade Runner score by Vangelis sound like? This edit rescores Blade Runner 2049 with new music from the composer’s 2016 album Rosetta and his Blade Runner tribute album from 2007. The music is supplemented by some earlier Vangelis tracks, as well as material by John Barry and others. No music from the original Blade Runner is used, except when sampled by Vangelis on the BR tribute album. In addition, the edit is approx. 15 minutes shorter, mainly from trimming Wallace’s scenes to a minimum and cutting Gaff and Rachael.
+    
   Blade Runner The Analogue Cut:
     match: 
       title: 
@@ -775,6 +801,32 @@ metadata:
     director.sync: Josephdquinn
     label: FanFix
     summary: The Supreme Cut takes Captain Marvel's origin story and improves upon it by giving Carol Danvers a more defined character arc, from struggling Kree warrior to one of Earth's Mightiest Heroes - an Avenger
+
+  Crisis Countdown Part One:
+    match: 
+      title: 
+        - 
+        - "Crisis Countdown: Part One"
+    title: "Crisis Countdown: Part One"
+    sort_title: "Crisis Countdown: Part One"
+    originally_available: 2022-12-01
+    content_rating: PG-13
+    director.sync: BionicBob
+    label: TV to Movie
+    summary: A Crisis is coming, and the Countdown has begun! The Green Arrow embarks on a mission for the Monitor to create a weapon for the coming Crisis. The Flash must prepare his Team for his prophesized demise so they can save billions of timelines, and the Martian Manhunter, with the aid of Supergirl, must come to terms with his dark past so he can become the hero needed for the future.
+
+  Crisis Countdown Part Two:
+    match: 
+      title: 
+        - 
+        - "Crisis Countdown: Part Two"
+    title: "Crisis Countdown: Part Two"
+    sort_title: "Crisis Countdown: Part Two"
+    originally_available: 2023-02-01
+    content_rating: PG-13
+    director.sync: BionicBob
+    label: TV to Movie
+    summary: As the Crisis looms closer, the stakes become more dire! Green Arrow must team up with his grown children from the future to build a weapon to save the Multiverse. The Flash turns dark just when the world needs him most, and a new foe emerges for the Martian Manhunter and Supergirl to face. Will our heroes be victorious in their trials?
     
   Crisis on Earth-X:
     match: 
@@ -902,6 +954,19 @@ metadata:
     director.sync: CBB
     label: TV to Movie
     summary: This turns the TV show DEAD SET into a true zombie movie. Gone are the dragging, too funny, annoying and over-the-top scenes to present an extraordinary quality horror film from the UK.
+
+  Die Hard 'til Midnight:
+    match: 
+      title: 
+        - 
+        - Die Hard 'til Midnight
+    title: Die Hard 'til Midnight
+    sort_title: Die Hard 'til Midnight
+    originally_available: 2018-03-01
+    content_rating: PG-13
+    director.sync: Sinbad
+    label: FanMix
+    summary: Die Hard is the pinnacle of action movie goodness in my opinion and cannot be improved upon as its completely perfect as it is. However as its one of my favourite films I was intrigued whether I could put a different spin on it to give it some fresh appeal. It struck me that as McClane spends nearly the entire runtime of the movie apart from all the other protagonists I could maybe use splitscreen to give the impression of multiple events taking place at once. Thus the idea for Die Hard 'til Midnight was born, and the edit evolved as a Die Hard/24 style (semi) real-time thriller.
     
   Drive Radio 1 Rescores:
     match: 
@@ -940,6 +1005,19 @@ metadata:
     label: FanFix
     summary: A film that’s been admired, hated and puzzled-over in fairly equal amounts, writer/director David Lynch’s ambitious 1984 adaptation of Frank Herbert’s science fiction novel gets an extensive fanediting treatment in Dune The Alternative Edition Redux. This is my third and final cut of an edit I first released in 2008 and again in 2009. As previously, it draws on the heavily cut Theatrical Version, the controversial Extended “TV” Version and a selection of Deleted Scenes and soundtrack cues.
 
+  Elseworlds The Prelude To Crisis Edition:
+    match: 
+      title: 
+        - 
+        - "Elseworlds: The Prelude To Crisis Edition"
+    title: "Elseworlds: The Prelude To Crisis Edition"
+    sort_title: "Elseworlds: The Prelude To Crisis Edition"
+    originally_available: 2022-10-01
+    content_rating: PG
+    director.sync: BionicBob
+    label: TV to Movie
+    summary: Oliver and Barry awaken to discover they have been body swapped! To solve this mystery, they will need the help of Supergirl and travel the lengths of the DCU, from Gotham City to the cosmic beyond. All the while, a mysterious entity known as the Monitor, watches and evaluates their every move.
+    
   Escape from the Shining Alien Thing from Beyond the Stars:
     match: 
       title:
@@ -1145,6 +1223,19 @@ metadata:
     label: FanFix
     summary: This is Interstellar as you know it, with modest improvements to pacing, some adjustments to make dialogue sound more natural, little less pretentious, with the removal of what feels like artificial conflict.
 
+  Invasion:
+    match: 
+      title:
+        - 
+        - Invasion
+    title: Invasion
+    sort_title: Invasion
+    originally_available: 2017-12-01
+    content_rating: PG-13
+    director.sync: BionicBob
+    label: TV to Movie
+    summary: Recut the 3 episodes (126minutes) into a single movie (100minutes). I streamlined the narrative by focusing on only two story arcs -- Barry and Ollie. Gone is the Kid Flash and Prof. Stein subplots as they are unnecessary to drive the main plot. Also, significantly cut the Arrow episode so it feels less like an anniversary celebration episode, thus stopping the story dead in its tracks, and more like it is part of the Dominator's plan.
+    
   Icarus:
     match: 
       title: Icarus
@@ -1317,6 +1408,19 @@ metadata:
     label: FanFix
     summary: This is a Matrix sequels edit like you've never seen before. "The Matrix Revolutions Decoded" presents a complete and focused narrative executed in the same run time as the original "Matrix" while unveiling a brand new and more satisfying conclusion to the Matrix saga. Over 2 hours have been removed from the original source material without logical gaps or jump cuts.
 
+  A Nightmare on Friday the 13th:
+    match: 
+      title: 
+        - 
+        - A Nightmare on Friday the 13th
+    title: A Nightmare on Friday the 13th
+    sort_title: Nightmare on Friday the 13th
+    originally_available: 2020-06-01
+    content_rating: R
+    director.sync: The Butcher
+    label: FanFix
+    summary: This version of FREDDY vs JASON restores several deleted scenes, removes some over-the-top comedic moments, fixes mistakes and brings the movie closer in quality to the best installments of both classic slasher franchises.
+    
   No Time To Die The Traditional Cut:
     match: 
       title: 
@@ -1393,6 +1497,23 @@ metadata:
     label: FanFix
     summary: The United States as we know it is destroyed in the climax of a Civil war. Years after the nuclear event a vicious band of raiders, led by the ruthless General Bethlehem, reign terror among the survivors in the Oregon region. In these desperate times a postman is send to restore communication routes and unintentionally ignites a spark of hope which inevitably crashes with General Bethlehem and his minions.
 
+  Prometheus Giftbearer:
+    match: 
+      title: 
+        - Prometheus
+        - "Prometheus: Giftbearer"
+    title: "Prometheus: Giftbearer"
+    sort_title: "Prometheus: Giftbearer"
+    originally_available: 2013-02-01
+    content_rating: R
+    director.sync: Severian
+    writer.remove: Damon Lindelof, Jon Spaihts
+    producer.remove: Ridley Scott, David Giler, Walter Hill
+    genre.remove: Science Fiction, Adventure, Mystery
+    country.remove: United Kingdom, United States of America
+    label: FanFix
+    summary: Incorporated deleted, alternate and supplementary footage and made numerous edits to original scenes to strengthen story, clarify character motivation, and address some often-mentioned issues viewers had with the original theatrical release.
+    
   Prometheus Special Edition:
     match: 
       title: 
