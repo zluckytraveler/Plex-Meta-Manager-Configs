@@ -442,7 +442,7 @@ metadata:
   Alien 3 Third Cut:
     match: 
       title: 
-        -  
+        -  Alien 3 Third Cut
         - "Alien 3: Third Cut"
     title: "Alien 3: Third Cut"
     sort_title: "Alien 3: Third Cut"
@@ -455,13 +455,17 @@ metadata:
   Alien V Extended Cut:
     match: 
       title: 
-        -  
+        - Aliens v. Trump
         - "Alien V: Extended Cut"
     title: "Alien V: Extended Cut"
     sort_title: "Alien V: Extended Cut"
     originally_available: 2020-11-01
     content_rating: R
     director.sync: Wraith
+    producer.remove: Cameron Combe, Stephen Scott Day
+    writer.remove: Cameron Combe, Stephen Scott Day
+    genre.remove: Short, Science Fiction
+    country.remove: United States of America
     label: FanFIx
     summary: These two edits (ALIEN V rt 132min and ALIEN COVENANT:EXTENDED CUT rt 154 min) restore the three act structure by creating a new first act from supplemental and deleted material. There is also a new Coda, tightened up restored scenes to develop character and score and audio enhancements to give it a more ALIEN feel all over.
 
@@ -726,7 +730,7 @@ metadata:
   Blade Runner 2049 New Vangelis Cut:
     match: 
       title: 
-        - 
+        - Blade Runner 2049 New Vangelis Cut 2018
         - "Blade Runner 2049: New Vangelis Cut"
     title: "Blade Runner 2049: New Vangelis Cut"
     sort_title: "Blade Runner 2049: New Vangelis Cut"
@@ -805,7 +809,7 @@ metadata:
   Crisis Countdown Part One:
     match: 
       title: 
-        - 
+        - Crisis Countdown Part One
         - "Crisis Countdown: Part One"
     title: "Crisis Countdown: Part One"
     sort_title: "Crisis Countdown: Part One"
@@ -818,7 +822,7 @@ metadata:
   Crisis Countdown Part Two:
     match: 
       title: 
-        - 
+        - Crisis Countdown Part Two
         - "Crisis Countdown: Part Two"
     title: "Crisis Countdown: Part Two"
     sort_title: "Crisis Countdown: Part Two"
@@ -958,7 +962,7 @@ metadata:
   Die Hard 'til Midnight:
     match: 
       title: 
-        - 
+        - Die Hard 'Til Midnight
         - Die Hard 'til Midnight
     title: Die Hard 'til Midnight
     sort_title: Die Hard 'til Midnight
@@ -1008,7 +1012,7 @@ metadata:
   Elseworlds The Prelude To Crisis Edition:
     match: 
       title: 
-        - 
+        - Elseworlds the Prelude to Crisis Edition
         - "Elseworlds: The Prelude To Crisis Edition"
     title: "Elseworlds: The Prelude To Crisis Edition"
     sort_title: "Elseworlds: The Prelude To Crisis Edition"
@@ -1226,13 +1230,16 @@ metadata:
   Invasion:
     match: 
       title:
-        - 
         - Invasion
     title: Invasion
     sort_title: Invasion
     originally_available: 2017-12-01
     content_rating: PG-13
     director.sync: BionicBob
+    producer.remove: Sepehr Seifi
+    writer.remove: Shahram Mokri, Nasim Ahmadpour
+    genre.remove: Crime, Drama, Thriller, Mystery
+    country.remove: Islamic Republic of Iran
     label: TV to Movie
     summary: Recut the 3 episodes (126minutes) into a single movie (100minutes). I streamlined the narrative by focusing on only two story arcs -- Barry and Ollie. Gone is the Kid Flash and Prof. Stein subplots as they are unnecessary to drive the main plot. Also, significantly cut the Arrow episode so it feels less like an anniversary celebration episode, thus stopping the story dead in its tracks, and more like it is part of the Dominator's plan.
     
@@ -1411,20 +1418,22 @@ metadata:
   A Nightmare on Friday the 13th:
     match: 
       title: 
-        - 
         - A Nightmare on Friday the 13th
     title: A Nightmare on Friday the 13th
     sort_title: Nightmare on Friday the 13th
     originally_available: 2020-06-01
     content_rating: R
     director.sync: The Butcher
+    writer.remove: Mike Klein
+    genre.remove: Short, Horror
+    country.remove: United States of America
     label: FanFix
     summary: This version of FREDDY vs JASON restores several deleted scenes, removes some over-the-top comedic moments, fixes mistakes and brings the movie closer in quality to the best installments of both classic slasher franchises.
     
   No Time To Die The Traditional Cut:
     match: 
       title: 
-        - 
+        - No Time to Die the Traditional Cut
         - "No Time To Die: The Traditional Cut"
     title: "No Time To Die: The Traditional Cut"
     sort_title: "No Time To Die: The Traditional Cut"
@@ -1500,17 +1509,13 @@ metadata:
   Prometheus Giftbearer:
     match: 
       title: 
-        - Prometheus
+        - Prometheus Giftbearer
         - "Prometheus: Giftbearer"
     title: "Prometheus: Giftbearer"
     sort_title: "Prometheus: Giftbearer"
     originally_available: 2013-02-01
     content_rating: R
     director.sync: Severian
-    writer.remove: Damon Lindelof, Jon Spaihts
-    producer.remove: Ridley Scott, David Giler, Walter Hill
-    genre.remove: Science Fiction, Adventure, Mystery
-    country.remove: United Kingdom, United States of America
     label: FanFix
     summary: Incorporated deleted, alternate and supplementary footage and made numerous edits to original scenes to strengthen story, clarify character motivation, and address some often-mentioned issues viewers had with the original theatrical release.
     
