@@ -1155,7 +1155,20 @@ metadata:
     director.sync: Wraith
     label: Extended
     summary: This version runs 191 minutes and for now it is the longest runtime version you can watch!
-  
+
+  Halloween The Doctor’s Cut:
+    match: 
+      title: 
+        - 
+        - "Halloween: The Doctor’s Cut"
+    title: "Halloween: The Doctor’s Cut"
+    sort_title: "Halloween: The Doctor’s Cut"
+    originally_available: 2022-06-01
+    content_rating: R
+    director.sync: Jnisch
+    label: FanMix
+    summary: This is Halloween 1 & Halloween 2 shortened and streamlined into one movie with additions from Halloween 1 Extended Edition. Additional music scores and creative changes supplement the narrative and film experience. The twist is that it focuses more on the relationship between Dr. Loomis and Michael rather than Laurie and Michael.
+    
   The Hobbit The Spence Edit:
     match: 
       title: 
@@ -1322,6 +1335,19 @@ metadata:
     label: FanMix
     summary: "A reconstruction of Quentin Tarantino's own cut of Kill Bill: The Whole Bloody Affair that he himself screened at Cannes in 2004, and has since been screened sporadically since 2011 at the Tarantino-owned New Beverly Cinema in Los Angeles."
 
+  Kombat Bloody Kombat:
+    match: 
+      title:
+        - 
+        - Kombat Bloody Kombat
+    title: Kombat Bloody Kombat
+    sort_title: Kombat Bloody Kombat
+    originally_available: 2023-03-01
+    content_rating: PG-13
+    director.sync: Gieferg
+    label: FanMix
+    summary: This edit isn't as much about changing the plot, but about modyfing the tone & overall feel of the movie. To achieve this, the movie was completely re-scored with music from martial art films and fighting games with some other additions. Additional footage taken from other movies was included as well as alternate dialogue lines. Also, some blood VFX and grindhouse effects were added.
+    
   Logan Gothic:
     match: 
       title: Logan Gothic
