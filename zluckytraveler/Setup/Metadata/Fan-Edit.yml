@@ -813,13 +813,16 @@ metadata:
   Child's Play The Don Mancini Cut:
     match: 
       title: 
-        - 
+        - Puppet Master - Don Mancini on Child's Play 2
         - "Child's Play: The Don Mancini Cut"
     title: "Child's Play: The Don Mancini Cut"
     sort_title: "Child's Play: The Don Mancini Cut"
     originally_available: 2021-10-01
     content_rating: R
     director.sync: Dwight Fry
+    producer.remove: Justin Beahm
+    genre.remove: Documentary
+    country.remove: United States of America
     label: FanMix
     summary: Child's Play (1988) with a restructuring that aims to restore writer Don Mancini's original intentions of leaving it ambiguous during the first half whether Chucky is actually alive or not.
     
@@ -1055,7 +1058,7 @@ metadata:
   The Falcon and the Winter Soldier The Spence Edit:
     match: 
       title:
-        - 
+        - The Falcon and the Winter Soldier the Spence Edit
         - "The Falcon and the Winter Soldier: The Spence Edit"
     title: "The Falcon and the Winter Soldier: The Spence Edit"
     sort_title: "Falcon and the Winter Soldier: The Spence Edit"
@@ -1189,7 +1192,7 @@ metadata:
   Halloween The Doctor’s Cut:
     match: 
       title: 
-        - 
+        - Halloween the Doctor's Cut
         - "Halloween: The Doctor’s Cut"
     title: "Halloween: The Doctor’s Cut"
     sort_title: "Halloween: The Doctor’s Cut"
@@ -1202,7 +1205,7 @@ metadata:
   The Hobbit The Battle of the Five Edits:
     match: 
       title: 
-        - 
+        - The Hobbit the Battle of the Five Edits
         - "The Hobbit: The Battle of the Five Edits"
     title: "The Hobbit: The Battle of the Five Edits"
     sort_title: "Hobbit: The Battle of the Five Edits"
@@ -1381,7 +1384,6 @@ metadata:
   Kombat Bloody Kombat:
     match: 
       title:
-        - 
         - Kombat Bloody Kombat
     title: Kombat Bloody Kombat
     sort_title: Kombat Bloody Kombat
