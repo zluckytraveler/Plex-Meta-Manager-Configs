@@ -99,6 +99,10 @@ metadata:
     title: The Crow
     label: Regrade
 
+  The Day the Earth Stood Still:
+    title: The Day the Earth Stood Still
+    label: Regrade
+
   Deep Blue Sea:
     title: Deep Blue Sea
     label: Regrade
@@ -806,6 +810,19 @@ metadata:
     label: FanFix
     summary: The Supreme Cut takes Captain Marvel's origin story and improves upon it by giving Carol Danvers a more defined character arc, from struggling Kree warrior to one of Earth's Mightiest Heroes - an Avenger
 
+  Child's Play The Don Mancini Cut:
+    match: 
+      title: 
+        - 
+        - "Child's Play: The Don Mancini Cut"
+    title: "Child's Play: The Don Mancini Cut"
+    sort_title: "Child's Play: The Don Mancini Cut"
+    originally_available: 2021-10-01
+    content_rating: R
+    director.sync: Dwight Fry
+    label: FanMix
+    summary: Child's Play (1988) with a restructuring that aims to restore writer Don Mancini's original intentions of leaving it ambiguous during the first half whether Chucky is actually alive or not.
+    
   Crisis Countdown Part One:
     match: 
       title: 
@@ -1035,6 +1052,19 @@ metadata:
     label: FanMix
     summary: This fanedit is my love letter to John Carpenter's classic horror film "The Thing" but also to that beautiful decade that was the 80s. There are many, many movie and pop culture references throughout; there's a new soundtrack, alternate dialog, new visual effects (some so subtle only the most hardcore The Thing fans will notice) and more Easter eggs than Palmer's got dutchies. Basically, I threw everything but the kitchen sink at this Thing.
 
+  The Falcon and the Winter Soldier The Spence Edit:
+    match: 
+      title:
+        - 
+        - "The Falcon and the Winter Soldier: The Spence Edit"
+    title: "The Falcon and the Winter Soldier: The Spence Edit"
+    sort_title: "Falcon and the Winter Soldier: The Spence Edit"
+    originally_available: 2022-11-01
+    content_rating: PG-13
+    director.sync: Spence
+    label: TV to Movie
+    summary: This edit attempts to reorganize the fairly simple plot into a single film of 2 hours and 22 minutes, an average run time for an MCU film.
+    
   Fight Club I Am Jack's Laryngitis:
     match: 
       title: 
@@ -1168,6 +1198,19 @@ metadata:
     director.sync: Jnisch
     label: FanMix
     summary: This is Halloween 1 & Halloween 2 shortened and streamlined into one movie with additions from Halloween 1 Extended Edition. Additional music scores and creative changes supplement the narrative and film experience. The twist is that it focuses more on the relationship between Dr. Loomis and Michael rather than Laurie and Michael.
+
+  The Hobbit The Battle of the Five Edits:
+    match: 
+      title: 
+        - 
+        - "The Hobbit: The Battle of the Five Edits"
+    title: "The Hobbit: The Battle of the Five Edits"
+    sort_title: "Hobbit: The Battle of the Five Edits"
+    originally_available: 2021-11-01
+    content_rating: R
+    director.sync: Stromboli Bones
+    label: FanFix
+    summary: This edit takes the best elements and ideas from all other Hobbit edits and combined them into one, cutting, rearranging and replicating portions of them in any way that added to the enjoyment of The Hobbit as a piece of visual media.
     
   The Hobbit The Spence Edit:
     match: 
