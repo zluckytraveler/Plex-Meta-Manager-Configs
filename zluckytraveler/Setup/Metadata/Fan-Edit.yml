@@ -1176,6 +1176,19 @@ metadata:
     label: FanFix
     summary: The Godfather, The Godfather Part 2 and 3 are monumental masterpieces. This Godfather Magnum Opus will over two movies restore all available HD material to a total run time of 602 min. A few minutes never seen in HD, making it the longest possible chronological version ever seen and UNCENSORED! PLUS, the original ending of Part 3, which MUST be in full and not truncated as it was in Coda, has been restored (together with the 14 mins removed from Coda).
 
+  Godzilla vs Kong Hollow Earth Edition:
+    match: 
+      title:
+        - 
+        - "Godzilla vs Kong: Hollow Earth Edition"
+    title: "Godzilla vs Kong: Hollow Earth Edition"
+    sort_title: "Godzilla vs Kong: Hollow Earth Edition"
+    originally_available: 2023-09-01
+    content_rating: PG-13
+    director.sync: Bobson Dugnutt
+    label: FanFix
+    summary: The Millie Bobby Brown character was expendable and so was her subplot, as the entire side mission was completely disconnected from the main story. Doing some very simple cuts to remove the sideplot ended up with a much simplier and to-the-point film, focusing on Kong's journey to Hollow Earth and his clash with Godzilla in less than 80 minutes.
+    
   H8teful Reconstructed Hateful 8 Roadshow Version:
     match: 
       title: 
@@ -1350,6 +1363,19 @@ metadata:
     label: FanFix
     summary: The goal of this edit was to try to use this movie to move these characters from the darker Zak Snyder origins, to end with the more positive, classic Justice League heroic archetypes.
 
+  Justice League The Ultimate Edition:
+    match: 
+      title: 
+        - 
+        - "Justice League: The Ultimate Edition"
+    title: "Justice League: The Ultimate Edition"
+    sort_title: "Justice League: The Ultimate Edition"
+    originally_available: 2023-07-01
+    content_rating: PG-13
+    director.sync: Bailey
+    label: FanMix
+    summary: This edit uses Zack Snyder’s Justice League as the base, with scenes from Joss Whedon’s Justice League and some scenes and ideas from Wakeupkeo’s 'Rise of the Motherboxes' to make a slightly extended, but also trimmed version of Zack Snyder's Justice League.
+    
   Kenobi A Star Wars Story:
     match: 
       title: 
@@ -1381,6 +1407,19 @@ metadata:
     label: FanMix
     summary: "A reconstruction of Quentin Tarantino's own cut of Kill Bill: The Whole Bloody Affair that he himself screened at Cannes in 2004, and has since been screened sporadically since 2011 at the Tarantino-owned New Beverly Cinema in Los Angeles."
 
+  King Kong Eighth Wonder of the World:
+    match: 
+      title:
+        - 
+        - "King Kong: Eighth Wonder of the World"
+    title: "King Kong: Eighth Wonder of the World"
+    sort_title: "King Kong: Eighth Wonder of the World"
+    originally_available: 2023-08-01
+    content_rating: PG-13
+    director.sync: Belgarath
+    label: FanFix
+    summary: This is an edit of Peter Jackson's King Kong without most of the silliness. Where things move quicker, but there's still room for a breather.
+    
   Kombat Bloody Kombat:
     match: 
       title:
