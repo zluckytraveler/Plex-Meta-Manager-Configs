@@ -1179,13 +1179,16 @@ metadata:
   Godzilla vs Kong Hollow Earth Edition:
     match: 
       title:
-        - 
+        - "Godzilla vs. Kong: Kong Discovers Hollow Earth"
         - "Godzilla vs Kong: Hollow Earth Edition"
     title: "Godzilla vs Kong: Hollow Earth Edition"
     sort_title: "Godzilla vs Kong: Hollow Earth Edition"
     originally_available: 2023-09-01
     content_rating: PG-13
     director.sync: Bobson Dugnutt
+    producer.remove: Gary Leva
+    genre.remove: Documentary, Short
+    country.remove: United States of America
     label: FanFix
     summary: The Millie Bobby Brown character was expendable and so was her subplot, as the entire side mission was completely disconnected from the main story. Doing some very simple cuts to remove the sideplot ended up with a much simplier and to-the-point film, focusing on Kong's journey to Hollow Earth and his clash with Godzilla in less than 80 minutes.
     
@@ -1366,13 +1369,17 @@ metadata:
   Justice League The Ultimate Edition:
     match: 
       title: 
-        - 
+        - Zack Snyder's Justice League
         - "Justice League: The Ultimate Edition"
     title: "Justice League: The Ultimate Edition"
     sort_title: "Justice League: The Ultimate Edition"
     originally_available: 2023-07-01
     content_rating: PG-13
     director.sync: Bailey
+    producer.remove: Charles Roven, Deborah Snyder
+    writer.remove: Bob Kane, Zack Snyder, Jack Kirby, Jerry Siegel, Joe Shuster
+    genre.remove: Action, Adventur, Fantasy, Science Fiction
+    country.remove: United States of America
     label: FanMix
     summary: This edit uses Zack Snyder’s Justice League as the base, with scenes from Joss Whedon’s Justice League and some scenes and ideas from Wakeupkeo’s 'Rise of the Motherboxes' to make a slightly extended, but also trimmed version of Zack Snyder's Justice League.
     
@@ -1410,13 +1417,16 @@ metadata:
   King Kong Eighth Wonder of the World:
     match: 
       title:
-        - 
+        - "Godzilla vs. Kong: The Evolution of Kong, Eighth Wonder of the World"
         - "King Kong: Eighth Wonder of the World"
     title: "King Kong: Eighth Wonder of the World"
     sort_title: "King Kong: Eighth Wonder of the World"
     originally_available: 2023-08-01
     content_rating: PG-13
     director.sync: Belgarath
+    producer.remove: Gary Leva
+    genre.remove: Documentary, Short
+    country.remove: United States of America
     label: FanFix
     summary: This is an edit of Peter Jackson's King Kong without most of the silliness. Where things move quicker, but there's still room for a breather.
     
