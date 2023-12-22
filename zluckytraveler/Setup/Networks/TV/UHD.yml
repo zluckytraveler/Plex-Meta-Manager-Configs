@@ -124,7 +124,7 @@ collections:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Showtime.png
 
   Starz (UHD):
-    tmdb_network: 318, 758, 5594, 6222, 6292
+    tmdb_network: 318, 758, 6222, 6292
     sort_title: 06-Starz
     collection_order: title.asc
     sync_mode: sync
