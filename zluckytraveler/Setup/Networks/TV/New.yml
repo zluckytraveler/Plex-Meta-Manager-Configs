@@ -227,7 +227,7 @@ collections:
       validate: false
       
   MGM+:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Motor%20Trend.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MGM%2B.png
     sort_title: 06-MGM+
     smart_filter:
       sort_by: title.asc
@@ -273,7 +273,7 @@ collections:
 
   Prime Video:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
-    sort_title: 06-Amazon
+    sort_title: 06-Prime Video
     smart_filter:
       sort_by: title.asc
       any:
