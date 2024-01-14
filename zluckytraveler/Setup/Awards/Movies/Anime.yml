@@ -33,7 +33,7 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     imdb_search:
-      type: movie, tv movie, short
+      type: movie, tv_movie, short
       event.winning: emmy
       sort_by: title.asc
       
