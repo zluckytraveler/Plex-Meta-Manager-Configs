@@ -24,7 +24,7 @@ collections:
     sort_title: 03-Awards Emmy
     collection_order: title.asc
     sync_mode: sync
-     imdb_search:
+    imdb_search:
       type: tv_series, tv_mini_series, tv_special, tv_short
       event.winning: emmy
       sort_by: title.asc
