@@ -36,7 +36,8 @@ collections:
       type: movie, tv_movie, short
       event.winning: emmy
       sort_by: title.asc
-    
+      limit: 3000
+      
   European Film Award Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/European%20Film%20Awards.png
     sort_title: 03-Awards European Film Awards
