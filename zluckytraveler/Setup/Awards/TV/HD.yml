@@ -28,6 +28,7 @@ collections:
       type: tv_series, tv_mini_series, tv_special, tv_short
       event.winning: emmy
       sort_by: title.asc
+      limit: 3000
       
   Golden Globe Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
@@ -41,3 +42,4 @@ collections:
       type: tv_series, tv_mini_series, tv_special, tv_short
       event.winning: golden
       sort_by: title.asc
+      limit: 3000
