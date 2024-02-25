@@ -9,37 +9,68 @@ collections:
     sort_title: 03-Awards BAFTA
     collection_order: title.asc
     sync_mode: sync
-    imdb_list: https://www.imdb.com/list/ls538625886/?sort=alpha
+    imdb_award: 
+      winning: true
+      event_id: ev0000123
+      event_year: 1949-2024
+      award_filter: BAFTA TV Award
+      category_filter: 
+      - Drama Series
+      - International
+      - Mini-Series
+      - Scripted Comedy
+      - Single Documentary
+      - Single Drama
     
   Critics Choice Award Winners (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Critics%20Choice%20Awards.png
     sort_title: 03-Awards Critics Choice Award
     collection_order: title.asc
     sync_mode: sync
-    trakt_list: https://trakt.tv/users/fdamico/lists/critics-choice-series?sort=title,asc
-    imdb_list: https://www.imdb.com/list/ls538625146/?sort=alpha
+    imdb_award: 
+      winning: true
+      event_id: ev0000133
+      event_year: 1996-2024
+      award_filter: Critics Choice Award
+      category_filter: 
+      - Best Comedy Series
+      - Best Drama Series
+      - Best Limited Series
+      - Best Talk Show
+      - Best Animated Series
+      - Best Foreign Language Series
     
   Emmy Winners (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
     sort_title: 03-Awards Emmy
     collection_order: title.asc
     sync_mode: sync
-    imdb_search:
-      type: tv_series, tv_mini_series, tv_special, tv_short
-      event.winning: emmy
-      sort_by: title.asc
-      limit: 3000
+    imdb_award: 
+      winning: true
+      event_id: ev0000223
+      event_year: 1949-2023
+      award_filter: Primetime Emmy
+      category_filter: 
+      - Outstanding Drama Series
+      - Outstanding Comedy Series
+      - Outstanding Limited or Anthology Series
+      - Outstanding Animated Program
+      - Outstanding Documentary or Nonfiction Series
+      - Outstanding Game Show
+      - Outstanding Structured Reality Program
+      - Outstanding Unstructured Reality Program
       
   Golden Globe Winners (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
     sort_title: 03-Awards Golden Globes
     collection_order: title.asc
     sync_mode: sync
-    trakt_list:
-    - https://trakt.tv/users/pd_review/lists/golden-globes-best-tv-drama?sort=title,asc
-    - https://trakt.tv/users/pd_review/lists/golden-globes-best-tv-comedy-musical?sort=title,asc
-    imdb_search:
-      type: tv_series, tv_mini_series, tv_special, tv_short
-      event.winning: golden
-      sort_by: title.asc
-      limit: 3000
+    imdb_award: 
+      winning: true
+      event_id: ev0000292
+      event_year: 1944-2024
+      award_filter: Golden Globe
+      category_filter: 
+      - Best Television Series, Drama
+      - Best Television Series, Musical or Comedy
+      - Best Television Limited Series, Anthology Series, or Motion Picture Made for Television
