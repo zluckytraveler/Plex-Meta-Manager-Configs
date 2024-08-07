@@ -4,7 +4,7 @@
 
 collections:
   A&E:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/A%26E.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/A%26E%202.png
     sort_title: 06-A&E
     smart_filter:
       sort_by: title.asc
@@ -241,7 +241,7 @@ collections:
       visible_home: false
 
   History:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/History.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/History%202.png
     sort_title: 06-History
     smart_filter:
       sort_by: title.asc
