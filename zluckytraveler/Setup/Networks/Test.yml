@@ -19,21 +19,6 @@ collections:
       visible_shared: false
       visible_home: false
 
-  Amazon:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
-    sort_title: 06-Amazon
-    smart_filter:
-      sort_by: title.asc
-      any:
-        network:
-        - Amazon
-        - Amazon Freevee
-        - Prime Video
-      validate: false
-      visible_library: true
-      visible_shared: false
-      visible_home: false
-
   AMC:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/AMC.png
     sort_title: 06-AMC
@@ -220,9 +205,9 @@ collections:
       visible_shared: false
       visible_home: false
 
-  HBO Max:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO%20Max.png
-    sort_title: 06-HBO Max
+  HBO:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO.png
+    sort_title: 06-HBO
     smart_filter:
       sort_by: title.asc
       any:
@@ -236,8 +221,6 @@ collections:
         - HBO Nordic
         - HBO Latin America
         - HBO Go
-        - HBO Max
-        - Max
       validate: false
       visible_library: true
       visible_shared: false
@@ -257,7 +240,7 @@ collections:
       visible_shared: false
       visible_home: false
 
-  History Chanel:
+  History Channel:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/History.png
     sort_title: 06-History Channel
     smart_filter:
@@ -332,8 +315,22 @@ collections:
       visible_shared: false
       visible_home: false
 
+  Max:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Max.png
+    sort_title: 06-Max
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - Max
+        - HBO Max
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
   MGM+:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Epix.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MGM%2B.png
     sort_title: 06-MGM+
     smart_filter:
       sort_by: title.asc
@@ -417,6 +414,21 @@ collections:
       sort_by: title.asc
       any:
         network: Peacock
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Prime Video:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
+    sort_title: 06-Prime Video
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - Amazon
+        - Amazon Freevee
+        - Prime Video
       validate: false
       visible_library: true
       visible_shared: false
