@@ -20,7 +20,7 @@ collections:
       visible_home: false
 
   AMC:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/AMC.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/AMC%202.png
     sort_title: 06-AMC
     smart_filter:
       sort_by: title.asc
@@ -87,7 +87,7 @@ collections:
       visible_home: false
 
   Bravo:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Bravo.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Bravo%202.png
     sort_title: 06-Bravo
     smart_filter:
       sort_by: title.asc
@@ -101,7 +101,7 @@ collections:
       visible_home: false
 
   Channel 4:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%204.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%204%202.png
     sort_title: 06-Channel 4
     smart_filter:
       sort_by: title.asc
@@ -344,7 +344,7 @@ collections:
       visible_home: false
 
   MTV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MTV.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MTV%203.png
     sort_title: 06-MTV
     smart_filter:
       sort_by: title.asc
@@ -485,7 +485,7 @@ collections:
       visible_home: false
 
   Starz:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Starz.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Starz%202.png
     sort_title: 06-Starz
     smart_filter:
       sort_by: title.asc
