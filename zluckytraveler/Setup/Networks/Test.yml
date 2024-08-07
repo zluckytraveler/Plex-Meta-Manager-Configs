@@ -240,9 +240,9 @@ collections:
       visible_shared: false
       visible_home: false
 
-  History Channel:
+  History:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/History.png
-    sort_title: 06-History Channel
+    sort_title: 06-History
     smart_filter:
       sort_by: title.asc
       any:
