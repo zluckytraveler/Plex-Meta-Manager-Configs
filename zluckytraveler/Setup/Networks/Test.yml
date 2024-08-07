@@ -364,7 +364,7 @@ collections:
       visible_home: false
 
   National Geographic:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/National%20Geographic.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/National%20Geographic%202.png
     sort_title: 06-National Geographic
     smart_filter:
       sort_by: title.asc
