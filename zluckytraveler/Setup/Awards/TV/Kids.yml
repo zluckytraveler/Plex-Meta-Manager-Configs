@@ -12,7 +12,7 @@ collections:
     imdb_award: 
       winning: true
       event_id: ev0000123
-      event_year: 1949-2024
+      event_year: all
       award_filter: BAFTA TV Award
       category_filter: 
       - Drama Series
@@ -30,7 +30,7 @@ collections:
     imdb_award: 
       winning: true
       event_id: ev0000133
-      event_year: 1996-2024
+      event_year: all
       award_filter: Critics Choice Award
       category_filter: 
       - Best Comedy Series
@@ -48,7 +48,7 @@ collections:
     imdb_award: 
       winning: true
       event_id: ev0000223
-      event_year: 1949-2023
+      event_year: all
       award_filter: Primetime Emmy
       category_filter: 
       - Outstanding Drama Series
@@ -68,7 +68,7 @@ collections:
     imdb_award: 
       winning: true
       event_id: ev0000292
-      event_year: 1944-2024
+      event_year: all
       award_filter: Golden Globe
       category_filter: 
       - Best Television Series, Drama
