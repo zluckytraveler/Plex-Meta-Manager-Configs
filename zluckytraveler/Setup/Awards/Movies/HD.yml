@@ -25,7 +25,6 @@ collections:
     visible_library: true
     visible_shared: false
     visible_home: false
-      
 
   BAFTA Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
@@ -44,13 +43,6 @@ collections:
       - Best Animated Feature Film
       - Best Documentary
       - Best British Short Film
-    imdb_award: 
-      winning: true
-      event_id: ev0000123
-      event_year: all
-      award_filter: BAFTA Scotland Award
-      category_filter: 
-      - Best Feature Film
     visible_library: true
     visible_shared: false
     visible_home: false
@@ -127,26 +119,6 @@ collections:
       - Filmfare Award
       - Critics' Awards
       category_filter: Best Film
-    imdb_award: 
-      winning: true
-      event_id: ev0005955
-      event_year: all
-      award_filter: 
-      - Filmfare Award
-      - Critics' Awards
-      category_filter: Best Film
-    imdb_award: 
-      winning: true
-      event_id: ev0001531
-      event_year: all
-      award_filter: 
-      - Filmfare Award - Tamil Film Industry
-      - Filmfare Award - Telugu Film Industry
-      - Filmfare Award - Malayalam Film Industry
-      - Filmfare Award - Kannada Film Industry
-      category_filter: 
-      - Best Film
-      - Best Film - Critics
     visible_library: true
     visible_shared: false
     visible_home: false
