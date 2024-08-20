@@ -1,6 +1,6 @@
 collections:
   Academy Award Winners:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Oscar.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Academy%20Award.png
     sort_title: 03-Awards Academy
     collection_order: title.asc
     sync_mode: sync
