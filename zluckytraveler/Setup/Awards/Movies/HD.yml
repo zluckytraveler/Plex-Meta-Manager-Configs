@@ -30,9 +30,9 @@ collections:
     sync_mode: sync
     imdb_award: 
       winning: true
-      event_id: ev0000123
+      event_id: ev0000123, ev0000123
       event_year: all
-      award_filter: BAFTA Film Award
+      award_filter: BAFTA Film Award, BAFTA Scotland Award
       category_filter: 
       - Best Film
       - Outstanding British Film of the Year
@@ -40,12 +40,7 @@ collections:
       - Best Animated Feature Film
       - Best Documentary
       - Best British Short Film
-    imdb_award: 
-      winning: true
-      event_id: ev0000123
-      event_year: all
-      award_filter: BAFTA Scotland Award
-      category_filter: 
+      - Best Feature Film
       - Best Feature Film
 
   Berlinale Winners:
@@ -105,30 +100,16 @@ Filmfare Award Winners:
     sync_mode: sync
     imdb_award: 
       winning: true
-      event_id: ev0000245
+      event_id: ev0000245, ev0005955, ev0001531
       event_year: all
-      award_filter: 
+      award_filter:
       - Filmfare Award
       - Critics' Awards
-      category_filter: Best Film
-    imdb_award: 
-      winning: true
-      event_id: ev0005955
-      event_year: all
-      award_filter: 
-      - Filmfare Award
-      - Critics' Awards
-      category_filter: Best Film
-    imdb_award: 
-      winning: true
-      event_id: ev0001531
-      event_year: all
-      award_filter: 
       - Filmfare Award - Tamil Film Industry
       - Filmfare Award - Telugu Film Industry
       - Filmfare Award - Malayalam Film Industry
       - Filmfare Award - Kannada Film Industry
-      category_filter: 
+      category_filter:
       - Best Film
       - Best Film - Critics
 
@@ -159,7 +140,7 @@ Filmfare Award Winners:
       event_year: all
       award_filter: Golden Leopard
       category_filter: Best Film
-     
+
   Sundance Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Sundance.png
     sort_title: 03-Awards Sundance
