@@ -12,6 +12,8 @@ collections:
       all:
         added: 30
     visible_library: true
+    visible_shared: false
+    visible_home: false
         
   Recently Released:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Recently/Recently%20Released.png
@@ -21,6 +23,8 @@ collections:
       all:
         release: 60
     visible_library: true
+    visible_shared: false
+    visible_home: false
         
   Recently Aired:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Recently/Recently%20Aired.png
@@ -31,3 +35,5 @@ collections:
       all:
         episode_air_date: 14
     visible_library: true
+    visible_shared: false
+    visible_home: false
