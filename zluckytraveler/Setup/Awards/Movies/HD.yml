@@ -87,25 +87,6 @@ collections:
     visible_shared: false
     visible_home: false
 
-  European Film Award Winners:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/European%20Film%20Awards.png
-    sort_title: 03-Awards European
-    collection_order: title.asc
-    sync_mode: sync
-    imdb_award: 
-      winning: true
-      event_id: ev0000230
-      event_year: all
-      award_filter: European Film Award
-      category_filter: 
-      - European Animated Feature Film
-      - European Documentary
-      - European Film
-      - European Short Film
-    visible_library: true
-    visible_shared: false
-    visible_home: false
-
   Filmfare Award Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Filmfare.png
     sort_title: 03-Awards Filmfare
