@@ -1,9 +1,9 @@
 ######################################################
-#                      NETWORKS                      #
+#                NETWORKS - TV (UHD)                 #
 ######################################################
 
 collections:
-  A&E:
+  A&E (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/A%26E%202.png
     sort_title: 06-A&E
     smart_filter:
@@ -15,11 +15,11 @@ collections:
         - A+E Networks UK
       validate: false
       sync_mode: append
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  AMC:
+  AMC (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/AMC%202.png
     sort_title: 06-AMC
     smart_filter:
@@ -30,11 +30,11 @@ collections:
         - AMC+
         - AMC.com
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  Apple TV+:
+  Apple TV+ (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Apple%20TV.png
     sort_title: 06-Apple TV+
     smart_filter: 
@@ -44,11 +44,11 @@ collections:
         - Apple TV+
         - Apple Music
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  BBC:
+  BBC (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/BBC.png
     sort_title: 06-BBC
     smart_filter:
@@ -82,11 +82,11 @@ collections:
         - BBC Three
         - BBC Four
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  Bravo:
+  Bravo (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Bravo%202.png
     sort_title: 06-Bravo
     smart_filter:
@@ -96,11 +96,11 @@ collections:
         - bravo
         - Bravo
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  Channel 4:
+  Channel 4 (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%204%202.png
     sort_title: 06-Channel 4
     smart_filter:
@@ -115,11 +115,11 @@ collections:
         - E4 Extra
         - 4seven
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  Channel 5:
+  Channel 5 (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%205.png
     sort_title: 06-Channel 5
     smart_filter:
@@ -129,11 +129,11 @@ collections:
         - Channel 5
         - Channel 5 (UK)
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  Discovery+:
+  Discovery+ (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Discovery%2B.png
     sort_title: 06-Discovery+
     smart_filter:
@@ -161,11 +161,11 @@ collections:
         - Discovery+ (NO)
         - Discovery Networks International
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  Disney+:
+  Disney+ (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%2B.png
     sort_title: 06-Disney+
     smart_filter:
@@ -175,11 +175,11 @@ collections:
         - Disney+
         - Disney+ Hotstar
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  Food Network:
+  Food Network (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Food%20Network.png
     sort_title: 06-Food Network
     smart_filter:
@@ -187,11 +187,11 @@ collections:
       any:
         network: Food Network
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  FX:
+  FX (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/FX.png
     sort_title: 06-FX
     smart_filter:
@@ -201,11 +201,11 @@ collections:
         - FX
         - FXX
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  HBO:
+  HBO (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO.png
     sort_title: 06-HBO
     smart_filter:
@@ -222,11 +222,11 @@ collections:
         - HBO Latin America
         - HBO Go
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  HGTV:
+  HGTV (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HGTV.png
     sort_title: 06-HGTV
     smart_filter:
@@ -236,11 +236,11 @@ collections:
         - HGTV
         - HGTV Canada
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  History:
+  History (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/History%202.png
     sort_title: 06-History
     smart_filter:
@@ -250,11 +250,11 @@ collections:
         - History
         - History Canada
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  Hulu:
+  Hulu (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Hulu.png
     sort_title: 06-Hulu
     smart_filter:
@@ -262,11 +262,11 @@ collections:
       any:
         network: Hulu
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  Investigation Discovery:
+  Investigation Discovery (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Investigation%20Discovery.png
     sort_title: 06-Investigation Discovery
     smart_filter:
@@ -274,11 +274,11 @@ collections:
       any:
         network: Investigation Discovery
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  ITV:
+  ITV (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ITV.png
     sort_title: 06-ITV
     smart_filter:
@@ -298,11 +298,11 @@ collections:
         - ITVX
         - STV
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  MasterClass:
+  MasterClass (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MasterClass.png
     sort_title: 06-MasterClass
     smart_filter:
@@ -311,11 +311,11 @@ collections:
         title: "MasterClass:"
         network: MasterClass
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  Max:
+  Max (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Max.png
     sort_title: 06-Max
     smart_filter:
@@ -325,11 +325,11 @@ collections:
         - Max
         - HBO Max
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  MGM+:
+  MGM+ (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MGM%2B.png
     sort_title: 06-MGM+
     smart_filter:
@@ -339,11 +339,11 @@ collections:
         - MGM+
         - Epix
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  MTV:
+  MTV (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MTV%203.png
     sort_title: 06-MTV
     smart_filter:
@@ -359,11 +359,11 @@ collections:
         - MTV Lebanon
         - MTV2
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  National Geographic:
+  National Geographic (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/National%20Geographic%202.png
     sort_title: 06-National Geographic
     smart_filter:
@@ -376,11 +376,11 @@ collections:
         - "National Geographic: Latinoamérica"
         - Nat Geo Wild
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  Netflix:
+  Netflix (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Netflix.png
     sort_title: 06-Netflix
     smart_filter:
@@ -388,11 +388,11 @@ collections:
       any:
         network: Netflix
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  Paramount+:
+  Paramount+ (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Paramount.png
     sort_title: 06-Paramount+
     smart_filter:
@@ -403,11 +403,11 @@ collections:
         - Paramount Network
         - CBS All Access
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  Peacock:
+  Peacock (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Peacock.png
     sort_title: 06-Peacock
     smart_filter:
@@ -415,11 +415,11 @@ collections:
       any:
         network: Peacock
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  Prime Video:
+  Prime Video (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
     sort_title: 06-Prime Video
     smart_filter:
@@ -430,11 +430,11 @@ collections:
         - Amazon Freevee
         - Prime Video
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  Showtime:
+  Showtime (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Showtime.png
     sort_title: 06-Showtime
     smart_filter:
@@ -442,11 +442,11 @@ collections:
       any:
         network: Showtime
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  Sky:
+  Sky (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Sky.png
     sort_title: 06-Sky
     smart_filter:
@@ -480,11 +480,11 @@ collections:
         - Sky TWo
         - Sky Witness
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  Starz:
+  Starz (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Starz%202.png
     sort_title: 06-Starz
     smart_filter:
@@ -494,11 +494,11 @@ collections:
         - Starz
         - Starzplay
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  SyFy:
+  SyFy (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/SYFY.png
     sort_title: 06-SyFy
     smart_filter:
@@ -506,11 +506,11 @@ collections:
       any:
         network: Syfy
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  TLC:
+  TLC (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TLC.png
     sort_title: 06-TLC
     smart_filter:
@@ -521,11 +521,11 @@ collections:
         - TLC Go
         - TLC UK
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
-  Vice:
+  Vice (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Vice.png
     sort_title: 06-Vice
     smart_filter:
@@ -540,6 +540,6 @@ collections:
         - Viceland (US)
         - Vice on TV (US)
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
