@@ -10,7 +10,6 @@ collections:
       all:
         label: Regrade
     sort_title: 08-Regrade
-    visible_library: true
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Regrade.png
     summary: These films have never been officially released in 4K, HDR, or Dolby Vision. They have been professionally upscaled and color corrected with high dynamic range metadata added. The quality of these are superior to the official 1080p releases, and is why they were added as a Fan Edit.
     visible_library: true
@@ -23,7 +22,6 @@ collections:
       all:
         label: FanFix
     sort_title: 08-Fan Fix
-    visible_library: true
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Fan%20Fix.png
     summary: When an editor typically attempts clean-up or otherwise modify the original film to make it a more enjoyable viewing experience. Quite often this entails adding and/or removing portions of the film, reordering scenes, and in general addressing aspects of story and/or character that detract from the movie. Overall it is intended to polish the film, often removing contrivances added by the studio or filmmakers which interfere with the story.
     visible_library: true
@@ -36,7 +34,6 @@ collections:
       all:
         label: FanMix
     sort_title: 08-Fan Mix
-    visible_library: true
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Fan%20Mix.png
     summary: When an editor mixes two or more films together, modifying a story so drastically, to make it a new and unique film experience. Entire sub-plots, characters, and character motivations can be changed creating a completely new ending.
     visible_library: true
@@ -49,7 +46,6 @@ collections:
       all:
         label: Extended
     sort_title: 08-Extended
-    visible_library: true
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Extended.png
     summary: Extended edits attempt to create the fullest version of a film possible, using deleted scenes. Similar to the concept of a Directors Cut, an Extended edit looks to present all possible material available as an integrated film-going experience.
     visible_library: true
@@ -62,7 +58,6 @@ collections:
       all:
         label: Special
     sort_title: 08-Special
-    visible_library: true
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/Special.png
     summary: Projects where an editor infuses personal creative choices to modify the viewing experience, yet are not significantly different from the original. The main purpose is to make minor changes to a film that do not affect the story or plot drastically, but to only change the atmosphere creating a unique viewing experience.
     visible_library: true
@@ -75,7 +70,6 @@ collections:
       all:
         label: TV to Movie
     sort_title: 08-TV to Movie
-    visible_library: true
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Fan-Edit/TV%20to%20MOVIE.png
     summary: With a TV to Movie edit, the editor is combining multiple episodes of a television show to create an all-in-one feature film. They may modify the series to make it a more enjoyable viewing experience. Quite often this entails, adding and/or removing scenes or episodes, and reordering the episodes.
     visible_library: true
