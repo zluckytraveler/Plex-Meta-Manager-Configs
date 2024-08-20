@@ -13,6 +13,8 @@ collections:
         added: 7
         title.not: Small Time Crooks
     visible_library: true
+    visible_shared: false
+    visible_home: false
         
   Recently Released:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Recently/Recently%20Released.png
@@ -22,3 +24,5 @@ collections:
       all:
         release: 30
     visible_library: true
+    visible_shared: false
+    visible_home: false
