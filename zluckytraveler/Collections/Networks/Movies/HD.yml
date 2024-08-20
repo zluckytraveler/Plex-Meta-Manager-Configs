@@ -22,7 +22,7 @@ collections:
     sync_mode: sync
     letterboxd_list: 
     - https://letterboxd.com/bzeltzer/list/list-of-apple-tv-original-programming/by/name/
-    -  https://letterboxd.com/theflarkone/list/apple-tv-originals/by/name/
+    - https://letterboxd.com/theflarkone/list/apple-tv-originals/by/name/
     
   Disney+ Original:
     schedule: monthly(1)
@@ -32,7 +32,7 @@ collections:
     sync_mode: sync
     letterboxd_list: 
     - https://letterboxd.com/theflarkone/list/disney-originals/by/name/
-    -  https://letterboxd.com/bzeltzer/list/list-of-disney-original-films/by/name/
+    - https://letterboxd.com/bzeltzer/list/list-of-disney-original-films/by/name/
     
   HBO Original:
     schedule: monthly(1)
