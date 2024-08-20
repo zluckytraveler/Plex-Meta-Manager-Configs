@@ -15,3 +15,5 @@ collections:
       limit: 500
     limit: 50
     visible_library: true
+    visible_shared: false
+    visible_home: false
