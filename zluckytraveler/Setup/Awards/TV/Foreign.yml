@@ -21,6 +21,9 @@ collections:
       - Scripted Comedy
       - Single Documentary
       - Single Drama
+    visible_library: true
+    visible_shared: false
+    visible_home: false
     
   Critics Choice Award Winners (Foreign):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Critics%20Choice%20Awards.png
@@ -39,6 +42,9 @@ collections:
       - Best Talk Show
       - Best Animated Series
       - Best Foreign Language Series
+    visible_library: true
+    visible_shared: false
+    visible_home: false
     
   Emmy Winners (Foreign):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
@@ -59,6 +65,9 @@ collections:
       - Outstanding Game Show
       - Outstanding Structured Reality Program
       - Outstanding Unstructured Reality Program
+    visible_library: true
+    visible_shared: false
+    visible_home: false
       
   Golden Globe Winners (Foreign):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
@@ -74,3 +83,6 @@ collections:
       - Best Television Series, Drama
       - Best Television Series, Musical or Comedy
       - Best Television Limited Series, Anthology Series, or Motion Picture Made for Television
+    visible_library: true
+    visible_shared: false
+    visible_home: false
