@@ -1,12 +1,12 @@
 ######################################################
-#                 POPULAR - HD MOVIES                #
+#               POPULAR - MOVIES (HD)                #
 ######################################################
 
 
 collections:
   Popular Movies:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Movies.png
-    sort_title: 01-Popular Movies
+    sort_title: 01-Popular
     collection_order: custom
     sync_mode: sync
     mdblist_list: 
