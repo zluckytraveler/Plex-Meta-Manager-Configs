@@ -12,6 +12,9 @@ collections:
       any:
         studio.is: A-1 Pictures
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Adult Swim:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Adult%20Swim.png
@@ -22,6 +25,9 @@ collections:
         studio.is: Adult Swim
         network: Adult Swim
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Amazon:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
@@ -32,6 +38,9 @@ collections:
         studio.is: Amazon Prime Video
         network: Amazon
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   AT-X:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/AT-X.png
@@ -42,6 +51,9 @@ collections:
         studio.is: AT-X
         network: AT-X
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Brains Base:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Brains%20Base.png
@@ -53,6 +65,9 @@ collections:
         - Brain's Base
         - Brain`s Base 
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Diomedea:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Diomedea.png
@@ -62,6 +77,9 @@ collections:
       any:
         studio.is: Diomedea
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Fuji TV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Fuji%20TV.png
@@ -74,6 +92,9 @@ collections:
         - Fuji TV
         network: Fuji TV
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Gainax:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Gainax.png
@@ -83,6 +104,9 @@ collections:
       any:
         studio.is: Gainax
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Gonzo:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Gonzo.png
@@ -92,6 +116,9 @@ collections:
       any:
         studio: Gonzo
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   J.C.Staff:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/J.C.%20Staff.png
@@ -101,6 +128,9 @@ collections:
       any:
         studio.is: J.C.Staff
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Kyoto Animation:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Kyoto%20Animation.png
@@ -110,6 +140,9 @@ collections:
       any:
         studio.is: Kyoto Animation
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Madhouse:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Madhouse.png
@@ -119,6 +152,9 @@ collections:
       any:
         studio.is: Madhouse
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   MAPPA:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/MAPPA.png
@@ -128,6 +164,9 @@ collections:
       any:
         studio.is: MAPPA
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   MBS:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/MBS.png
@@ -137,6 +176,9 @@ collections:
       any:
         studio.is: MBS
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Netflix:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Netflix.png
@@ -147,6 +189,9 @@ collections:
         studio.is: Netflix
         network: Netflix
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   NHK:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/NHK.png
@@ -157,6 +202,9 @@ collections:
         studio: NHK
         network: NHK
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Nippon TV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Nippon%20TV.png
@@ -167,6 +215,9 @@ collections:
         studio: Nippon TV
         network: Nippon TV
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   P.A. Works:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/P.A.%20Works.png
@@ -176,6 +227,9 @@ collections:
       any:
         studio.is: P.A. Works
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Pierrot:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Pierrot.png
@@ -187,6 +241,9 @@ collections:
         - Studio Pierrot
         - Pierrot
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Production I.G:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/I.G.%20Productions.png
@@ -196,6 +253,9 @@ collections:
       any:
         studio.is: Production I.G
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Shaft:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Shaft.png
@@ -207,6 +267,9 @@ collections:
         - Shaft
         - SHAFT
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Studio Deen:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Studio%20DEEN.png
@@ -216,6 +279,9 @@ collections:
       any:
         studio.is: Studio Deen
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Studio Ghibli:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Studio%20Ghibli.png
@@ -225,6 +291,9 @@ collections:
       any:
         studio.is: Studio Ghibli
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Sunrise Animation:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Sunrise%20Animation.png
@@ -236,6 +305,9 @@ collections:
         - Sunrise
         - SUNRISE
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Toei Animation:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Toei%20Animation.png
@@ -245,6 +317,9 @@ collections:
       any:
         studio: Toei
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Tokyo Broadcasting System:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Tokyo%20Broadcasting%20System.png
@@ -257,6 +332,9 @@ collections:
         - Tokyo Broadcasting System
         - TBS
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Tokyo MX:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Tokyo%20MX.png
@@ -267,6 +345,9 @@ collections:
         studio: Tokyo MX
         network: Tokyo MX
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   TV Asahi:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/TV%20Asahi.png
@@ -276,6 +357,9 @@ collections:
       any:
         studio: TV Asahi
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   TV Tokyo:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/TV%20Tokyo.png
@@ -286,6 +370,9 @@ collections:
         studio: TV Tokyo
         network: TV Tokyo
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Ufotable:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/UFO%20Table.png
@@ -296,7 +383,10 @@ collections:
         studio.is: 
         - Ufotable
         - ufotable
-      validate: false 
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false 
       
   White Fox Studios:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/White%20Fox.png
@@ -306,6 +396,9 @@ collections:
       any:
         studio.is: White Fox
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Wit Studio:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/WIT%20Studio.png
@@ -315,6 +408,9 @@ collections:
       any:
         studio.is: Wit Studio
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Youtube:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Youtube.png
@@ -325,3 +421,6 @@ collections:
         studio.is: Youtube
         network: Youtube
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
