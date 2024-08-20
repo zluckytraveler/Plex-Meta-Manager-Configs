@@ -1,5 +1,5 @@
 ######################################################
-#                   AWARDS -  MOVIES                 #
+#              AWARDS - MOVIES (ANIME)               #
 ######################################################
 
 
@@ -35,7 +35,7 @@ collections:
       - Best Documentary, Short Subjects
       - Best Short Film, Live Action
       - Best Documentary, Features
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
 
@@ -66,7 +66,7 @@ collections:
       - Best Short Fictional Film
       - Best British Film
       - Best Film from any Source
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
 
@@ -101,7 +101,7 @@ collections:
       - Best Documentary
       - Best Drama
       - Best Musical
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
 
@@ -121,7 +121,7 @@ collections:
       - Palme d'Or - Best Short Film
       - Grand Prize of the Jury
       - Jury Special Prize
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
 
@@ -152,7 +152,7 @@ collections:
       - Best Family Film
       - Best Feature Documentary
       - Best Documentary
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
 
@@ -171,7 +171,7 @@ collections:
       category_filter: 
       - Best Film
       - Best Film - Critics
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
 
@@ -205,7 +205,7 @@ collections:
       - Best Motion Picture - Comedy
       - Best Motion Picture - Musical
       - Best Picture
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
 
@@ -234,7 +234,7 @@ collections:
       - Non-Fiction
       - U.S. Fiction
       - Fiction
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
 
@@ -249,6 +249,6 @@ collections:
       event_year: all
       award_filter: 
       - Golden Lion
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
