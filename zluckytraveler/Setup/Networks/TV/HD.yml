@@ -15,7 +15,7 @@ collections:
         - A+E Networks UK
       validate: false
       sync_mode: append
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -30,7 +30,7 @@ collections:
         - AMC+
         - AMC.com
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -44,7 +44,7 @@ collections:
         - Apple TV+
         - Apple Music
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -82,7 +82,7 @@ collections:
         - BBC Three
         - BBC Four
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -96,7 +96,7 @@ collections:
         - bravo
         - Bravo
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -115,7 +115,7 @@ collections:
         - E4 Extra
         - 4seven
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -129,7 +129,7 @@ collections:
         - Channel 5
         - Channel 5 (UK)
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -161,7 +161,7 @@ collections:
         - Discovery+ (NO)
         - Discovery Networks International
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -175,7 +175,7 @@ collections:
         - Disney+
         - Disney+ Hotstar
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -187,7 +187,7 @@ collections:
       any:
         network: Food Network
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -201,7 +201,7 @@ collections:
         - FX
         - FXX
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -222,7 +222,7 @@ collections:
         - HBO Latin America
         - HBO Go
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -236,7 +236,7 @@ collections:
         - HGTV
         - HGTV Canada
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -250,7 +250,7 @@ collections:
         - History
         - History Canada
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -262,7 +262,7 @@ collections:
       any:
         network: Hulu
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -274,7 +274,7 @@ collections:
       any:
         network: Investigation Discovery
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -298,7 +298,7 @@ collections:
         - ITVX
         - STV
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -311,7 +311,7 @@ collections:
         title: "MasterClass:"
         network: MasterClass
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -325,7 +325,7 @@ collections:
         - Max
         - HBO Max
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -339,7 +339,7 @@ collections:
         - MGM+
         - Epix
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -359,7 +359,7 @@ collections:
         - MTV Lebanon
         - MTV2
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -376,7 +376,7 @@ collections:
         - "National Geographic: Latinoamérica"
         - Nat Geo Wild
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -388,7 +388,7 @@ collections:
       any:
         network: Netflix
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -403,7 +403,7 @@ collections:
         - Paramount Network
         - CBS All Access
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -415,7 +415,7 @@ collections:
       any:
         network: Peacock
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -430,7 +430,7 @@ collections:
         - Amazon Freevee
         - Prime Video
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -442,7 +442,7 @@ collections:
       any:
         network: Showtime
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -480,7 +480,7 @@ collections:
         - Sky TWo
         - Sky Witness
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -494,7 +494,7 @@ collections:
         - Starz
         - Starzplay
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -506,7 +506,7 @@ collections:
       any:
         network: Syfy
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -521,7 +521,7 @@ collections:
         - TLC Go
         - TLC UK
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
 
@@ -540,6 +540,6 @@ collections:
         - Viceland (US)
         - Vice on TV (US)
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
