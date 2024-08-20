@@ -7,7 +7,7 @@ collections:
   BAFTA Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
     sort_title: 03-Awards BAFTA
-    collection_order: title.asc
+    collection_order: year.desc
     sync_mode: sync
     imdb_award: 
       winning: true
@@ -37,7 +37,7 @@ collections:
   Critics Choice Award Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Critics%20Choice%20Awards.png
     sort_title: 03-Awards Critics Choice Award
-    collection_order: title.asc
+    collection_order: year.desc
     sync_mode: sync
     imdb_award: 
       winning: true
@@ -57,7 +57,7 @@ collections:
   Emmy Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
     sort_title: 03-Awards Emmy
-    collection_order: title.asc
+    collection_order: year.desc
     sync_mode: sync
     imdb_award: 
       winning: true
@@ -91,7 +91,7 @@ collections:
   Golden Globe Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
     sort_title: 03-Awards Golden Globes
-    collection_order: title.asc
+    collection_order: year.desc
     sync_mode: sync
     imdb_award: 
       winning: true
