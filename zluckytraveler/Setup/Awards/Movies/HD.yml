@@ -44,7 +44,7 @@ collections:
       - Best British Short Film
       - Best Feature Film
       - Best Feature Film
-  visible_library: true
+    visible_library: true
     visible_shared: false
     visible_home: false
 
