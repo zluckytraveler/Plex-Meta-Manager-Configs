@@ -1,5 +1,5 @@
 ######################################################
-#                     AWARDS - TV                    #
+#                  AWARDS - TV (DV)                  #
 ######################################################
 
 
@@ -30,7 +30,7 @@ collections:
       - Best Comedy Series
       - Best Drama Series/Serial
       - Best Documentary Programme
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
     
@@ -50,7 +50,7 @@ collections:
       - Best Limited Series
       - Best Animated Series
       - Best Foreign Language Series
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
     
@@ -84,7 +84,7 @@ collections:
       - Best Situation Comedy Series
       - Best Western or Adventure Series
       - Most Popular Television Program
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
       
@@ -110,6 +110,6 @@ collections:
       - Best Motion Picture Made for Television
       - Best TV Show - Comedy or Musical
       - Best TV Show - Drama
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
