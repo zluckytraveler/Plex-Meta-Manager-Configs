@@ -1,5 +1,5 @@
 ######################################################
-#             TRENDING - ANIME TV SHOWS              #
+#               TRENDING - TV (ANIME)                #
 ######################################################
 
 
@@ -9,7 +9,7 @@ collections:
     sort_title: 01-Trending
     collection_order: custom
     sync_mode: sync
-    anilist_trending: 1000
+    tmdb_trending_daily: 3000
     limit: 50
     visible_library: true
     visible_shared: false
