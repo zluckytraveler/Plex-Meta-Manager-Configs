@@ -21,10 +21,19 @@ collections:
       - Scripted Comedy
       - Single Documentary
       - Single Drama
+      - Best Comedy (Programme or Series)
+      - Best Drama Series
+      - Best International
+      - Best Single Drama
+      - Best Situation Comedy
+      - Best Single Documentary
+      - Best Comedy Series
+      - Best Drama Series/Serial
+      - Best Documentary Programme
     visible_library: true
     visible_shared: false
     visible_home: false
-
+    
   Critics Choice Award Winners (Anime):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Critics%20Choice%20Awards.png
     sort_title: 03-Awards Critics Choice Award
@@ -39,7 +48,6 @@ collections:
       - Best Comedy Series
       - Best Drama Series
       - Best Limited Series
-      - Best Talk Show
       - Best Animated Series
       - Best Foreign Language Series
     visible_library: true
@@ -62,13 +70,24 @@ collections:
       - Outstanding Limited or Anthology Series
       - Outstanding Animated Program
       - Outstanding Documentary or Nonfiction Series
-      - Outstanding Game Show
-      - Outstanding Structured Reality Program
-      - Outstanding Unstructured Reality Program
+      - Outstanding Television Movie
+      - Outstanding Children's Program
+      - Outstanding Made for Television Movie
+      - Outstanding Miniseries
+      - Outstanding Dramatic Series
+      - Outstanding Dramatic Program
+      - Outstanding New Series
+      - Outstanding Program Achievement in the Field of Drama
+      - Outstanding Program Achievement in the Field of Humor
+      - Best Daytime Program
+      - Best Mystery or Intrigue Series
+      - Best Situation Comedy Series
+      - Best Western or Adventure Series
+      - Most Popular Television Program
     visible_library: true
     visible_shared: false
     visible_home: false
-    
+      
   Golden Globe Winners (Anime):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
     sort_title: 03-Awards Golden Globes
@@ -83,6 +102,14 @@ collections:
       - Best Television Series, Drama
       - Best Television Series, Musical or Comedy
       - Best Television Limited Series, Anthology Series, or Motion Picture Made for Television
+      - Best Television Series - Drama
+      - Best Television Series - Musical or Comedy
+      - Best Television Limited Series or Motion Picture Made for Television
+      - Best Television Series - Comedy or Musical
+      - Best Miniseries or Motion Picture Made for Television
+      - Best Motion Picture Made for Television
+      - Best TV Show - Comedy or Musical
+      - Best TV Show - Drama
     visible_library: true
     visible_shared: false
     visible_home: false
