@@ -1,0 +1,545 @@
+######################################################
+#                      NETWORKS                      #
+######################################################
+
+collections:
+  A&E:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/A%26E%202.png
+    sort_title: 06-A&E
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - A&E
+        - Planète+ A&E
+        - A+E Networks UK
+      validate: false
+      sync_mode: append
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  AMC:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/AMC%202.png
+    sort_title: 06-AMC
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - AMC
+        - AMC+
+        - AMC.com
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Apple TV+:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Apple%20TV.png
+    sort_title: 06-Apple TV+
+    smart_filter: 
+      sort_by: title.asc
+      any:
+        network:
+        - Apple TV+
+        - Apple Music
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  BBC:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/BBC.png
+    sort_title: 06-BBC
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - BBC
+        - BBC HD
+        - BBC News
+        - BBC Alba
+        - BBC UKTV
+        - BBC First
+        - BBC Choice
+        - BBC America
+        - BBC iPlayer
+        - BBC Television
+        - BBC Parliament
+        - CBBC
+        - BBC Kids
+        - CBeebies
+        - BBC Scotland
+        - BBC Northern Ireland
+        - BBC One
+        - BBC One Wale
+        - BBC One Scotland
+        - BBC One Northern Ireland
+        - BBC Two
+        - BBC Two Wales
+        - BBC Two Scotland
+        - BBC Two Northern Ireland
+        - BBC Three
+        - BBC Four
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Bravo:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Bravo%202.png
+    sort_title: 06-Bravo
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - bravo
+        - Bravo
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Channel 4:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%204%202.png
+    sort_title: 06-Channel 4
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - Channel 4
+        - Channel 4 (Online)
+        - More4
+        - Film4
+        - E4
+        - E4 Extra
+        - 4seven
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Channel 5:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%205.png
+    sort_title: 06-Channel 5
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: 
+        - Channel 5
+        - Channel 5 (UK)
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Discovery+:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Discovery%2B.png
+    sort_title: 06-Discovery+
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - Discovery
+        - Discovery Channel
+        - "Discovery Channel"
+        - Discovery Channel (AU)
+        - Discovery Channel (CA)
+        - Discovery Channel (UK)
+        - Discovery UK
+        - Discovery Health Channel
+        - Discovery Family
+        - Discovery Kids
+        - Discovery Life
+        - Discovery Real Time
+        - Discovery Turbo
+        - Discovery World
+        - discovery+
+        - Discovery+
+        - "Discovery+ "
+        - Discovery+ (UK)
+        - Discovery+ (NO)
+        - Discovery Networks International
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Disney+:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%2B.png
+    sort_title: 06-Disney+
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - Disney+
+        - Disney+ Hotstar
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Food Network:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Food%20Network.png
+    sort_title: 06-Food Network
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Food Network
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  FX:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/FX.png
+    sort_title: 06-FX
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - FX
+        - FXX
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  HBO:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO.png
+    sort_title: 06-HBO
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - HBO
+        - HBO Asia
+        - HBO Brazil
+        - HBO Canada
+        - HBO España
+        - HBO Europe
+        - HBO Nordic
+        - HBO Latin America
+        - HBO Go
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  HGTV:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HGTV.png
+    sort_title: 06-HGTV
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - HGTV
+        - HGTV Canada
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  History:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/History%202.png
+    sort_title: 06-History
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - History
+        - History Canada
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Hulu:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Hulu.png
+    sort_title: 06-Hulu
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Hulu
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Investigation Discovery:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Investigation%20Discovery.png
+    sort_title: 06-Investigation Discovery
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Investigation Discovery
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  ITV:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ITV.png
+    sort_title: 06-ITV
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - CITV
+        - ITV Play
+        - ITV Select
+        - ITV Encore
+        - ITV Studios
+        - ITV1
+        - ITV2
+        - ITV3
+        - ITV4
+        - ITVBe
+        - ITVX
+        - STV
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  MasterClass:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MasterClass.png
+    sort_title: 06-MasterClass
+    smart_filter:
+      sort_by: title.asc
+      any:
+        title: "MasterClass:"
+        network: MasterClass
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Max:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Max.png
+    sort_title: 06-Max
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - Max
+        - HBO Max
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  MGM+:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MGM%2B.png
+    sort_title: 06-MGM+
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - MGM+
+        - Epix
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  MTV:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MTV%203.png
+    sort_title: 06-MTV
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - MTV
+        - MTV (UK)
+        - MTV Canada
+        - MTV France
+        - MTV Global
+        - MTV Latin America
+        - MTV Lebanon
+        - MTV2
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  National Geographic:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/National%20Geographic%202.png
+    sort_title: 06-National Geographic
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - National Geographic
+        - National Geographic Channel
+        - National Geographic Wild
+        - "National Geographic: Latinoamérica"
+        - Nat Geo Wild
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Netflix:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Netflix.png
+    sort_title: 06-Netflix
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Netflix
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Paramount+:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Paramount.png
+    sort_title: 06-Paramount+
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - Paramount+
+        - Paramount Network
+        - CBS All Access
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Peacock:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Peacock.png
+    sort_title: 06-Peacock
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Peacock
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Prime Video:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
+    sort_title: 06-Prime Video
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - Amazon
+        - Amazon Freevee
+        - Prime Video
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Showtime:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Showtime.png
+    sort_title: 06-Showtime
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Showtime
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Sky:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Sky.png
+    sort_title: 06-Sky
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - Sky
+        - Sky Arts
+        - Sky Atlantic
+        - "Sky Atlantic "
+        - Sky Cinema
+        - Sky Comedy
+        - Sky Crime
+        - Sky Crime (UK)
+        - Sky Documentaries
+        - Sky History
+        - Sky History 2
+        - Sky Kids
+        - Sky Living
+        - Sky Max
+        - Sky Mix
+        - Sky Nature
+        - Sky News
+        - Sky News Arabia
+        - Sky One
+        - Sky Replay
+        - Sky Sci-Fi
+        - Sky Showcase
+        - Sky Sports
+        - Sky Sports F1
+        - Sky TWo
+        - Sky Witness
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Starz:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Starz%202.png
+    sort_title: 06-Starz
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - Starz
+        - Starzplay
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  SyFy:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/SYFY.png
+    sort_title: 06-SyFy
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Syfy
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  TLC:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TLC.png
+    sort_title: 06-TLC
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - TLC
+        - TLC Go
+        - TLC UK
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
+  Vice:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Vice.png
+    sort_title: 06-Vice
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - Vice TV
+        - Vice TV (US)
+        - Viceland
+        - Viceland (CA)
+        - Viceland (UK)
+        - Viceland (US)
+        - Vice on TV (US)
+      validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
