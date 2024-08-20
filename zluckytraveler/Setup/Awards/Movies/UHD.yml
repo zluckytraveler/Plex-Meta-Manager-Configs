@@ -3,93 +3,252 @@
 ######################################################
 
 
-collections:    
+collections:
+  Academy Award Winners (UHD):
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Academy%20Award.png
+    sort_title: 03-Awards Academy
+    collection_order: title.asc
+    sync_mode: sync
+    imdb_award: 
+      winning: true
+      event_id: ev0000003
+      event_year: all
+      award_filter: Oscar
+      category_filter: 
+      - Best Motion Picture of the Year
+      - Best Documentary Feature
+      - Best Animated Feature Film
+      - Best Animated Short Film
+      - Best Live Action Short Film
+      - Best Documentary Short Film
+      - Best International Feature Film
+      - Best Short Film, Animated
+      - Best Short Film, Live Action
+      - Best Documentary, Short Subject
+      - Best Documentary, Feature
+      - Best Animated Feature Film of the Year
+      - Best Foreign Language Film of the Year
+      - Best Picture
+      - Best Foreign Language Film
+      - Best Animated Feature
+      - Best Documentary, Features
+      - Best Documentary, Short Subjects
+      - Best Short Film, Live Action
+      - Best Documentary, Features
+    visible_library: true
+    visible_shared: false
+    visible_home: false
+
   BAFTA Winners (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
     sort_title: 03-Awards BAFTA
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: https://letterboxd.com/rantonucci/list/baftas-best-film-outstanding-british-film/by/name/
-    
+    imdb_award: 
+      winning: true
+      event_id: ev0000123
+      event_year: all
+      award_filter: BAFTA Film Award
+      category_filter: 
+      - Best Film
+      - Outstanding British Film of the Year
+      - Best Film not in the English Language
+      - Best Animated Feature Film
+      - Best Documentary
+      - Best British Short Film
+      - Best British Short Animation
+      - Best Animated Film
+      - Best Documentary Film
+      - Best Short Animation
+      - Best Short Film
+      - Best Animated Short Film
+      - Best Short Factual Film
+      - Best Short Fictional Film
+      - Best British Film
+      - Best Film from any Source
+    visible_library: true
+    visible_shared: false
+    visible_home: false
+
   Berlinale Winners (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Berlinale.png
     sort_title: 03-Awards Berlinale
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: https://letterboxd.com/moviewithus/list/berlin-film-festival-winners/by/name/
-    
-  Cannes Film Festival Winners (UHD):
+    imdb_award: 
+      winning: true
+      event_id: ev0000091
+      event_year: all
+      award_filter: 
+      - Golden Berlin Bear
+      - Silver Berlin Bear
+      - Bronze Berlin Bear
+      category_filter: 
+      - Best Film
+      - Best Short Film
+      - Grand Jury Prize
+      - Jury Prize
+      - Jury Prize - Short Film
+      - Jury Grand Prix
+      - Special Jury Prize
+      - Short Film
+      - Special Prize of the Jury
+      - Best Feature-Length Documentary
+      - Special Prize - Best Comedy
+      - Special Prize - Short Film
+      - Best Comedy
+      - Best Crime or Adventure
+      - Best Documentary
+      - Best Drama
+      - Best Musical
+    visible_library: true
+    visible_shared: false
+    visible_home: false
+
+  Cannes Winners (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Cannes.png
     sort_title: 03-Awards Cannes
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: 
-    - https://letterboxd.com/moviewithus/list/cannes-winners/by/name/
-    - https://letterboxd.com/deepbluefunk/list/short-film-winners-cannes/by/name/
-    
-  Emmy Winners (UHD):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
-    sort_title: 03-Awards Emmy
+    imdb_award: 
+      winning: true
+      event_id: ev0000147
+      event_year: all
+      award_filter: 
+      - Palme d'Or
+      - Grand Prize of the Festival
+      - Jury Prize
+      - Palme d'Or - Best Short Film
+      - Grand Prize of the Jury
+      - Jury Special Prize
+    visible_library: true
+    visible_shared: false
+    visible_home: false
+
+  Critics Choice Award Winners (UHD):
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Critics%20Choice%20Awards.png
+    sort_title: 03-Awards Critics Choice Award
     collection_order: title.asc
     sync_mode: sync
-    imdb_search:
-      type: movie, tv_movie, short
-      event.winning: emmy
-      sort_by: title.asc
-      limit: 3000
-    
-  European Film Award Winners (UHD):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/European%20Film%20Awards.png
-    sort_title: 03-Awards European Film Awards
+    imdb_award: 
+      winning: true
+      event_id: ev0000133
+      event_year: all
+      award_filter: Critics Choice Award
+      category_filter: 
+      - Best Picture
+      - Best Foreign Language Film
+      - Best Comedy Movie
+      - Best Movie Made for Television
+      - Best Animated Feature
+      - Best Action Movie
+      - Best Comedy
+      - Best Sci-Fi/Horror Movie
+      - Best Documentary Feature
+      - Best Family Film (Live Action)
+      - Best Foreign-Language Film
+      - Best Popular Movie
+      - Best Animated Film
+      - Best Family Film
+      - Best Feature Documentary
+      - Best Documentary
+    visible_library: true
+    visible_shared: false
+    visible_home: false
+
+  Filmfare Award Winners (UHD):
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Filmfare.png
+    sort_title: 03-Awards Filmfare
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: 
-    - https://letterboxd.com/ra_pha/list/european-film-awards/by/name/
-    - https://letterboxd.com/reysol/list/european-film-award-for-best-film-1988-2021/by/name/
-    - https://letterboxd.com/moviedoc/list/european-film-award-best-documentary-winners/by/name/
-    - https://letterboxd.com/moviedoc/list/european-film-award-best-animated-feature/by/name/
-    - https://letterboxd.com/moviedoc/list/european-film-award-best-comedy-winners-2013/by/name/
-    - https://letterboxd.com/moviedoc/list/european-film-awards-best-film-winners-1988/by/name/
-    
+    imdb_award: 
+      winning: true
+      event_id: ev0000245
+      event_year: all
+      award_filter: 
+      - Filmfare Award
+      - Critics' Awards
+      category_filter: 
+      - Best Film
+      - Best Film - Critics
+    visible_library: true
+    visible_shared: false
+    visible_home: false
+
   Golden Globe Winners (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
-    sort_title: 03-Awards Golden Globes
+    sort_title: 03-Awards Golden Globe
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: https://letterboxd.com/jonny5244/list/golden-globe-winners/by/name/
-    
-  Locarno Film Festival Winners (UHD):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Locarno%20Film%20Festival.png
-    sort_title: 03-Awards Locarno Film Festival
-    collection_order: title.asc
-    sync_mode: sync
-    letterboxd_list: 
-    - https://letterboxd.com/drwade42/list/golden-leopard-winners-ranked/by/name/
-    - https://letterboxd.com/drwade42/list/locarno-special-jury-prize-winners-ranked/by/name/
-    - https://letterboxd.com/drwade42/list/locarno-best-director-winners-ranked/by/name/
-    - https://letterboxd.com/drwade42/list/locarno-best-actor-winners-ranked/by/name/
-    - https://letterboxd.com/drwade42/list/locarno-best-actress-winners-ranked/by/name/
-    
-  Oscar Winners (UHD):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Ocar.png
-    sort_title: 03-Awards Oscars
-    collection_order: title.asc
-    sync_mode: sync
-    letterboxd_list: https://letterboxd.com/floorman/list/every-oscar-winner-ever-1/by/name/
-    
+    imdb_award: 
+      winning: true
+      event_id: ev0000292
+      event_year: all
+      award_filter: Golden Globe
+      category_filter: 
+      - Best Motion Picture, Drama
+      - Best Motion Picture, Musical or Comedy
+      - Best Motion Picture, Animated
+      - Best Motion Picture, Non-English Language
+      - Best Motion Picture - Animated
+      - Best Motion Picture - Drama
+      - Best Motion Picture - Musical or Comedy
+      - Best Motion Picture - Non-English Language
+      - Best Motion Picture - Foreign Language
+      - Best Foreign Language Film
+      - Best Motion Picture - Comedy or Musical
+      - Best Miniseries or Motion Picture Made for Television
+      - Best Foreign Film
+      - Best Motion Picture Made for Television
+      - Best English-Language Foreign Film
+      - Best Foreign-Language Foreign Film
+      - Best Motion Picture - Comedy
+      - Best Motion Picture - Musical
+      - Best Picture
+    visible_library: true
+    visible_shared: false
+    visible_home: false
+
   Sundance Winners (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Sundance.png
     sort_title: 03-Awards Sundance
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: 
-    - https://letterboxd.com/neperfectionist/list/sundance-film-festival-winners-us-dramatic/by/name/
-    - https://letterboxd.com/deepbluefunk/list/sundance-short-film-winners/by/name/
-    - https://letterboxd.com/glicose/list/winners-of-sundance/by/name/
-    
+    imdb_award: 
+      winning: true
+      event_id: ev0000631
+      event_year: all
+      award_filter: 
+      - Grand Jury Prize
+      - Short Film Grand Jury Prize
+      - Short Film Jury Prize
+      - Special Jury Prize
+      category_filter: 
+      - Documentary
+      - Dramatic
+      - World Cinema - Documentary
+      - World Cinema - Dramatic
+      - Best Short Film
+      - Animation
+      - International Fiction
+      - Non-Fiction
+      - U.S. Fiction
+      - Fiction
+    visible_library: true
+    visible_shared: false
+    visible_home: false
+
   Venice Film Festival Winners (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Venice%20Film%20Festival.png
-    sort_title: 03-Awards Venice Film Festival
+    sort_title: 03-Awards Venice
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: https://letterboxd.com/moviewithus/list/venice-winners/by/name/
+    imdb_award: 
+      winning: true
+      event_id: ev0000681
+      event_year: all
+      award_filter: 
+      - Golden Lion
+    visible_library: true
+    visible_shared: false
+    visible_home: false
