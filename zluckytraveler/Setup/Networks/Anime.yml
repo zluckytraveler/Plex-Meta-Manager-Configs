@@ -12,7 +12,7 @@ collections:
       any:
         studio.is: A-1 Pictures
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -25,7 +25,7 @@ collections:
         studio.is: Adult Swim
         network: Adult Swim
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -38,7 +38,7 @@ collections:
         studio.is: Amazon Prime Video
         network: Amazon
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -51,7 +51,7 @@ collections:
         studio.is: AT-X
         network: AT-X
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -65,7 +65,7 @@ collections:
         - Brain's Base
         - Brain`s Base 
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -77,7 +77,7 @@ collections:
       any:
         studio.is: Diomedea
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -92,7 +92,7 @@ collections:
         - Fuji TV
         network: Fuji TV
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -104,7 +104,7 @@ collections:
       any:
         studio.is: Gainax
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -116,7 +116,7 @@ collections:
       any:
         studio: Gonzo
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -128,7 +128,7 @@ collections:
       any:
         studio.is: J.C.Staff
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -140,7 +140,7 @@ collections:
       any:
         studio.is: Kyoto Animation
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -152,7 +152,7 @@ collections:
       any:
         studio.is: Madhouse
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -164,7 +164,7 @@ collections:
       any:
         studio.is: MAPPA
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -176,7 +176,7 @@ collections:
       any:
         studio.is: MBS
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -189,7 +189,7 @@ collections:
         studio.is: Netflix
         network: Netflix
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -202,7 +202,7 @@ collections:
         studio: NHK
         network: NHK
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -215,7 +215,7 @@ collections:
         studio: Nippon TV
         network: Nippon TV
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -227,7 +227,7 @@ collections:
       any:
         studio.is: P.A. Works
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -241,7 +241,7 @@ collections:
         - Studio Pierrot
         - Pierrot
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -253,7 +253,7 @@ collections:
       any:
         studio.is: Production I.G
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -267,7 +267,7 @@ collections:
         - Shaft
         - SHAFT
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -279,7 +279,7 @@ collections:
       any:
         studio.is: Studio Deen
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -291,7 +291,7 @@ collections:
       any:
         studio.is: Studio Ghibli
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -305,7 +305,7 @@ collections:
         - Sunrise
         - SUNRISE
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -317,7 +317,7 @@ collections:
       any:
         studio: Toei
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -332,7 +332,7 @@ collections:
         - Tokyo Broadcasting System
         - TBS
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -345,7 +345,7 @@ collections:
         studio: Tokyo MX
         network: Tokyo MX
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -357,7 +357,7 @@ collections:
       any:
         studio: TV Asahi
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -370,7 +370,7 @@ collections:
         studio: TV Tokyo
         network: TV Tokyo
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -384,7 +384,7 @@ collections:
         - Ufotable
         - ufotable
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false 
       
@@ -396,7 +396,7 @@ collections:
       any:
         studio.is: White Fox
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -408,7 +408,7 @@ collections:
       any:
         studio.is: Wit Studio
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
       
@@ -421,6 +421,6 @@ collections:
         studio.is: Youtube
         network: Youtube
       validate: false
-      visible_library: true
+      visible_library: false
       visible_shared: false
       visible_home: false
