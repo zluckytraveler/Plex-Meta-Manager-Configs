@@ -42,7 +42,7 @@ collections:
   BAFTA Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
     sort_title: 03-Awards BAFTA
-    collection_order: release.desc
+    collection_order: year.asc
     sync_mode: sync
     imdb_award: 
       winning: true
@@ -73,7 +73,7 @@ collections:
   Berlinale Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Berlinale.png
     sort_title: 03-Awards Berlinale
-    collection_order: release
+    collection_order: release.desc
     sync_mode: sync
     imdb_award: 
       winning: true
@@ -108,7 +108,7 @@ collections:
   Cannes Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Cannes.png
     sort_title: 03-Awards Cannes
-    collection_order: release
+    collection_order: release.asc
     sync_mode: sync
     imdb_award: 
       winning: true
