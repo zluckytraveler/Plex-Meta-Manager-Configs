@@ -125,6 +125,37 @@ collections:
     visible_shared: false
     visible_home: false
 
+  Critics Choice Award Winners:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Critics%20Choice%20Awards.png
+    sort_title: 03-Awards Critics Choice Award
+    collection_order: title.asc
+    sync_mode: sync
+    imdb_award: 
+      winning: true
+      event_id: ev0000133
+      event_year: all
+      award_filter: Critics Choice Award
+      category_filter: 
+      - Best Picture
+      - Best Foreign Language Film
+      - Best Comedy Movie
+      - Best Movie Made for Television
+      - Best Animated Feature
+      - Best Action Movie
+      - Best Comedy
+      - Best Sci-Fi/Horror Movie
+      - Best Documentary Feature
+      - Best Family Film (Live Action)
+      - Best Foreign-Language Film
+      - Best Popular Movie
+      - Best Animated Film
+      - Best Family Film
+      - Best Feature Documentary
+      - Best Documentary
+    visible_library: true
+    visible_shared: false
+    visible_home: false
+
   Filmfare Award Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Filmfare.png
     sort_title: 03-Awards Filmfare
