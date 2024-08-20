@@ -7,7 +7,7 @@ collections:
   Academy Award Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Academy%20Award.png
     sort_title: 03-Awards Academy
-    collection_order: title.asc
+    collection_order: year.desc
     sync_mode: sync
     imdb_award: 
       winning: true
@@ -42,7 +42,7 @@ collections:
   BAFTA Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
     sort_title: 03-Awards BAFTA
-    collection_order: title.asc
+    collection_order: year.desc
     sync_mode: sync
     imdb_award: 
       winning: true
@@ -73,7 +73,7 @@ collections:
   Berlinale Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Berlinale.png
     sort_title: 03-Awards Berlinale
-    collection_order: title.asc
+    collection_order: year.desc
     sync_mode: sync
     imdb_award: 
       winning: true
@@ -108,7 +108,7 @@ collections:
   Cannes Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Cannes.png
     sort_title: 03-Awards Cannes
-    collection_order: title.asc
+    collection_order: year.desc
     sync_mode: sync
     imdb_award: 
       winning: true
@@ -128,7 +128,7 @@ collections:
   Critics Choice Award Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Critics%20Choice%20Awards.png
     sort_title: 03-Awards Critics Choice Award
-    collection_order: title.asc
+    collection_order: year.desc
     sync_mode: sync
     imdb_award: 
       winning: true
@@ -159,7 +159,7 @@ collections:
   Filmfare Award Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Filmfare.png
     sort_title: 03-Awards Filmfare
-    collection_order: title.asc
+    collection_order: year.desc
     sync_mode: sync
     imdb_award: 
       winning: true
@@ -178,7 +178,7 @@ collections:
   Golden Globe Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
     sort_title: 03-Awards Golden Globe
-    collection_order: title.asc
+    collection_order: year.desc
     sync_mode: sync
     imdb_award: 
       winning: true
@@ -212,7 +212,7 @@ collections:
   Sundance Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Sundance.png
     sort_title: 03-Awards Sundance
-    collection_order: title.asc
+    collection_order: year.desc
     sync_mode: sync
     imdb_award: 
       winning: true
@@ -241,7 +241,7 @@ collections:
   Venice Film Festival Winners (Kids):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Venice%20Film%20Festival.png
     sort_title: 03-Awards Venice
-    collection_order: title.asc
+    collection_order: year.desc
     sync_mode: sync
     imdb_award: 
       winning: true
