@@ -1,12 +1,12 @@
 ######################################################
-#                TRENDING - UHD MOVIES               #
+#              TRENDING - MOVIES (UHD)               #
 ######################################################
 
 
 collections:
   Trending Movies (UHD):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Trending/Trending%20Movies.png
-    sort_title: 01-Trending Movies
+    sort_title: 01-Trending
     collection_order: custom
     sync_mode: sync
     tmdb_trending_daily: 500
