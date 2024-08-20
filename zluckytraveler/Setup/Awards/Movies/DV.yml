@@ -105,7 +105,7 @@ collections:
     visible_shared: false
     visible_home: false
 
-  Cannes Winners (DV):
+  Cannes Film Festival Winners (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Cannes.png
     sort_title: 03-Awards Cannes
     collection_order: year.desc
