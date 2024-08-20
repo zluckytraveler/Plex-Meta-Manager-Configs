@@ -11,7 +11,7 @@ collections:
     sync_mode: sync
     mdblist_list: 
       url: https://mdblist.com/lists/zluckytraveler/apple-tv-original?&sort=title&sortorder=asc
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
     
@@ -22,7 +22,7 @@ collections:
     sync_mode: sync
     mdblist_list: 
       url: https://mdblist.com/lists/zluckytraveler/disney-original?&sort=title&sortorder=asc
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
     
@@ -33,7 +33,7 @@ collections:
     sync_mode: sync
     mdblist_list: 
       url: https://mdblist.com/lists/zluckytraveler/hbo-original?&sort=title&sortorder=asc
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
     
@@ -44,7 +44,7 @@ collections:
     sync_mode: sync
     mdblist_list: 
       url: https://mdblist.com/lists/zluckytraveler/hulu-original?&sort=title&sortorder=asc
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
     
@@ -55,7 +55,7 @@ collections:
     sync_mode: sync
     mdblist_list: 
       url: https://mdblist.com/lists/zluckytraveler/netflix-original?&sort=title&sortorder=asc
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
     
@@ -66,7 +66,7 @@ collections:
     sync_mode: sync
     mdblist_list: 
       url: https://mdblist.com/lists/zluckytraveler/paramount-original?&sort=title&sortorder=asc
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
     
@@ -77,7 +77,7 @@ collections:
     sync_mode: sync
     mdblist_list: 
       url: https://mdblist.com/lists/zluckytraveler/peacock-original?&sort=title&sortorder=asc
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
 
@@ -88,6 +88,6 @@ collections:
     sync_mode: sync
     mdblist_list: 
       url: https://mdblist.com/lists/zluckytraveler/amazon-original?&sort=title&sortorder=asc
-    visible_library: true
+    visible_library: false
     visible_shared: false
     visible_home: false
