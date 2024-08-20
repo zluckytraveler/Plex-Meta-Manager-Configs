@@ -4,81 +4,90 @@
 
 
 collections:
-  Amazon (DV):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
-    sort_title: 06-Amazon
-    collection_order: title.asc
-    sync_mode: sync
-    letterboxd_list: 
-    - https://letterboxd.com/theflarkone/list/amazon-originals/by/name/
-    - https://letterboxd.com/bzeltzer/list/list-of-amazon-prime-video-original-films/by/name/
-    
   Apple TV+ (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Apple%20TV.png
     sort_title: 06-Apple TV+
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: 
-    - https://letterboxd.com/bzeltzer/list/list-of-apple-tv-original-programming/by/name/
-    - https://letterboxd.com/theflarkone/list/apple-tv-originals/by/name/
+    mdblist_list: 
+      url: https://mdblist.com/lists/zluckytraveler/apple-tv-original?&sort=title&sortorder=asc
+    visible_library: true
+    visible_shared: false
+    visible_home: false
     
   Disney+ (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%2B.png
     sort_title: 06-Disney+
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: 
-    - https://letterboxd.com/theflarkone/list/disney-originals/by/name/
-    - https://letterboxd.com/bzeltzer/list/list-of-disney-original-films/by/name/
+    mdblist_list: 
+      url: https://mdblist.com/lists/zluckytraveler/disney-original?&sort=title&sortorder=asc
+    visible_library: true
+    visible_shared: false
+    visible_home: false
     
   HBO (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO.png
     sort_title: 06-HBO
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: 
-    - https://letterboxd.com/jorgemora4/list/hbo-original-films/by/name/
-    - https://letterboxd.com/jorgemora4/list/hbo-original-documentaries/by/name/
-    - https://letterboxd.com/neperfectionist/list/hbo-original-stand-up-comedy-specials/by/name/
-    - https://letterboxd.com/theflarkone/list/hbo-max-originals/by/name/
-    - https://letterboxd.com/bzeltzer/list/list-of-hbo-max-original-programming/by/name/
+    mdblist_list: 
+      url: https://mdblist.com/lists/zluckytraveler/hbo-original?&sort=title&sortorder=asc
+    visible_library: true
+    visible_shared: false
+    visible_home: false
     
   Hulu (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Hulu.png
     sort_title: 06-Hulu
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: 
-    - https://letterboxd.com/theflarkone/list/hulu-originals/by/name/
-    - https://letterboxd.com/bzeltzer/list/list-of-hulu-original-programming/by/name/
+    mdblist_list: 
+      url: https://mdblist.com/lists/zluckytraveler/hulu-original?&sort=title&sortorder=asc
+    visible_library: true
+    visible_shared: false
+    visible_home: false
     
   Netflix (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Netflix.png
     sort_title: 06-Netflix
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: 
-    - https://letterboxd.com/hubes/list/list-of-original-films-distributed-by-netflix/by/name/
-    - https://letterboxd.com/bzeltzer/list/list-of-netflix-original-stand-up-comedy/by/name/
-    - https://letterboxd.com/bzeltzer/list/list-of-netflix-original-films/by/name/
+    mdblist_list: 
+      url: https://mdblist.com/lists/zluckytraveler/netflix-original?&sort=title&sortorder=asc
+    visible_library: true
+    visible_shared: false
+    visible_home: false
     
   Paramount+ (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Paramount.png
     sort_title: 06-Paramount+
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: https://letterboxd.com/bzeltzer/list/list-of-paramount-original-programming/by/name/
+    mdblist_list: 
+      url: https://mdblist.com/lists/zluckytraveler/paramount-original?&sort=title&sortorder=asc
+    visible_library: true
+    visible_shared: false
+    visible_home: false
     
   Peacock (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Peacock.png
     sort_title: 06-Peacock
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: https://letterboxd.com/bzeltzer/list/list-of-peacock-original-programming/by/name/
-    
-  Youtube (DV):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Youtube.png
-    sort_title: 06-Youtube
+    mdblist_list: 
+      url: https://mdblist.com/lists/zluckytraveler/peacock-original?&sort=title&sortorder=asc
+    visible_library: true
+    visible_shared: false
+    visible_home: false
+
+  Prime Video (DV):
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
+    sort_title: 06-Prime Video
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: https://letterboxd.com/bzeltzer/list/list-of-youtube-premium-original-programming/by/name/
+    mdblist_list: 
+      url: https://mdblist.com/lists/zluckytraveler/amazon-original?&sort=title&sortorder=asc
+    visible_library: true
+    visible_shared: false
+    visible_home: false
