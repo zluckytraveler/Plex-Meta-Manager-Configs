@@ -9,7 +9,9 @@ collections:
     sort_title: 02-Top 100
     collection_order: custom
     sync_mode: sync
-    mal_tv: 500
+    mdblist_list: 
+      url: https://mdblist.com/lists/zluckytraveler/top-100-shows-anime
+      sort_by: score.desc
     limit: 100
     visible_library: true
     visible_shared: false
