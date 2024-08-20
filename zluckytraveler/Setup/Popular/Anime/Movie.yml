@@ -9,9 +9,10 @@ collections:
     sort_title: 01-Popular
     collection_order: custom
     sync_mode: sync
-    mdblist_list:
-      url: https://mdblist.com/lists/zluckytraveler/popular-movies-anime-uq6i02vxxm
-      sort_by: imdbpopular.desc
+    mal_search:
+      type: movie
+      sort_by: popularity.asc
+      limit: 500
     limit: 50
     visible_library: true
     visible_shared: false
