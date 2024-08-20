@@ -14,3 +14,5 @@ collections:
       sort_by: imdbpopular.desc
     limit: 50
     visible_library: true
+    visible_shared: false
+    visible_home: false
