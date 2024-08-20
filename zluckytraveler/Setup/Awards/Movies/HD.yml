@@ -21,6 +21,9 @@ collections:
       - Best Live Action Short Film
       - Best Documentary Short Film
       - Best International Feature Film
+    visible_library: true
+    visible_shared: false
+    visible_home: false
 
   BAFTA Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
@@ -41,6 +44,9 @@ collections:
       - Best British Short Film
       - Best Feature Film
       - Best Feature Film
+  visible_library: true
+    visible_shared: false
+    visible_home: false
 
   Berlinale Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Berlinale.png
@@ -60,6 +66,9 @@ collections:
       - Grand Jury Prize
       - Jury Prize
       - Jury Prize - Short Film
+    visible_library: true
+    visible_shared: false
+    visible_home: false
 
   Cannes Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Cannes.png
@@ -75,6 +84,9 @@ collections:
       - Grand Prize of the Festival
       - Jury Prize
       - Palme d'Or - Best Short Film
+    visible_library: true
+    visible_shared: false
+    visible_home: false
 
   European Film Award Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/European%20Film%20Awards.png
@@ -91,6 +103,9 @@ collections:
       - European Documentary
       - European Film
       - European Short Film
+    visible_library: true
+    visible_shared: false
+    visible_home: false
 
   Filmfare Award Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Filmfare.png
@@ -111,6 +126,9 @@ collections:
       category_filter:
       - Best Film
       - Best Film - Critics
+    visible_library: true
+    visible_shared: false
+    visible_home: false
 
   Golden Globe Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
@@ -127,6 +145,9 @@ collections:
       - Best Motion Picture, Musical or Comedy
       - Best Motion Picture, Animated
       - Best Motion Picture, Non-English Language
+    visible_library: true
+    visible_shared: false
+    visible_home: false
 
   Locarno Film Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Locarno%20Film%20Festival.png
@@ -139,6 +160,9 @@ collections:
       event_year: all
       award_filter: Golden Leopard
       category_filter: Best Film
+    visible_library: true
+    visible_shared: false
+    visible_home: false
 
   Sundance Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Sundance.png
@@ -158,6 +182,9 @@ collections:
       - World Cinema - Documentary
       - World Cinema - Dramatic
       - Best Short Film
+    visible_library: true
+    visible_shared: false
+    visible_home: false
 
   Venice Film Festival Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Venice%20Film%20Festival.png
@@ -174,3 +201,6 @@ collections:
       category_filter: 
       - Best Film
       - Best Short Film
+    visible_library: true
+    visible_shared: false
+    visible_home: false
