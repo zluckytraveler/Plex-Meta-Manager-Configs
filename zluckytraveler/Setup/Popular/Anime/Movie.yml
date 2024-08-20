@@ -4,7 +4,7 @@
 
 
 collections:
-  Popular Movies (Anime):
+  Popular Movies:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Movies.png
     sort_title: 01-Popular
     collection_order: custom
@@ -13,6 +13,17 @@ collections:
       type: movie
       sort_by: popularity.asc
       limit: 500
+    limit: 50
+    visible_library: true
+
+  Popular Movies (Anime):
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Movies.png
+    sort_title: 01-Popular
+    collection_order: custom
+    sync_mode: sync
+    mdblist_list:
+      url: https://mdblist.com/lists/zluckytraveler/popular-movies-anime-uq6i02vxxm
+      sort_by: imdbpopular.desc
     limit: 50
     visible_library: true
     visible_shared: false
