@@ -12,3 +12,5 @@ collections:
     mal_tv: 500
     limit: 100
     visible_library: true
+    visible_shared: false
+    visible_home: false
