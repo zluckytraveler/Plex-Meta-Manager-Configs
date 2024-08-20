@@ -14,6 +14,10 @@ collections:
         - ar
         - ur
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
+
       
   Bangla:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Bangla-Bengali.png
@@ -23,6 +27,9 @@ collections:
       any:
         audio_language: bn
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Chinese:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Chinese-China.png
@@ -36,6 +43,9 @@ collections:
         - dz
         - mn
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Czech:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Czech-Czech%20Republic.png
@@ -45,6 +55,9 @@ collections:
       any:
         audio_language: cs
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Danish:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Danish-Denmark.png
@@ -54,6 +67,9 @@ collections:
       any:
         audio_language: da
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Dutch:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Dutch-Netherlands.png
@@ -63,6 +79,9 @@ collections:
       any:
         audio_language: nl
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Estonian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Estonian-Estonia.png
@@ -72,6 +91,9 @@ collections:
       any:
         audio_language: et
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Filipino:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Filipino-Phillipines.png
@@ -85,6 +107,9 @@ collections:
         - ceb
         - phi
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Finnish:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Finnish-Finland.png
@@ -94,6 +119,9 @@ collections:
       any:
         audio_language: fi
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   French:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/French-France.png
@@ -103,6 +131,9 @@ collections:
       any:
         audio_language: fr
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   German:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/German-Germany.png
@@ -112,6 +143,9 @@ collections:
       any:
         audio_language: de
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Greek:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Greek-Greece.png
@@ -123,6 +157,9 @@ collections:
         - el
         - grc
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Hebrew:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Hebrew-Israel.png
@@ -134,6 +171,9 @@ collections:
         - he
         - iw
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Hungarian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Hungarian-Hungary.png
@@ -143,6 +183,9 @@ collections:
       any:
         audio_language: hu
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Icelandic:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Icelandic-Iceland.png
@@ -152,6 +195,9 @@ collections:
       any:
         audio_language: is
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Indian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Indian-India.png
@@ -169,6 +215,9 @@ collections:
         - as
         - kn
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Indonesian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Indonesian-Indonesia.png
@@ -178,6 +227,9 @@ collections:
       any:
         audio_language: id
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Italian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Italian-Italy.png
@@ -187,6 +239,9 @@ collections:
       any:
         audio_language: it
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Japanese:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Japanese-Japan.png
@@ -196,6 +251,9 @@ collections:
       any:
         audio_language: ja
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Korean:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Korean-South%20Korea.png
@@ -205,6 +263,9 @@ collections:
       any:
         audio_language: ko
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Latvian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Latvian-Latvia.png
@@ -214,6 +275,9 @@ collections:
       any:
         audio_language: lv
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Malaysian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Malay-Malaysian.png
@@ -223,6 +287,9 @@ collections:
       any:
         audio_language: ms
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Norwegian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Norwegian-Norway.png
@@ -235,6 +302,9 @@ collections:
         - nb
         - nn
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Persian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Persian-Iran.png
@@ -247,6 +317,9 @@ collections:
         - ku
         - ps
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Polish:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Polish-Poland.png
@@ -256,6 +329,9 @@ collections:
       any:
         audio_language: pl
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Portuguese: 
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Portuguese-Portugal.png
@@ -267,6 +343,9 @@ collections:
         - pt
         - pt-BR
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Punjabi:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Punjabi-Pakistan.png
@@ -276,6 +355,9 @@ collections:
       any:
         audio_language: pa
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Romanian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Romanian-Romania.png
@@ -285,6 +367,9 @@ collections:
       any:
         audio_language: ro
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Russian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Russian-Russia.png
@@ -294,6 +379,9 @@ collections:
       any:
         audio_language: ru
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Serbian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Serbian-Serbia.png
@@ -303,6 +391,9 @@ collections:
       any:
         audio_language: sr
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Spanish:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Spanish-Spain.png
@@ -314,6 +405,9 @@ collections:
         - es
         - gl
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Swedish:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Swedish-Sweden.png
@@ -323,6 +417,9 @@ collections:
       any:
         audio_language: sv
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Thai:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Thai-Thailand.png
@@ -332,6 +429,9 @@ collections:
       any:
         audio_language: th
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Turkish:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Turkish-Turkey.png
@@ -341,6 +441,9 @@ collections:
       any:
         audio_language: tr
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
       
   Vietnamese:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Vietnamese-Vietnam.png
@@ -350,3 +453,6 @@ collections:
       any:
         audio_language: vi
       validate: false
+      visible_library: true
+      visible_shared: false
+      visible_home: false
