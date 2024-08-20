@@ -2,14 +2,13 @@
 #                   AWARDS -  MOVIES                 #
 ######################################################
 
-
 collections:
   Academy Award Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Academy%20Award.png
     sort_title: 03-Awards Academy
     collection_order: title.asc
     sync_mode: sync
-    imdb_award: 
+    imdb_award:
       winning: true
       event_id: ev0000003
       event_year: all
@@ -93,7 +92,7 @@ collections:
       - European Film
       - European Short Film
 
-Filmfare Award Winners:
+  Filmfare Award Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Filmfare.png
     sort_title: 03-Awards Filmfare
     collection_order: title.asc
