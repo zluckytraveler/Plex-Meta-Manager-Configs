@@ -4,15 +4,6 @@
 
 
 collections:
-  Top 100 Movies:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Top%20100/Top%20100.png
-    sort_title: 02-Top 100
-    collection_order: custom
-    sync_mode: sync
-    mal_movie: 500
-    limit: 100
-    visible_library: true
-
   Top 100 Movies (Anime):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Top%20100/Top%20100.png
     sort_title: 02-Top 100
