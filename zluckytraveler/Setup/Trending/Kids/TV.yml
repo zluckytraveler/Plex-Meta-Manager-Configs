@@ -9,7 +9,7 @@ collections:
     sort_title: 01-Trending
     collection_order: custom
     sync_mode: sync
-    tmdb_trending_daily: 1500
+    tmdb_trending_daily: 3000    
     limit: 50
     visible_library: true
     visible_shared: false
