@@ -22,6 +22,7 @@ collections:
       sort_by: release.desc
       all:
         release: 30
+        title.not: Expedition Files
     visible_library: true
     visible_shared: false
     visible_home: false
