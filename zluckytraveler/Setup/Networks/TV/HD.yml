@@ -302,19 +302,6 @@ collections:
       visible_shared: false
       visible_home: false
 
-  MasterClass:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MasterClass.png
-    sort_title: 06-MasterClass
-    smart_filter:
-      sort_by: title.asc
-      any:
-        title: "MasterClass:"
-        network: MasterClass
-      validate: false
-      visible_library: false
-      visible_shared: false
-      visible_home: false
-
   Max:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Max.png
     sort_title: 06-Max
