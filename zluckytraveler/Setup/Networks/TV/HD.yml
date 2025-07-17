@@ -11,8 +11,9 @@ collections:
       any:
         network:
         - A&E
-        - Planète+ A&E
+        - A&E Crime Central
         - A+E Networks UK
+        - Planète+ A&E
       validate: false
       sync_mode: append
       visible_library: false
@@ -56,31 +57,34 @@ collections:
       any:
         network:
         - BBC
-        - BBC HD
-        - BBC News
         - BBC Alba
-        - BBC UKTV
-        - BBC First
-        - BBC Choice
         - BBC America
+        - BBC Brit
+        - BBC Choice
+        - BBC First
+        - BBC Four
+        - BBC HD
         - BBC iPlayer
-        - BBC Television
-        - BBC Parliament
-        - CBBC
         - BBC Kids
-        - CBeebies
-        - BBC Scotland
+        - BBC Lifestyle
+        - BBC News
         - BBC Northern Ireland
         - BBC One
-        - BBC One Wale
-        - BBC One Scotland
         - BBC One Northern Ireland
-        - BBC Two
-        - BBC Two Wales
-        - BBC Two Scotland
-        - BBC Two Northern Ireland
+        - BBC One Scotland
+        - BBC One Wales
+        - BBC Parliament
+        - BBC Scotland
+        - BBC Select
+        - BBC Television
         - BBC Three
-        - BBC Four
+        - BBC Two
+        - BBC Two Northern Ireland
+        - BBC Two Scotland
+        - BBC Two Wales
+        - BBC UKTV
+        - CBBC
+        - CBeebies
       validate: false
       visible_library: false
       visible_shared: false
@@ -148,6 +152,7 @@ collections:
         - Discovery Channel (UK)
         - Discovery UK
         - Discovery Health Channel
+        - Discovery History
         - Discovery Family
         - Discovery Kids
         - Discovery Life
@@ -345,6 +350,7 @@ collections:
         - MTV Latin America
         - MTV Lebanon
         - MTV2
+        - MTV3
       validate: false
       visible_library: false
       visible_shared: false
@@ -441,6 +447,7 @@ collections:
       any:
         network:
         - Sky
+        - Sky 3D
         - Sky Arts
         - Sky Atlantic
         - "Sky Atlantic "
