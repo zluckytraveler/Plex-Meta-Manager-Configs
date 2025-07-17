@@ -43,7 +43,7 @@ collections:
       any:
         network:
         - Apple TV+
-        - Apple Music
+        - Apple Music 
       validate: false
       visible_library: false
       visible_shared: false
