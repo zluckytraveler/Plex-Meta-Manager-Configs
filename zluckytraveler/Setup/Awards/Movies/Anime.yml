@@ -186,9 +186,9 @@ collections:
       event_year: all
       award_filter: Golden Globe
       category_filter: 
+      - Best Animated Feature Film
+      - Best Animated Film
       - Best Motion Picture, Musical or Comedy
-      - Best Motion Picture, Animated
-      - Best Motion Picture, Non-English Language
       - Best Motion Picture - Animated
       - Best Motion Picture - Drama
       - Best Motion Picture - Musical or Comedy
