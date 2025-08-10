@@ -186,7 +186,7 @@ collections:
       event_year: all
       award_filter: Golden Globe
       category_filter: 
-      - Best Motion Picture, Drama
+      - Best Motion Picture
       - Best Motion Picture, Musical or Comedy
       - Best Motion Picture, Animated
       - Best Motion Picture, Non-English Language
