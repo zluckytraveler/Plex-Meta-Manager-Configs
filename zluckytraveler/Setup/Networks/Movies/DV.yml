@@ -4,90 +4,14 @@
 
 
 collections:
-  Apple TV+ (DV):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Apple%20TV.png
-    sort_title: 06-Apple TV+
-    collection_order: title.asc
-    sync_mode: sync
-    mdblist_list: 
-      url: https://mdblist.com/lists/zluckytraveler/apple-tv-original?&sort=title&sortorder=asc
-    visible_library: false
-    visible_shared: false
-    visible_home: false
-    
-  Disney+ (DV):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%2B.png
-    sort_title: 06-Disney+
-    collection_order: title.asc
-    sync_mode: sync
-    mdblist_list: 
-      url: https://mdblist.com/lists/zluckytraveler/disney-original?&sort=title&sortorder=asc
-    visible_library: false
-    visible_shared: false
-    visible_home: false
-    
-  HBO (DV):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO.png
-    sort_title: 06-HBO
-    collection_order: title.asc
-    sync_mode: sync
-    mdblist_list: 
-      url: https://mdblist.com/lists/zluckytraveler/hbo-original?&sort=title&sortorder=asc
-    visible_library: false
-    visible_shared: false
-    visible_home: false
-    
-  Hulu (DV):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Hulu.png
-    sort_title: 06-Hulu
-    collection_order: title.asc
-    sync_mode: sync
-    mdblist_list: 
-      url: https://mdblist.com/lists/zluckytraveler/hulu-original?&sort=title&sortorder=asc
-    visible_library: false
-    visible_shared: false
-    visible_home: false
-    
-  Netflix (DV):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Netflix.png
-    sort_title: 06-Netflix
-    collection_order: title.asc
-    sync_mode: sync
-    mdblist_list: 
-      url: https://mdblist.com/lists/zluckytraveler/netflix-original?&sort=title&sortorder=asc
-    visible_library: false
-    visible_shared: false
-    visible_home: false
-    
-  Paramount+ (DV):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Paramount.png
-    sort_title: 06-Paramount+
-    collection_order: title.asc
-    sync_mode: sync
-    mdblist_list: 
-      url: https://mdblist.com/lists/zluckytraveler/paramount-original?&sort=title&sortorder=asc
-    visible_library: false
-    visible_shared: false
-    visible_home: false
-    
-  Peacock (DV):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Peacock.png
-    sort_title: 06-Peacock
-    collection_order: title.asc
-    sync_mode: sync
-    mdblist_list: 
-      url: https://mdblist.com/lists/zluckytraveler/peacock-original?&sort=title&sortorder=asc
-    visible_library: false
-    visible_shared: false
-    visible_home: false
-
   Prime Video (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
     sort_title: 06-Prime Video
     collection_order: title.asc
     sync_mode: sync
     mdblist_list: 
-      url: https://mdblist.com/lists/zluckytraveler/amazon-original?&sort=title&sortorder=asc
+      url: https://mdblist.com/lists/zluckytraveler/amazon-original-vi04xj89co
+      limit: 1000
     visible_library: false
     visible_shared: false
     visible_home: false
