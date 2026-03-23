@@ -10,7 +10,7 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     mdblist_list: 
-      url: https://mdblist.com/lists/zluckytraveler/netflix-original
+      url: https://mdblist.com/lists/zluckytraveler/netflix-original-ap3fioa5xk
       limit: 5000
     visible_library: false
     visible_shared: false
