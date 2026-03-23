@@ -9,7 +9,9 @@ collections:
     sort_title: 06-Netflix
     collection_order: title.asc
     sync_mode: sync
-    trakt_list: https://trakt.tv/users/zluckytraveler/lists/netflix-original
+    mdblist_list: 
+      url: https://mdblist.com/lists/zluckytraveler/netflix-original
+      limit: 5000
     visible_library: false
     visible_shared: false
     visible_home: false
