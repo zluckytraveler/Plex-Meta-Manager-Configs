@@ -11,7 +11,6 @@ collections:
     sync_mode: sync
     trakt_list:
       url: https://trakt.tv/users/zluckytraveler/lists/netflix-original
-      limit: 5000
     visible_library: false
     visible_shared: false
     visible_home: false
