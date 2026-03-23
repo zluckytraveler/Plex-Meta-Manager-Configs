@@ -4,7 +4,7 @@
 
 
 collections:
-    Apple TV+ (DV):
+  Apple TV+ (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Apple%20TV.png
     sort_title: 06-Apple TV+
     collection_order: title.asc
