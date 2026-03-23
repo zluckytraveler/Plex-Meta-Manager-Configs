@@ -9,8 +9,7 @@ collections:
     sort_title: 06-Netflix
     collection_order: title.asc
     sync_mode: sync
-    trakt_list:
-      url: https://trakt.tv/users/zluckytraveler/lists/netflix-original
+    trakt_list: https://trakt.tv/users/zluckytraveler/lists/netflix-original
     visible_library: false
     visible_shared: false
     visible_home: false
