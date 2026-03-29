@@ -11,7 +11,7 @@ collections:
     sync_mode: sync
     mdblist_list: 
       url: https://mdblist.com/lists/zluckytraveler/top-100-movies-hduhddv
-      sort_by: score.desc
+      sort_by: score.asc
     limit: 100
     visible_library: true
     visible_shared: false
