@@ -42,6 +42,7 @@ collections:
       sort_by: title.asc
       any:
         network:
+        - Apple TV
         - Apple TV+
         - Apple Music
       validate: false
@@ -132,6 +133,7 @@ collections:
         network: 
         - Channel 5
         - Channel 5 (UK)
+        - Channel 5 (SG)
       validate: false
       visible_library: false
       visible_shared: false
