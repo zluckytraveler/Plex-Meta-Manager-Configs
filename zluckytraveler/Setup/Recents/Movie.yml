@@ -16,7 +16,6 @@ collections:
     visible_shared: false
     visible_library: true
     
-        
   Recently Released:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Recently/Recently%20Released.png
     sort_title: 00-Recently Released
