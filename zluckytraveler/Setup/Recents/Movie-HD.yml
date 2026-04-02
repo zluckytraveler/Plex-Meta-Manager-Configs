@@ -10,8 +10,8 @@ collections:
     smart_filter:
       sort_by: added.desc
       all:
-        title.not: Small Time Crooks
         added: 7
+        title.not: Small Time Crooks
     visible_home: true
     visible_shared: true
     visible_library: true
