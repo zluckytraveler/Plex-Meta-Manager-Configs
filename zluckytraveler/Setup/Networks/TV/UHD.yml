@@ -125,7 +125,7 @@ collections:
       visible_home: false
 
   Channel 5 (UHD):
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%205.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%205%202.png
     sort_title: 06-Channel 5
     smart_filter:
       sort_by: title.asc
