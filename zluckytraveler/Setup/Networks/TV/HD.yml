@@ -131,6 +131,10 @@ collections:
       sort_by: title.asc
       any:
         network: 
+         - "5"
+        - 5Star
+        - 5USA
+        - 5 (Online)
         - Channel 5
         - Channel 5 (UK)
         - Channel 5 (SG)
@@ -167,6 +171,7 @@ collections:
         - Discovery+ (UK)
         - Discovery+ (NO)
         - Discovery Networks International
+        - Discovery Home & Health
       validate: false
       visible_library: false
       visible_shared: false
@@ -222,10 +227,12 @@ collections:
         - HBO
         - HBO Asia
         - HBO Brazil
+        - HBO Brasil
         - HBO Canada
         - HBO España
         - HBO Europe
         - HBO Nordic
+        - HBO Latino
         - HBO Latin America
         - HBO Go
       validate: false
@@ -233,6 +240,20 @@ collections:
       visible_shared: false
       visible_home: false
 
+  HBO Max:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO%20Max%204.png
+    sort_title: 06-HBO Max
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - Max
+        - HBO Max
+      validate: false
+      visible_library: false
+      visible_shared: false
+      visible_home: false
+      
   HGTV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HGTV.png
     sort_title: 06-HGTV
@@ -294,9 +315,11 @@ collections:
         network:
         - CITV
         - ITV Play
+        - ITV Player
         - ITV Select
         - ITV Encore
         - ITV Studios
+        - ITV Yorkshire
         - ITV1
         - ITV2
         - ITV3
@@ -304,20 +327,6 @@ collections:
         - ITVBe
         - ITVX
         - STV
-      validate: false
-      visible_library: false
-      visible_shared: false
-      visible_home: false
-
-  Max:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Max.png
-    sort_title: 06-Max
-    smart_filter:
-      sort_by: title.asc
-      any:
-        network:
-        - Max
-        - HBO Max
       validate: false
       visible_library: false
       visible_shared: false
@@ -348,7 +357,9 @@ collections:
         - MTV (UK)
         - MTV Canada
         - MTV France
+        - MTV Italia
         - MTV Global
+        - MTV Katsomo
         - MTV Latin America
         - MTV Lebanon
         - MTV2
@@ -424,6 +435,8 @@ collections:
         - Amazon
         - Amazon Freevee
         - Prime Video
+        - Amazon miniTV
+        - Amazon MX Player
       validate: false
       visible_library: false
       visible_shared: false
@@ -435,7 +448,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        network: Showtime
+        network: 
+        - Showtime
+        - Paramount+ with Showtime
       validate: false
       visible_library: false
       visible_shared: false
@@ -460,6 +475,7 @@ collections:
         - Sky Documentaries
         - Sky History
         - Sky History 2
+        - Sky Italia
         - Sky Kids
         - Sky Living
         - Sky Max
@@ -470,10 +486,12 @@ collections:
         - Sky One
         - Sky Replay
         - Sky Sci-Fi
+        - Sky Serie
         - Sky Showcase
         - Sky Sports
         - Sky Sports F1
-        - Sky TWo
+        - Sky Two
+        - Sky Uno
         - Sky Witness
       validate: false
       visible_library: false
@@ -506,6 +524,20 @@ collections:
       visible_shared: false
       visible_home: false
 
+  TBS:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TBS%202.png
+    sort_title: 06-TBS
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - TBS
+        - TBS.com
+      validate: false
+      visible_library: false
+      visible_shared: false
+      visible_home: false
+      
   TLC:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TLC.png
     sort_title: 06-TLC
@@ -516,6 +548,36 @@ collections:
         - TLC
         - TLC Go
         - TLC UK
+      validate: false
+      visible_library: false
+      visible_shared: false
+      visible_home: false
+
+  TNT:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TNT.png
+    sort_title: 06-TNT
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - TNT
+        - TNT Serie
+        - TNT Sports
+        - TNT España
+      validate: false
+      visible_library: false
+      visible_shared: false
+      visible_home: false
+
+  USA:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/USA.png
+    sort_title: 06-USA
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: 
+        - USA Network
+        - USA Network (CA)
       validate: false
       visible_library: false
       visible_shared: false
