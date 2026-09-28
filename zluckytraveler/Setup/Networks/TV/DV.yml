@@ -242,7 +242,7 @@ collections:
 
   HBO Max (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO%20Max%204.png
-    sort_title: 06-Max
+    sort_title: 06-HBO Max
     smart_filter:
       sort_by: title.asc
       any:
@@ -537,6 +537,20 @@ collections:
       visible_shared: false
       visible_home: false
 
+  TBS (DV):
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TBS%202.png
+    sort_title: 06-TBS
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - TBS
+        - TBS.com
+      validate: false
+      visible_library: false
+      visible_shared: false
+      visible_home: false
+      
   TLC (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TLC.png
     sort_title: 06-TLC
@@ -552,6 +566,36 @@ collections:
       visible_shared: false
       visible_home: false
 
+  TNT (DV):
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TNT.png
+    sort_title: 06-TNT
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - TNT
+        - TNT Serie
+        - TNT Sports
+        - TNT España
+      validate: false
+      visible_library: false
+      visible_shared: false
+      visible_home: false
+
+  USA (DV):
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/USA.png
+    sort_title: 06-USA
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: 
+        - USA Network
+        - USA Network (CA)
+      validate: false
+      visible_library: false
+      visible_shared: false
+      visible_home: false
+      
   Vice (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Vice.png
     sort_title: 06-Vice
