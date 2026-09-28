@@ -35,9 +35,9 @@ collections:
       visible_shared: false
       visible_home: false
 
-  Apple TV+:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Apple%20TV.png
-    sort_title: 06-Apple TV+
+  Apple TV:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Apple%20TV%202.png
+    sort_title: 06-Apple TV
     smart_filter: 
       sort_by: title.asc
       any:
