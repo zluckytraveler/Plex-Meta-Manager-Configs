@@ -131,7 +131,7 @@ collections:
       sort_by: title.asc
       any:
         network: 
-         - "5"
+        - "5"
         - 5Star
         - 5USA
         - 5 (Online)
