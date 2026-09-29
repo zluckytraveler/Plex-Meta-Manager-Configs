@@ -243,8 +243,11 @@ collections:
         - Fox Family
         - Fox Kids
         - Fox Nation
+        - Fox Brasil
+        - Fox España
         - Fox News Channel
         - Fox Reality Channel
+        - Fox Premium Series
       validate: false
       visible_library: false
       visible_shared: false
