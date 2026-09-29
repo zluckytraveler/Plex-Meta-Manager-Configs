@@ -20,6 +20,21 @@ collections:
       visible_shared: false
       visible_home: false
 
+  ABC (DV):
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ABC%201.png
+    sort_title: 06-ABC
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - ABC
+        - ABC (US)
+        - ABC.com
+      validate: false
+      visible_library: false
+      visible_shared: false
+      visible_home: false
+      
   AMC (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/AMC%202.png
     sort_title: 06-AMC
@@ -105,6 +120,20 @@ collections:
       visible_shared: false
       visible_home: false
 
+  CBS (DV):
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/CBS%201.png
+    sort_title: 06-CBS
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - CBS
+        - CBS Reality
+      validate: false
+      visible_library: false
+      visible_shared: false
+      visible_home: false
+      
   Channel 4 (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%204%202.png
     sort_title: 06-Channel 4
@@ -203,6 +232,24 @@ collections:
       visible_shared: false
       visible_home: false
 
+  FOX (DV):
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/FOX%201.png
+    sort_title: 06-FOX
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - FOX
+        - Fox Family
+        - Fox Kids
+        - Fox Nation
+        - Fox News Channel
+        - Fox Reality Channel
+      validate: false
+      visible_library: false
+      visible_shared: false
+      visible_home: false
+      
   FX (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/FX.png
     sort_title: 06-FX
@@ -399,6 +446,21 @@ collections:
       visible_shared: false
       visible_home: false
 
+  NBC (DV):
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/NBC%201.png
+    sort_title: 06-NBC
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network:
+        - NBC
+        - CNBC
+        - NBCSN
+      validate: false
+      visible_library: false
+      visible_shared: false
+      visible_home: false
+      
   Netflix (DV):
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Netflix.png
     sort_title: 06-Netflix
